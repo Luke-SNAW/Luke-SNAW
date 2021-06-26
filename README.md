@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [Gists](https://gist.github.com/Luke-SNAW)
+### 📝 [Gists](https://gist.github.com/Luke-SNAW)
 ### 📜 [Journals](https://luke-snaw.github.io/)
 
 <!--
