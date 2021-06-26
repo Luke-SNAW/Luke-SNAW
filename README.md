@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 📜[Take a look my journal](https://luke-snaw.github.io/)
+### [Gists](https://gist.github.com/Luke-SNAW)
+### 📜 [Journals](https://luke-snaw.github.io/)
 
 <!--
 **Luke-SNAW/Luke-SNAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
