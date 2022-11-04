@@ -10,7 +10,7 @@
 > Focus is more about **not** keeping busy when you need to wait for something.  
 > Eat the boredom for a minute.
 >
-> — [life-tips#nsoonhui](https://luke-snaw.github.io/notes/ettkt3iClONnxpbGwBVLl/#nsoonhui)
+> — [life-tips#wodenokoto](https://luke-snaw.github.io/notes/ettkt3iClONnxpbGwBVLl/#wodenokoto)
 
 ---
 
