@@ -16,6 +16,10 @@
 
 ### What I read in Week 44, 2022
 
+What I read in Week 44, 2022
+
+- [Static typing helps, but only a little.](https://buildtogether.tech/tooling/)
+  - A [statically-typed](https://buildtogether.tech/glossary/#static_typing) language like Java requires programmers to specify the data type of each variable; a [dynamically-typed](https://buildtogether.tech/glossary/#dynamic_typing) one like Python doesn't require them, though you can add them if you want, while TypeScript adds types as a layer on top of JavaScript. \[[Endrikat2014](https://buildtogether.tech/bibliography/#Endrikat2014)\] found that declaring types does add complexity to programs, but it pays off fairly quickly by acting as documentation and by making [auto-completion](https://buildtogether.tech/glossary/#auto_completion) more accurate.
 - [NEW: Build responsive Figma-to-React components with almost no code](https://aws.amazon.com/ko/blogs/mobile/new-build-responsive-figma-to-react-components-with-almost-no-code/)
 - [Docusaurus 2.2](https://docusaurus.io/blog/releases/2.2)
   - I prefer dendron.
@@ -34,6 +38,7 @@
 - [Markdoc](https://github.com/markdoc/markdoc) is a [Markdown](https://commonmark.org/)-based syntax and toolchain for creating custom documentation sites and experiences.
 - [Scribe](https://scribehow.com/) - Turn any process into a
   step-by-step guide, instantly.
+- [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 - [Happy DOM](https://github.com/capricorn86/happy-dom) is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/).
   - The goal of [Happy DOM](https://github.com/capricorn86/happy-dom) is to emulate enough of a web browser to be useful for testing, scraping web sites and server-side rendering.
   - [Happy DOM](https://github.com/capricorn86/happy-dom) focuses heavily on performance and can be used as an alternative to [JSDOM](https://github.com/jsdom/jsdom).
