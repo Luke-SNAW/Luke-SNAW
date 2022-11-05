@@ -1,4 +1,4 @@
-### Hi there 👋. I'm a Front-end Engineer.
+### Hi there 👋. I'm a Front-end developer.
 ### 🌱 [Dendron](https://luke-snaw.github.io/)
 
 ---
@@ -16,6 +16,11 @@
 
 ### What I read in Week 44, 2022
 
+- [Cracker test to find out the characteristics of diabetic obese people in 30 seconds](https://youtu.be/-W7qjQItBPw)
+- [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero/blob/main/manuscript-en/README.md)
+- [Icebreakers You Can Steal For a Better Meeting (I Promise)](https://betterhumans.pub/icebreakers-you-can-steal-for-a-better-meeting-i-promise-cc259d81bea6)
+- [`<relative-time>` element](https://github.com/github/relative-time-element) - Web component extensions to the standard element. #localization #web-components #timezone #custom-elements
+- [How I Use Slack](https://gpeal.medium.com/how-i-use-slack-b0dbf06d9a18)
 - [Static typing helps, but only a little.](https://buildtogether.tech/tooling/#:~:text=Static%20typing%20helps%2C%20but%20only%20a%20little.)
   - A [statically-typed](https://buildtogether.tech/glossary/#static_typing) language like Java requires programmers to specify the data type of each variable; a [dynamically-typed](https://buildtogether.tech/glossary/#dynamic_typing) one like Python doesn't require them, though you can add them if you want, while TypeScript adds types as a layer on top of JavaScript. \[[Endrikat2014](https://buildtogether.tech/bibliography/#Endrikat2014)\] found that declaring types does add complexity to programs, but it pays off fairly quickly by acting as documentation and by making [auto-completion](https://buildtogether.tech/glossary/#auto_completion) more accurate.
 - [NEW: Build responsive Figma-to-React components with almost no code](https://aws.amazon.com/ko/blogs/mobile/new-build-responsive-figma-to-react-components-with-almost-no-code/)
@@ -71,6 +76,7 @@
 
 ### What I read in past
 
+- [👓 What I Read In](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
 - 📜 [Journals](https://luke-snaw.github.io/Luke-SNAW__netlify-CMS.github.io/)
 
