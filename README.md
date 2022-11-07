@@ -1,5 +1,5 @@
 ### Hi there 👋. I'm a Front-end developer.
-### 🌱 [Dendron](https://luke-snaw.github.io/)
+### 🌱 Personal knowledge management - [Dendron](https://luke-snaw.github.io/)
 
 ---
 
@@ -13,6 +13,29 @@
 > — [life-tips#wodenokoto](https://luke-snaw.github.io/notes/ettkt3iClONnxpbGwBVLl/#wodenokoto)
 
 ---
+
+### Week 45, 2022
+
+- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+  - [Using a self-rewriting README powered by GitHub Actions to track TILs](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/)
+- [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
+  - https://til.simonwillison.net/
+  - 📝 [Today I Learned](https://github.com/jbranchaud/til)
+  - [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9#:~:text=Writing%20daily%20TIL%20posts%20became%20a%20habit%20that%20I%20could%20stick%20with.)
+- [Body Doubling](https://bodydoubling.com/) - It’s merely being in the same room with another person who is having trouble getting things done on their own.
+  - I work better in office. Maybe it works based on this.
+  - https://news.ycombinator.com/item?id=33495310
+  - https://news.ycombinator.com/item?id=33496800
+  - https://en.wikipedia.org/wiki/Social_facilitation
+- [Does anyone else finds AWS and other Amazon services overly complicated?](https://news.ycombinator.com/item?id=33490314)
+  - https://news.ycombinator.com/item?id=33491010 - JAMstack walk-through
+  - https://news.ycombinator.com/item?id=33491658
+  - https://news.ycombinator.com/item?id=33494968
+- [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
+  - https://news.ycombinator.com/item?id=33478392
+- [True Seniority in Software Careers](https://betterprogramming.pub/true-seniority-67b2e01cce81)
+  - [The Senior Shift](https://skamille.medium.com/the-senior-shift-315f56b79d5) - It’s now about your impact, not just your abilities.
+- [Nov 3 2022 Security Releases](https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/)
 
 ### What I read in Week 44, 2022
 
