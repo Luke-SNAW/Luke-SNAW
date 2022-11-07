@@ -24,13 +24,13 @@
   - [How I Built a Learning Machine](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9#:~:text=Writing%20daily%20TIL%20posts%20became%20a%20habit%20that%20I%20could%20stick%20with.)
 - [Body Doubling](https://bodydoubling.com/) - It’s merely being in the same room with another person who is having trouble getting things done on their own.
   - I work better in office. Maybe it works based on this.
-  - https://news.ycombinator.com/item?id=33495310
+  - [I think this is the reason why in-person work environments will be more productive over the longer term for any larger organization. Not saying I’m against remote work, as I actually prefer it myself.](https://news.ycombinator.com/item?id=33495310)
   - https://news.ycombinator.com/item?id=33496800
   - https://en.wikipedia.org/wiki/Social_facilitation
 - [Does anyone else finds AWS and other Amazon services overly complicated?](https://news.ycombinator.com/item?id=33490314)
-  - https://news.ycombinator.com/item?id=33491010 - JAMstack walk-through
-  - https://news.ycombinator.com/item?id=33491658
-  - https://news.ycombinator.com/item?id=33494968
+  - [JAMstack walk-through](https://news.ycombinator.com/item?id=33491010)
+  - [AWS is basically a "construct your own custom infrastructure" service and does that well.](https://news.ycombinator.com/item?id=33491658)
+  - [We have both tried and are unable to figure out how to tie payment info to our AWS organization.](https://news.ycombinator.com/item?id=33494968)
 - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
   - https://news.ycombinator.com/item?id=33478392
 - [True Seniority in Software Careers](https://betterprogramming.pub/true-seniority-67b2e01cce81)
@@ -99,7 +99,7 @@
 
 ### What I read in past
 
-- [👓 What I Read In](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
+- [👓 What I read in](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
 - 📜 [Journals](https://luke-snaw.github.io/Luke-SNAW__netlify-CMS.github.io/)
 
