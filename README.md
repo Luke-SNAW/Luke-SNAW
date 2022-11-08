@@ -16,6 +16,22 @@
 
 ### Week 45, 2022
 
+- [Your Next.js Bundle Will Thank You](https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you) #divops #performance #bundler
+- [Implementing Claymorphism with CSS](https://blog.openreplay.com/implementing-claymorphism-with-css)
+- [Sass — the map-merge pattern](https://medium.com/the-code-less-travelled/sass-the-map-merge-pattern-b948dc518d29)
+- [CONDITIONALLY ADAPTIVE CSS](https://pepelsbey.dev/articles/conditionally-adaptive/)
+  ```html
+  <link rel="stylesheet" href="mobile.css" media="(max-width: 767px)" />
+  <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)" />
+  <link
+    rel="stylesheet"
+    href="animation.css"
+    media="(prefers-reduced-motion: no-preference)"
+  />
+  ```
+  - https://github.com/SassNinja/media-query-plugin
+- [A beginner’s guide to Chrome tracing](https://nolanlawson.com/2022/10/26/a-beginners-guide-to-chrome-tracing/) #performance
+- [CSS Snake & Ladders: a multiplayer game developed in HTML+CSS with no JS](https://codepen.io/alvaromontoro/pen/gjWPNW)
 - [Clean Architecture on Frontend](https://bespoyasov.me/blog/clean-architecture-on-frontend/) #architecture
 - [Domain-centric Architectures (Clean and Hexagonal) for Dummies](https://medium.com/codex/clean-architecture-for-dummies-df6561d42c94) #architecture
 - [Feature-Sliced Design](https://feature-sliced.design/) #architecture
