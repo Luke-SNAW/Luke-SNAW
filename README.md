@@ -16,11 +16,18 @@
 
 ### Week 46, 2022
 
+- [Git Rebase... with Merges?](https://jnielson.com/git-rebase-with-merges)
+- [How I became a better CTO using these 8 resources](https://www.eversql.com/how-i-became-a-better-cto-using-these-8-resources/) #long-term
+- [5 Computer Science Papers That Changed How I Write Code](https://builtin.com/software-engineering-perspectives/5-computer-science-papers-changed-how-write-code) #long-term
+- [My favorite tricks for navigating the Linux terminal faster](https://opensource.com/article/22/11/navigate-linux-terminal-faster)
+- [Vite 3.0 is out!](https://vitejs.dev/blog/announcing-vite3.html)
+  > [SvelteKit](https://kit.svelte.dev/), [Astro](https://astro.build/), [Hydrogen](https://hydrogen.shopify.dev/), and [SolidStart](https://docs.solidjs.com/start) are all built with Vite. [Laravel has now decided to use Vite by default](https://laravel.com/docs/9.x/vite). [Vite Ruby](https://vite-ruby.netlify.app/) shows how Vite can improve Rails DX. [Vitest](https://vitest.dev/) is making strides as a Vite-native alternative to Jest. Vite is behind [Cypress](https://docs.cypress.io/guides/component-testing/writing-your-first-component-test) and [Playwright](https://playwright.dev/docs/test-components)'s new Component Testing features, Storybook has [Vite as an official builder](https://github.com/storybookjs/builder-vite). And [the list goes on](https://patak.dev/vite/ecosystem.html).
+- [How I became a better CTO using these 8 resources](https://www.eversql.com/how-i-became-a-better-cto-using-these-8-resources/)
 - [Solving problems, learning and building new things all day can be very mentally exhausting. Cardio, sports, lifting; helps re-balance the physical with the mental.](https://news.ycombinator.com/item?id=33574491)
 - https://www.qualtrics.com/core-xm/survey-software/ - used by Google play store feedback
 - [Map of the Internet](https://ipv4.dev.sarl/)
 - [Web Automation: Don't Use Selenium, Use Playwright](https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/)
-  - The killer feature of Playwright is: You can [automatically generate tests](https://playwright.dev/python/docs/codegen-intro) by opening a web browser and manually running through the steps you want.
+  > The killer feature of Playwright is: You can [automatically generate tests](https://playwright.dev/python/docs/codegen-intro) by opening a web browser and manually running through the steps you want.
 - [5 websites to learn Frontend-web development faster](https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid)
   - [Keyframes.app](https://keyframes.app/) - It does not only help you to learn through experimenting with CSS animations attributes with real-time visualizer, but also helps you generate cool animations and shadows that best fit your design.
 - 🤖 [TanStack query](https://github.com/TanStack/query) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
