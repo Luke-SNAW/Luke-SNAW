@@ -16,7 +16,7 @@
 
 ### Week 47, 2022
 
-- [Asterisk Magazine](https://asteriskmag.com/) - [site UI](dev.interesting#asterisk-magazine)
+- [Asterisk Magazine](https://asteriskmag.com/) - [site UI](https://luke-snaw.github.io/notes/moi1qs3lz3lg69m5f5fw8xz/#asterisk-magazine)
 - [CSS vs. CSS-in-JS: How and why to use each](https://blog.logrocket.com/css-vs-css-in-js/)
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines) #bookshelf
   - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
