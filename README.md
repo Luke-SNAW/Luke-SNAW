@@ -102,7 +102,7 @@
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
 - 📜 [Journals](https://luke-snaw.github.io/Luke-SNAW__netlify-CMS.github.io/)
 
-### 🧗‍♂️ [What I Struggle In](https://luke-snaw.github.io/notes/6645fjtiqxtko03nuccgjj2/)
+### 🧗‍♂️ [What I Struggled In](https://luke-snaw.github.io/notes/6645fjtiqxtko03nuccgjj2/)
 <!--
 **Luke-SNAW/Luke-SNAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
