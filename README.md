@@ -16,6 +16,16 @@
 
 ### Week 47, 2022
 
+- [“Invalid Username or Password”: a useless security measure](https://kevin.burke.dev/kevin/invalid-username-or-password-useless/)
+- [Two types of equalities in JavaScript](https://www.syncfusion.com/blogs/post/5-different-ways-to-deep-compare-javascript-objects.aspx#:~:text=Two%20types%20of%20equalities%20in%20JavaScript) #terminology
+- ✨ [Viselect](https://github.com/Simonwep/selection) - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop.
+- [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
+  - [headbee](https://news.ycombinator.com/item?id=33721068): I can attest to this and took all of my notes on paper in college. However, once I started a real job I realized that this strategy doesn't scale to all situations. In college, I needed to be able to recall all of the information I had ingested: it was low-write, high-read. In the workplace, there's much more information, but I'm unlikely to need most of it: it's high-write, low-read. I need to be able to reference the information, but not necessarily recall it. Taking paper notes became too much of a burden and I moved to a wiki of markdown notes.
+- [A Poor Man’s API](https://dzone.com/articles/a-poor-mans-api)
+  - [PostgREST](https://postgrest.org/en/stable/index.html) is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
+- [Solving the double (quintuple) declaration Problem in GraphQL Applications: How to not repeat yourself!](https://wundergraph.com/blog/solving_the_double_quintuple_declaration_problem_in_graphql_applications_how_to_not_repeat_yourself)
+- [Why we ditched GraphQL for tRPC](https://echobind.com/post/why-we-ditched-graphql-for-trpc/)
+  - [tRPC](https://github.com/trpc/trpc) allows you to easily build & consume fully typesafe APIs, without schemas or code generation.
 - [Asterisk Magazine](https://asteriskmag.com/) - [site UI](https://luke-snaw.github.io/notes/moi1qs3lz3lg69m5f5fw8xz/#asterisk-magazine)
 - [CSS vs. CSS-in-JS: How and why to use each](https://blog.logrocket.com/css-vs-css-in-js/)
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines) #bookshelf
