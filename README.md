@@ -14,8 +14,18 @@
 
 ---
 
+### Week 48, 2022
+
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
 ### Week 47, 2022
 
+- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) #bookshelf
+- [Everything on Amazon is becoming an ad](https://www.washingtonpost.com/technology/interactive/2022/amazon-shopping-ads/)
+- 📚 [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books #bookshelf
+- [PDF vulnerability](https://news.ycombinator.com/item?id=33732763)
+  - [Dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 - [“Invalid Username or Password”: a useless security measure](https://kevin.burke.dev/kevin/invalid-username-or-password-useless/)
 - [Two types of equalities in JavaScript](https://www.syncfusion.com/blogs/post/5-different-ways-to-deep-compare-javascript-objects.aspx#:~:text=Two%20types%20of%20equalities%20in%20JavaScript) #terminology
 - ✨ [Viselect](https://github.com/Simonwep/selection) - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop.
