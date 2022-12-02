@@ -16,6 +16,16 @@
 
 ## Week 48, 2022
 
+- [Practical React Query by TkDodo](https://tkdodo.eu/blog/practical-react-query) #bookshelf
+- [Hibernate should be to programmers what cake mixes are to bakers](https://vimeo.com/28885655) - This is a talk about the problems of creating convoluted abstractions and how not understanding what happens underneath makes things more complex instead of simplifying them.
+- [The BEST Stretch You're Not Doing!](https://www.youtube.com/shorts/zQWXe7vqk0A)
+  - duration: [30, 60]
+  - sets: [3, 5]
+  - training days: [3, 5]
+- [Can't Do a Push-Up? Here's Where to Start!](https://www.youtube.com/shorts/EDVV0YMkQKQ)
+  - repeat: [5, 12]
+  - sets for week: [10, 20]
+  - training days: [3, 5]
 - [Speeding up the JavaScript ecosystem](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 - [A collection of 88x31 pixel web buttons from the 1990s and 2000s](https://anlucas.neocities.org/88x31Buttons.html)
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
