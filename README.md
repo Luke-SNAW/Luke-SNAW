@@ -14,8 +14,13 @@
 
 ---
 
+## Week 49, 2022
+
+- [Stretch between desk works](https://youtu.be/6Xw-OUcLp4s?t=185)
+
 ## Week 48, 2022
 
+- [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
 - [Practical React Query by TkDodo](https://tkdodo.eu/blog/practical-react-query) #bookshelf
 - [Hibernate should be to programmers what cake mixes are to bakers](https://vimeo.com/28885655) - This is a talk about the problems of creating convoluted abstractions and how not understanding what happens underneath makes things more complex instead of simplifying them.
 - [The BEST Stretch You're Not Doing!](https://www.youtube.com/shorts/zQWXe7vqk0A)
@@ -26,6 +31,10 @@
   - repeat: [5, 12]
   - sets for week: [10, 20]
   - training days: [3, 5]
+- [Front Matter](https://github.com/estruyf/vscode-front-matter) a CMS running straight in Visual Studio Code
+- [Is React going anywhere?](https://www.infoxicator.com/is-react-going-anywhere)
+  - [Aghiles Ait lounis](https://app.daily.dev/posts/kk7qnX1Wi)
+- [As a Front-End Engineer: 8 Useful Npm Coding Techniques That You Should Use](https://javascript.plainenglish.io/as-a-front-end-engineer-8-useful-npm-coding-techniques-that-you-should-use-bc30b8503ba4)
 - [Speeding up the JavaScript ecosystem](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 - [A collection of 88x31 pixel web buttons from the 1990s and 2000s](https://anlucas.neocities.org/88x31Buttons.html)
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
@@ -68,74 +77,13 @@
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
-## Week 47, 2022
-
-- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) #bookshelf
-- [Everything on Amazon is becoming an ad](https://www.washingtonpost.com/technology/interactive/2022/amazon-shopping-ads/)
-- 📚 [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books #bookshelf
-- [PDF vulnerability](https://news.ycombinator.com/item?id=33732763)
-  - [Dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
-- [“Invalid Username or Password”: a useless security measure](https://kevin.burke.dev/kevin/invalid-username-or-password-useless/)
-- [Two types of equalities in JavaScript](https://www.syncfusion.com/blogs/post/5-different-ways-to-deep-compare-javascript-objects.aspx#:~:text=Two%20types%20of%20equalities%20in%20JavaScript) #terminology
-- ✨ [Viselect](https://github.com/Simonwep/selection) - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop.
-- [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
-  - [headbee](https://news.ycombinator.com/item?id=33721068): I can attest to this and took all of my notes on paper in college. However, once I started a real job I realized that this strategy doesn't scale to all situations. In college, I needed to be able to recall all of the information I had ingested: it was low-write, high-read. In the workplace, there's much more information, but I'm unlikely to need most of it: it's high-write, low-read. I need to be able to reference the information, but not necessarily recall it. Taking paper notes became too much of a burden and I moved to a wiki of markdown notes.
-- [A Poor Man’s API](https://dzone.com/articles/a-poor-mans-api)
-  - [PostgREST](https://postgrest.org/en/stable/index.html) is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
-- [Solving the double (quintuple) declaration Problem in GraphQL Applications: How to not repeat yourself!](https://wundergraph.com/blog/solving_the_double_quintuple_declaration_problem_in_graphql_applications_how_to_not_repeat_yourself)
-- [Why we ditched GraphQL for tRPC](https://echobind.com/post/why-we-ditched-graphql-for-trpc/)
-  - [tRPC](https://github.com/trpc/trpc) allows you to easily build & consume fully typesafe APIs, without schemas or code generation.
-- [Asterisk Magazine](https://asteriskmag.com/) - [site UI](https://luke-snaw.github.io/notes/moi1qs3lz3lg69m5f5fw8xz/#asterisk-magazine)
-- [CSS vs. CSS-in-JS: How and why to use each](https://blog.logrocket.com/css-vs-css-in-js/)
-- [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines) #bookshelf
-  - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
-  - [Graph REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md)
-- [Understanding Map and Set in JavaScript](https://www.taniarascia.com/understanding-map-and-set-javascript/)
-- https://text-to-diagram.com/
-- [Why numbering should start at zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
-- [Note: The main difference is that the watchEffect starts instantly while the watch() runs lazily](<https://www.syncfusion.com/blogs/post/vue-composition-api-vs-react-hooks.aspx#:~:text=Note%3A%20The%20main%20difference%20is%20that%20the%20watchEffect%20starts%20instantly%20while%20the%20watch()%20runs%20lazily>)
-- 👑 [GOV.UK Design System](https://design-system.service.gov.uk/) #bookshelf
-  - https://design-system.service.gov.uk/accessibility/ explains how the team works to ensure the Design System and Frontend are accessible.
-  - https://github.com/alphagov/govuk-frontend#readme
-- [Accessibility Solutions](https://a11y-solutions.stevenwoodson.com/) #bookshelf
-- [A Guide To Keyboard Accessibility: JavaScript (Part 2)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/)
-- [How a Rogue Developer Ruined Millions of Software (happened this weekend)](https://medium.com/@anthonyjdella/how-a-rogue-developer-ruined-millions-of-software-happened-this-weekend-8602af1f8e07)
-- [What’s Up With Serverless?](https://medium.com/javascript-scene/whats-up-with-serverless-1b9bfa80f21f)
-- [All About JavaScript Events](https://blog.openreplay.com/all-about-javascript-events/)
-  - **Browser Events** These events occur in the browser [window](https://developer.mozilla.org/en-US/docs/Web/API/Window) rather than the HTML page. Event handlers are bound to the window object, not to the element. E.g., load, error, scroll, resize, etc.
-  - **HTML Events** This is the inverse of the browser event. They are the event that occurs in the [element](https://developer.mozilla.org/en-US/docs/Web/API/Element), and the event handlers are bound to the element. E.g., click, mouseover, mouseenter, etc.
-- [5 takeaways from screen reader usability interviews](https://jessbudd.com/blog/screen-reader-usability-testing-observations/)
-  - Usually when we think of alt text, we think "What is this a picture of?" - but in the case of links where the only content is an image, the alt text needs to describe the function of that link. Not the image itself.
-- [Automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [Yjs](https://github.com/yjs/yjs) is a [CRDT implementation](https://github.com/yjs/yjs#Yjs-CRDT-Algorithm) that exposes its internal data structure as _shared types_. Shared types are common data types like `Map` or `Array` with superpowers: changes are automatically distributed to other peers and merged without merge conflicts.
-- [Named Colors Wheel](https://arantius.github.io/web-color-wheel/)
-  - https://yeun.github.io/open-color/
-  - https://open-props.style/
-- [If you exercise without correction due to the fascia relaxation and stretching, it becomes asymmetric.](https://youtu.be/YWEeAqrECqI?t=885)
-- [The ratio of relaxation to contraction is 2:1](https://youtu.be/qYCueSueEmY?t=527)
-- [Inclusively Hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
-- [A Guide To Keyboard Accessibility: HTML And CSS (Part 1)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/)
-- [The evolution of scalable CSS](https://frontendmastery.com/posts/the-evolution-of-scalable-css/)
-- [What is a realm in JavaScript?](https://weizman.github.io/page-what-is-a-realm-in-js/)
-  - [Introducing Snow](https://github.com/lavamoat/snow/wiki/Introducing-Snow)
-- [Writing API Design Standards](https://medium.com/@trgoodwill/writing-api-design-standards-84cb7cbb3fd7/) #bookshelf
-- [Tree views in css](https://iamkate.com/code/tree-views/) - `details open`
-  - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
-- [Ask HN: What is the most impactful thing you've built?](https://news.ycombinator.com/item?id=33659852)
-- [Google Style Guides](https://google.github.io/styleguide/) #bookshelf
-- [Is 40 hours a week too much? Here’s what history and science say](https://www.okta.com/au/identity-101/40-hour-work-week/)
-  - [Rules of Productivity](http://blog.approache.com/2010/11/rules-of-productivity.html)
-  - [Overtime Kills](https://www.7pace.com/blog/overtime-kills)
-- [Even if you stay on the plank for a long time, your core muscles won't get better](https://www.youtube.com/watch?v=n4eLwAgf_ps)
-  - [Spit out your breath](https://youtu.be/n4eLwAgf_ps?t=397) - While stopping breathing, you can't use your core muscles properly.
-
-### What I read in past
+## What I read in past
 
 - [👓 What I read in](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
 - 📜 [Journals](https://luke-snaw.github.io/Luke-SNAW__netlify-CMS.github.io/)
 
-### [What I struggled 🧗‍♂️/📣 brag In](https://luke-snaw.github.io/notes/6645fjtiqxtko03nuccgjj2/)
+## [What I struggled 🧗‍♂️/📣 brag In](https://luke-snaw.github.io/notes/6645fjtiqxtko03nuccgjj2/)
 <!--
 **Luke-SNAW/Luke-SNAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
