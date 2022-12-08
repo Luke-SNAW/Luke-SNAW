@@ -16,6 +16,10 @@
 
 ## Week 49, 2022
 
+- [gpu-io](https://apps.amandaghassaei.com/gpu-io/examples/) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
+- [Tips for typing import statements in JavaScript](https://2ality.com/2017/08/typing-import-statements.html)
+- [5 Books for QA Engineers](https://dzone.com/articles/5-books-for-qa-engineers)
+- [Domain Name Search with AI](https://smartynames.com/) - https://news.ycombinator.com/item?id=33882497
 - [Awesome Dev Tool Tips](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
   - Easily identify which bundles are the largest, and how much of their code is actually used, and what the load impact of each file is, using the [Coverage](https://developer.chrome.com/docs/devtools/coverage/) tool.
 - [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
