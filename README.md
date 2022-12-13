@@ -16,6 +16,8 @@
 
 ## Week 50, 2022
 
+- [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
+- [How Cypress version 12 retries the chains of multiple query commands.](https://glebbahmutov.com/blog/cypress-v12/)
 - [How to Write Useful Commit Messages](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9)
   - This commit will `What`
   - `Why`
@@ -30,7 +32,7 @@
 - [Using `npm query` for better dependency management](https://blog.logrocket.com/npm-query-better-dependency-management/)
 - [Make sense of flame charts in Performance Tab by example](https://calendar.perfplanet.com/2022/make-sense-of-flame-charts-in-performance-tab-by-example/)
   > During sampling profiling, a browser forces an engine to stop every 1 ms, and record the call stack at that moment.
-- [So <HGROUP> Is Back In HTML 5, And Dumb As Ever!](https://medium.com/codex/so-hgroup-is-back-in-html-5-and-dumb-as-ever-c81e00f6320d)
+- [So `<HGROUP>` Is Back In HTML 5, And Dumb As Ever!](https://medium.com/codex/so-hgroup-is-back-in-html-5-and-dumb-as-ever-c81e00f6320d)
 - [HTML Entities, Diacritical Marks, And Emojis](https://blog.openreplay.com/html-entities-marks-and-emojis/)
 - [numverify](https://numverify.com/) - Global Phone Number Validation & Lookup JSON API: Real-time REST API supporting 232 countries
 - [Cypress: Skip Before Each Hook](https://glebbahmutov.com/blog/skip-before-each-hook/)
