@@ -14,8 +14,21 @@
 
 ---
 
+## Week 51, 2022
+
+- [Building the main navigation for a website](https://web.dev/website-navigation/)
+- [The W3C Markup Validation Service](https://validator.w3.org/)
+- [How to transfigure wireframes into HTML](https://www.htmhell.dev/adventcalendar/2022/1/)
+- [How do I commit case-sensitive only filename changes in Git?](https://stackoverflow.com/a/20907647/5163033)
+  ```shell
+  git mv -f yOuRfIlEnAmE yourfilename
+  ```
+
 ## Week 50, 2022
 
+- [ReadEra](https://readera.org/en/book-reader) - ReadEra is an Android application for reading books and viewing documents, free and without ads.
+- [Zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
+- [Responsive Images 101, Part 4: Srcset Width Descriptors](https://cloudfour.com/thinks/responsive-images-101-part-4-srcset-width-descriptors/)
 - [Mars Now | Explore – NASA Mars Exploration](https://mars.nasa.gov/explore/mars-now/)
 - [A schedule's primary purpose is not to tell you what you're supposed to be doing on any given day, but to tell you when you should start cutting corners.](https://buildtogether.tech/process/#:~:text=A%20schedule%27s%20primary%20purpose%20is%20not%20to%20tell%20you%20what%20you%27re%20supposed%20to%20be%20doing%20on%20any%20given%20day%2C%20but%20to%20tell%20you%20when%20you%20should%20start%20cutting%20corners.)
 - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
@@ -39,30 +52,6 @@
 - [numverify](https://numverify.com/) - Global Phone Number Validation & Lookup JSON API: Real-time REST API supporting 232 countries
 - [Cypress: Skip Before Each Hook](https://glebbahmutov.com/blog/skip-before-each-hook/)
 - [Functional Programming: Part 5 - Functors](https://blog.bitsrc.io/functional-programming-oh-functors-5e670d8eeb8d)
-
-## Week 49, 2022
-
-- [gpu-io](https://apps.amandaghassaei.com/gpu-io/examples/) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
-- [Tips for typing import statements in JavaScript](https://2ality.com/2017/08/typing-import-statements.html)
-- [5 Books for QA Engineers](https://dzone.com/articles/5-books-for-qa-engineers)
-- [Domain Name Search with AI](https://smartynames.com/) - https://news.ycombinator.com/item?id=33882497
-- [Awesome Dev Tool Tips](https://dev.to/lissy93/awesome-dev-tool-tips-32oo)
-  - Easily identify which bundles are the largest, and how much of their code is actually used, and what the load impact of each file is, using the [Coverage](https://developer.chrome.com/docs/devtools/coverage/) tool.
-- [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
-- [A Year-End Letter from our Executive Director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
-  > Let’s Encrypt surpassed 300,000,000 websites served.
-- [TWGL: A Tiny WebGL helper Library](https://github.com/greggman/twgl.js)
-- [Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide](https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/) #terminology
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [Mobile browsers and cloud gaming: Proposal to make a market reference](https://www.gov.uk/government/consultations/mobile-browsers-and-cloud-gaming-proposal-to-make-a-market-reference)
-- [The BBC's 15 Web Principles - 15 years later](https://shkspr.mobi/blog/2022/11/the-bbcs-15-web-principles-15-years-later/)
-- [Company, team, self.](https://lethain.com/company-team-self/)
-  > - This company/team/self framework proved itself a helpful decision-making tool, and almost always led to the “correct” outcome.
-  > - Burn out by following this advice too loyally.
-  > - People are complex, and they get energy in complex ways. Folks will accomplish more if you let them do some energizing work, even if that work itself isn’t very important.
-- [Why I am learning category theory](https://the.scapegoat.dev/why-i-am-learning-category-theory-1/)
-- [Engineering management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership #bookshelf
-- [Stretch between desk works](https://youtu.be/6Xw-OUcLp4s?t=185)
 
 ## What I read in past
 
