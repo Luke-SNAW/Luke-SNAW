@@ -16,6 +16,43 @@
 
 ## Week 51, 2022
 
+- [15 Useful JavaScript Tips](https://javascript.plainenglish.io/15-useful-javascript-tips-814eeba1f4fd)
+
+  - Event listeners run only once
+
+  ```js
+  element.addEventListener("click", () => console.log("I run only once"), {
+    once: true,
+  })
+  ```
+
+  - element’s dataset
+
+  ```html
+  <div id="user" data-name="Maxwell" data-age="32" data-something="Some Data">
+    Hello Maxwell
+  </div>
+  <script>
+    const user = document.getElementById("user")
+
+    console.log(user.dataset)
+    // { name: "Maxwell", age: "32", something: "Some Data" }
+
+    console.log(user.dataset.name) // "Maxwell"
+    console.log(user.dataset.age) // "32"
+    console.log(user.dataset.something) // "Some Data"
+  </script>
+  ```
+
+- [Run Just The Failed Tests In Cypress](https://glebbahmutov.com/blog/run-failed-tests/)
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [Most Usefull Queries for Sql Server](https://towardsdev.com/most-usefull-queries-for-sql-server-596dda5742c1)
+- [Let’s Make A Better “Light / Dark” Toggle](https://medium.com/codex/lets-make-a-better-light-dark-toggle-760499a8bc82)
+- [Does WWW still belong in URLs?](https://css-tricks.com/does-www-still-belong-in-urls/)
+  - WWW-less domain concern 1: Leaking cookies to subdomains
+  - WWW-less domain concern 2: DNS headaches
+  - [WWW-less benefits](https://css-tricks.com/does-www-still-belong-in-urls/#aa-www-less-benefits)
+  - [WWW benefits](https://css-tricks.com/does-www-still-belong-in-urls/#aa-www-benefits)
 - [Building the main navigation for a website](https://web.dev/website-navigation/)
 - [The W3C Markup Validation Service](https://validator.w3.org/)
 - [How to transfigure wireframes into HTML](https://www.htmhell.dev/adventcalendar/2022/1/)
