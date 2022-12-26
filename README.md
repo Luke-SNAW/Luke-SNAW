@@ -14,8 +14,24 @@
 
 ---
 
+## Week 52, 2022
+
+- [2022 In Review: What’s New In Web Performance?](https://www.debugbear.com/blog/2022-in-web-performance)
+- [Designing for Screen Reader Compatibility](https://webaim.org/techniques/screenreader/)
+- [Table Like It's 2023](https://www.htmhell.dev/adventcalendar/2022/14/)
+- [Password requirements: myths and madness](https://www.franzoni.eu/password-requirements-myths-madness/)
+  - https://news.ycombinator.com/item?id=34098369
+
 ## Week 51, 2022
 
+- [Using inline JavaScript modules to prevent CSS blockage](https://calendar.perfplanet.com/2022/using-inline-javascript-modules-to-prevent-css-blockage/)
+  ```html
+  <script async type="module" />
+  ```
+- [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
+- [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
+  > Side effects shouldn’t happen during component render. Therefore they do not belong to the body of a functional component. React has a special place for them.
+- [4 ways CSS :has() can make your HTML forms even better](https://austingil.com/css-has-with-html-forms/)
 - [15 Useful JavaScript Tips](https://javascript.plainenglish.io/15-useful-javascript-tips-814eeba1f4fd)
 
   - Event listeners run only once
@@ -60,35 +76,6 @@
   ```shell
   git mv -f yOuRfIlEnAmE yourfilename
   ```
-
-## Week 50, 2022
-
-- [ReadEra](https://readera.org/en/book-reader) - ReadEra is an Android application for reading books and viewing documents, free and without ads.
-- [Zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
-- [Responsive Images 101, Part 4: Srcset Width Descriptors](https://cloudfour.com/thinks/responsive-images-101-part-4-srcset-width-descriptors/)
-- [Mars Now | Explore – NASA Mars Exploration](https://mars.nasa.gov/explore/mars-now/)
-- [A schedule's primary purpose is not to tell you what you're supposed to be doing on any given day, but to tell you when you should start cutting corners.](https://buildtogether.tech/process/#:~:text=A%20schedule%27s%20primary%20purpose%20is%20not%20to%20tell%20you%20what%20you%27re%20supposed%20to%20be%20doing%20on%20any%20given%20day%2C%20but%20to%20tell%20you%20when%20you%20should%20start%20cutting%20corners.)
-- [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
-- [How Cypress version 12 retries the chains of multiple query commands.](https://glebbahmutov.com/blog/cypress-v12/)
-- [How to Write Useful Commit Messages](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9)
-  - This commit will `What`
-  - `Why`
-- [Ask HN: Those with money-making side projects,how did you come up with the idea?](https://news.ycombinator.com/item?id=33942558)
-- [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/) - How to reduce complexity and move faster
-  > Postgres can replace - up to millions of users - many backend technologies, Kafka, RabbitMQ, Mongo and Redis among them.
-  >
-  > [Each component has its own debugging requirements and tooling. Each component adds a bunch of complexity. Sometimes it's worth it, sometimes it's not.](https://news.ycombinator.com/item?id=33936703)
-- [Radical Simplicity](http://www.radicalsimpli.city/)
-- [When to use gRPC vs GraphQL](https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql/)
-  > Use GraphQL for client-server communication and gRPC for server-to-server. See the Verdict section for exceptions to this rule.
-- [Using `npm query` for better dependency management](https://blog.logrocket.com/npm-query-better-dependency-management/)
-- [Make sense of flame charts in Performance Tab by example](https://calendar.perfplanet.com/2022/make-sense-of-flame-charts-in-performance-tab-by-example/)
-  > During sampling profiling, a browser forces an engine to stop every 1 ms, and record the call stack at that moment.
-- [So `<HGROUP>` Is Back In HTML 5, And Dumb As Ever!](https://medium.com/codex/so-hgroup-is-back-in-html-5-and-dumb-as-ever-c81e00f6320d)
-- [HTML Entities, Diacritical Marks, And Emojis](https://blog.openreplay.com/html-entities-marks-and-emojis/)
-- [numverify](https://numverify.com/) - Global Phone Number Validation & Lookup JSON API: Real-time REST API supporting 232 countries
-- [Cypress: Skip Before Each Hook](https://glebbahmutov.com/blog/skip-before-each-hook/)
-- [Functional Programming: Part 5 - Functors](https://blog.bitsrc.io/functional-programming-oh-functors-5e670d8eeb8d)
 
 ## What I read in past
 
