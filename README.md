@@ -16,6 +16,21 @@
 
 ## Week 52, 2022
 
+- [CSS image()](https://12daysofweb.dev/2022/css-image/#image-fragments)
+  ```css
+  .hero {
+    background-image: image("images/my-image.jpg#xywh=150,50,500,300");
+  }
+  ```
+- [Guide to image overlays in CSS](https://blog.logrocket.com/guide-image-overlays-css/)
+- [The True Power Of CSS Columns](https://medium.com/codex/the-true-power-of-css-columns-2e620ad66282)
+- [Unchain My Inaccessibly-Labelled Heart](https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/) #a11y
+- [Web Performance APIs Appreciation Post](https://calendar.perfplanet.com/2022/web-performance-apis-appreciation-post/)
+- [git commit --fixup=[(amend|reword):]<commit>](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt)
+- [git commit with offered message editing](https://stackoverflow.com/questions/41181942/git-commit-wi
+  ```shell
+  git commit -em "some string"
+  ```
 - [Tailwind - Dynamic class names](https://tailwindcss.com/docs/content-configuration#dynamic-class-names)
   ```js
   class = `bg-${ zero ? pageColor : baseColor}` // not work
