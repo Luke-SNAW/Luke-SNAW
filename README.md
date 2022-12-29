@@ -27,7 +27,7 @@
 - [Unchain My Inaccessibly-Labelled Heart](https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/) #a11y
 - [Web Performance APIs Appreciation Post](https://calendar.perfplanet.com/2022/web-performance-apis-appreciation-post/)
 - [git commit --fixup=[(amend|reword):]<commit>](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt)
-- [git commit with offered message editing](https://stackoverflow.com/questions/41181942/git-commit-wi
+- [git commit with offered message editing](https://stackoverflow.com/questions/41181942/git-commit-with-template-message)
   ```shell
   git commit -em "some string"
   ```
