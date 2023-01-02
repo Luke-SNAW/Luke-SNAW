@@ -14,6 +14,18 @@
 
 ---
 
+## Week 1, 2023
+
+- [4 minutes run hard enough to push heart rate to 90%, 3 minutes recover, repeat 4 times](https://news.ycombinator.com/item?id=34213181)
+  - https://www.ntnu.edu/cerg/advice
+  - [Get running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
+- [HTTP/3 Prioritization Demystified](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/) #bookmark
+- [2022 Roundup of Web Research](https://css-tricks.com/2022-roundup-of-web-research/)
+- [7 Unnecessarvy VSCode Extensions You Should Uninstall Now](https://codingbeautydev.com/blog/unnecessary-vscode-extensions/)
+- [Top 7 tips/features in Vue 3](https://medium.com/@felixdavid12/top-7-tips-features-in-vue-3-7119cee4a918) 3. Reactive CSS
+- The global **`structuredClone()`** method creates a [deep clone](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy) of a given value using the [structured clone algorithm](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).
+- [12 CSS Tricks You Might Not Know](https://medium.com/@pythonlearn1024/12-css-tricks-you-might-not-know-3054475e861e)
+
 ## Week 52, 2022
 
 - [CSS image()](https://12daysofweb.dev/2022/css-image/#image-fragments)
@@ -45,61 +57,6 @@
 - [Table Like It's 2023](https://www.htmhell.dev/adventcalendar/2022/14/)
 - [Password requirements: myths and madness](https://www.franzoni.eu/password-requirements-myths-madness/)
   - https://news.ycombinator.com/item?id=34098369
-
-## Week 51, 2022
-
-- [Using inline JavaScript modules to prevent CSS blockage](https://calendar.perfplanet.com/2022/using-inline-javascript-modules-to-prevent-css-blockage/)
-  ```html
-  <script async type="module" />
-  ```
-- [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/)
-- [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
-  > Side effects shouldn’t happen during component render. Therefore they do not belong to the body of a functional component. React has a special place for them.
-- [4 ways CSS :has() can make your HTML forms even better](https://austingil.com/css-has-with-html-forms/)
-- [15 Useful JavaScript Tips](https://javascript.plainenglish.io/15-useful-javascript-tips-814eeba1f4fd)
-
-  - Event listeners run only once
-
-  ```js
-  element.addEventListener("click", () => console.log("I run only once"), {
-    once: true,
-  })
-  ```
-
-  - element’s dataset
-
-  ```html
-  <div id="user" data-name="Maxwell" data-age="32" data-something="Some Data">
-    Hello Maxwell
-  </div>
-  <script>
-    const user = document.getElementById("user")
-
-    console.log(user.dataset)
-    // { name: "Maxwell", age: "32", something: "Some Data" }
-
-    console.log(user.dataset.name) // "Maxwell"
-    console.log(user.dataset.age) // "32"
-    console.log(user.dataset.something) // "Some Data"
-  </script>
-  ```
-
-- [Run Just The Failed Tests In Cypress](https://glebbahmutov.com/blog/run-failed-tests/)
-- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
-- [Most Usefull Queries for Sql Server](https://towardsdev.com/most-usefull-queries-for-sql-server-596dda5742c1)
-- [Let’s Make A Better “Light / Dark” Toggle](https://medium.com/codex/lets-make-a-better-light-dark-toggle-760499a8bc82)
-- [Does WWW still belong in URLs?](https://css-tricks.com/does-www-still-belong-in-urls/)
-  - WWW-less domain concern 1: Leaking cookies to subdomains
-  - WWW-less domain concern 2: DNS headaches
-  - [WWW-less benefits](https://css-tricks.com/does-www-still-belong-in-urls/#aa-www-less-benefits)
-  - [WWW benefits](https://css-tricks.com/does-www-still-belong-in-urls/#aa-www-benefits)
-- [Building the main navigation for a website](https://web.dev/website-navigation/)
-- [The W3C Markup Validation Service](https://validator.w3.org/)
-- [How to transfigure wireframes into HTML](https://www.htmhell.dev/adventcalendar/2022/1/)
-- [How do I commit case-sensitive only filename changes in Git?](https://stackoverflow.com/a/20907647/5163033)
-  ```shell
-  git mv -f yOuRfIlEnAmE yourfilename
-  ```
 
 ## What I read in past
 
