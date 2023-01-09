@@ -16,6 +16,17 @@
 
 ---
 
+## Week 2, 2023
+
+- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
+  - 10x prices, No customers, No tech support, ...
+- https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories
+- https://github.com/sindresorhus/awesome - 😎 Awesome lists about all kinds of interesting topics
+- [roadmap.sh](https://roadmap.sh/) - Community driven roadmaps, articles and resources for developers
+- [fish](https://fishshell.com/) - the friendly interactive shell
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks) #bookmark
+  - https://news.ycombinator.com/item?id=34293631
+
 ## Week 1, 2023
 
 - [Component Party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features: Svelte, React, Vue 2, Vue 3, Angular, SolidJS, Lit, Ember, Alpine, Qwik
@@ -71,7 +82,7 @@
 - [4 minutes run hard enough to push heart rate to 90%, 3 minutes recover, repeat 4 times](https://news.ycombinator.com/item?id=34213181)
   - https://www.ntnu.edu/cerg/advice
   - [Get running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
-- [HTTP/3 Prioritization Demystified](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/) #bookmark
+- [HTTP/3 Prioritization Demystified](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/)
 - [2022 Roundup of Web Research](https://css-tricks.com/2022-roundup-of-web-research/)
 - [7 Unnecessarvy VSCode Extensions You Should Uninstall Now](https://codingbeautydev.com/blog/unnecessary-vscode-extensions/)
 - [Top 7 tips/features in Vue 3](https://medium.com/@felixdavid12/top-7-tips-features-in-vue-3-7119cee4a918) 3. Reactive CSS
