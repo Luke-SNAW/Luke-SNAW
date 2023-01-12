@@ -18,7 +18,12 @@
 
 ## Week 2, 2023
 
-- [MuscleWiki](https://musclewiki.com/) - Find exercises that work specific muscles
+- [How to Destructure Props in Vue (Composition API)](https://dmitripavlutin.com/props-destructure-vue-composition/)
+- [Type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
+- [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) combines the benefits of [PlantUML](https://plantuml.com/) and the [C4 model](https://c4model.com/) for providing a simple way of describing and communicate software architectures.
+- [VS Code Shortcuts To Code Like You’re Playing a Piano](https://betterprogramming.pub/vs-code-shortcuts-to-code-like-youre-playing-a-piano-e5db7b272d1)
+- [recommended routine - bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/)
+  - [MuscleWiki](https://musclewiki.com/) - Find exercises that work specific muscles
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) #bookmark
   - https://owasp.org/sitemap/ - Key Projects
 - [2022 JavaScript Rising Stars](https://risingstars.js.org/2022/en)
