@@ -26,8 +26,6 @@
 - [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
   - [A quick beginner’s guide to drawing](https://ralphammer.com/a-quick-beginners-guide-to-drawing/)
 - [Make me think!](https://ralphammer.com/make-me-think/)
-  - ![Users with complexity](assets/images/ux/makemethink_3.gif) ![From complicated to simple](assets/images/ux/makemethink_4.gif)
-  - ![From simple to too simple](assets/images/ux/makemethink_6.gif)
 - [sysend](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
 - [Static HTML comments](https://sive.rs/shc)
 
