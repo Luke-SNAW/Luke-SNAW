@@ -14,7 +14,22 @@
 
 > [4 minutes run hard enough to push heart rate to 90%, 3 minutes recover, repeat 4 times](https://news.ycombinator.com/item?id=34213181)
 
+> [recommended routine - bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/) - I Don't Have This Much Time!
+>
+> - Don't workout at all (saves anywhere from 20 to 60 minutes, but really, really, really, really, really, really, really, really, really not recommended)
+
 ---
+
+## Week 3, 2023
+
+- [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
+  - [A quick beginner’s guide to drawing](https://ralphammer.com/a-quick-beginners-guide-to-drawing/)
+- [Make me think!](https://ralphammer.com/make-me-think/)
+  - ![Users with complexity](assets/images/ux/makemethink_3.gif) ![From complicated to simple](assets/images/ux/makemethink_4.gif)
+  - ![From simple to too simple](assets/images/ux/makemethink_6.gif)
+- [sysend](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
+- [Static HTML comments](https://sive.rs/shc)
 
 ## Week 2, 2023
 
