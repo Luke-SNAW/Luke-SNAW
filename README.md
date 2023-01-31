@@ -22,6 +22,13 @@
 
 ## Week 5, 2023
 
+- [Carbonyl](https://github.com/fathyb/carbonyl) is a Chromium based browser built to run in a terminal. [Read the blog post](https://fathy.fr/carbonyl).
+- [Ask HN: What would be your stack if you are building an MVP today?](https://news.ycombinator.com/item?id=34530052)
+- [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+- [LastPass breach gets worse](https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/)
+- [IPinside: Korea’s mandatory spyware](https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/)
+  - [South Korea’s online security dead end](https://palant.info/2023/01/02/south-koreas-online-security-dead-end/)
+  - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
 - [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
   - https://arc42.org/download
