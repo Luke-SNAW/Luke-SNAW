@@ -22,6 +22,28 @@
 
 ## Week 5, 2023
 
+- [History of Lisp Parentheses](https://github.com/shaunlebron/history-of-lisp-parens)
+- [JavaScript Closure: A Simple Explanation](https://dmitripavlutin.com/javascript-closure/)
+- [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
+- [5 Must-Know Differences Between ref() and reactive() in Vue](https://dmitripavlutin.com/ref-reactive-differences-vue/)
+- [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/) - The result depends on your browser.
+- [Two ways to safely break a long word in HTML](https://www.amitmerchant.com/two-ways-to-safely-break-a-long-word-in-html/)
+  - `<wbr>`
+  - `&shy;`
+- [Demystifying Fresh — Build Your own Islands of Interactivity](https://blog.bitsrc.io/demystifying-fresh-building-your-own-islands-of-interactivity-4b774cc30393)
+- [Netlify lost my trust](https://news.ycombinator.com/item?id=34614533) and replies
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
+  - [comment by former React core team member Pete Hunt](https://news.ycombinator.com/item?id=34615578) and replies
+- [When Discord is open in the background, NVIDIA card will not reach full speed](https://nvidia.custhelp.com/app/answers/detail/a_id/5443/~/when-discord-is-open-in-the-background%2C-graphics-card-memory-clocks-will-not)
+  - https://news.ycombinator.com/item?id=34615351
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+  - https://pipedream.com/
+  - https://temporal.io/
+  - https://github.com/windmill-labs/windmill
+- [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1)
+  - https://news.ycombinator.com/item?id=34611077
+- [MySQL vs PostgreSQL in 2023.](https://dbconvert.com/blog/mysql-vs-postgresql/)
+- [Understanding Authentication In Websites: A Banking Analogy](https://www.smashingmagazine.com/2023/01/authentication-websites-banking-analogy/)
 - [Carbonyl](https://github.com/fathyb/carbonyl) is a Chromium based browser built to run in a terminal. [Read the blog post](https://fathy.fr/carbonyl).
 - [Ask HN: What would be your stack if you are building an MVP today?](https://news.ycombinator.com/item?id=34530052)
 - [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
