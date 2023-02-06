@@ -20,6 +20,14 @@
 
 ---
 
+## Week 6, 2023
+
+- [`<vue-clamp>`](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
+- [Comparing Manual and Free Automated WCAG Reviews](https://adrianroselli.com/2023/01/comparing-manual-and-free-automated-wcag-reviews.html)
+- [Introduction to Linux Server Administration!](https://github.com/livialima/linuxupskillchallenge)
+  - https://theleo.zone/posts/linux-upskill/
+- [deadfile](https://github.com/M-Izadmehr/deadfile) - Simple util to find deadcode and unused files in any JavaScript project (ES5, ES6, React, Vue, ...).
+
 ## Week 5, 2023
 
 - [History of Lisp Parentheses](https://github.com/shaunlebron/history-of-lisp-parens)
@@ -55,37 +63,6 @@
 - [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
   - https://arc42.org/download
 - [Why React isn't dying](https://tkdodo.eu/blog/why-react-isnt-dying)
-
-## Week 4, 2023
-
-- [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
-- [The Page With No Code](https://danq.me/2023/01/11/nocode/)
-  - https://no-ht.ml/
-- [Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
-  > Applying this simple trick to the MultiArith math dataset, the authors found `Let's think step by step` quadrupled the accuracy, from 18% to 79%!
-- [Interview Questions to ask as a candidate](https://docs.google.com/spreadsheets/d/11DoQ-Bhvs5mfRwB0Bz6OHwoChhFVK7u_KqlbFgR-ezY/)
-- [Topcat's System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
-- [Unable to make a single bit of progress, my goto strategy is similar to what writers call a vomit draft.](https://news.ycombinator.com/item?id=34449984)
-- [Git-Sim: Visually Simulate Git Operations In Your Own Repos](https://initialcommit.com/blog/git-sim)
-  - https://github.com/initialcommit-com/git-sim
-- [Function Composition in Large React Applications: Best Practices and Real-World Examples](https://medium.com/@rivoltafilippo/function-composition-in-large-react-applications-best-practices-and-real-world-examples-805aba8d37b1)
-
-## Week 3, 2023
-
-- [5 Mistakes to Avoid When Self Hosting a Website from Home](https://noted.lol/5-mistakes-to-avoid-when-self-hosting-from-home/)
-- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as [Font Awesome](https://github.com/FortAwesome/Font-Awesome), [Devicons](https://vorillaz.github.io/devicons/), [Octicons](https://github.com/primer/octicons), and [others](https://github.com/ryanoasis/nerd-fonts#glyph-sets).
-- [ai-collection](https://github.com/ai-collection/ai-collection) - A List of Awesome Generative AI Applications
-- [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
-- [Design Doping: My Obsession with AI as the Ultimate Brainstorming Partner](https://medium.com/geekculture/design-doping-my-obsession-with-ai-as-the-ultimate-brainstorming-partner-2ff28de2e34b)
-- [Every Software Developer should write a blog](https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622)
-- [API Management in Nuxt 3 with TypeScript](https://www.vuemastery.com/blog/api-management-in-nuxt-3-with-typescript)
-- [10 Advanced TypeScript Tips for Development](https://levelup.gitconnected.com/10-advanced-typescript-tips-for-development-2666298d50f)
-- [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
-- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
-  - [A quick beginner’s guide to drawing](https://ralphammer.com/a-quick-beginners-guide-to-drawing/)
-- [Make me think!](https://ralphammer.com/make-me-think/)
-- [sysend](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
-- [Static HTML comments](https://sive.rs/shc)
 
 ## What I read in past
 
