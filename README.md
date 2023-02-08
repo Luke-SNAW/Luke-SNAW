@@ -22,6 +22,8 @@
 
 ## Week 6, 2023
 
+- [Increment Selection - vs code extension](https://marketplace.visualstudio.com/items?itemName=albymor.increment-selection)
+- [Screw motivation, what you need is discipline.](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
   - https://news.ycombinator.com/item?id=34684761
 - [Optimal program design 2.0](https://mennohenselmans.com/optimal-program-design/)
