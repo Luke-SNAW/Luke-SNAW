@@ -20,8 +20,32 @@
 
 ---
 
+## Week 7, 2023
+
+- [useSignal() is the future of web frameworks and is a better abstraction than useState(), which is showing its age.](https://javascriptweekly.com/link/135369/web)
+- [Using Notion as a Headless CMS with Nuxt](https://dev.to/trentbrew/using-notion-as-a-headless-cms-with-nuxt-3mk)
+- [Speeding up the JavaScript ecosystem - eslint](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)
+- [Why Create React App exists](https://github.com/reactjs/reactjs.org/pull/5487#issuecomment-1409720741)
+- [Discover the Magic of Portals: A Beginner’s Guide to React’s Most Powerful Tool](https://blog.bitsrc.io/discover-the-magic-of-portals-a-beginners-guide-to-react-s-most-powerful-tool-f6f1965ea305)
+  - Portals allow you to render components outside of their parent component’s tree.
+  - When should you use portals?
+    - Modals and dialogs
+    - Tooltips and popovers
+    - Overlaying content
+- [Environment Variables in JavaScript: process.env](https://dmitripavlutin.com/environment-variables-javascript/)
+- [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)
+- [A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)
+- [OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [Optimal Images in HTML](https://www.builder.io/blog/fast-images)
+- [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
+- [Five Tips For a Healthier Postgres Database in the New Year](https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- [How to Search Files Effectively in the Linux Terminal](https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/)
+- Ask HN: What Happened to Elm?
+  - [In version 0.19, the core team hardcoded a whitelist into the compiler of which projects are allowed to use native code (which happened to basically be the core team's pet projects). This basically crippled the language beyond usability for everyone else.](https://news.ycombinator.com/item?id=34746350)
+
 ## Week 6, 2023
 
+- [Image Compression with Singular Value Decomposition](https://timbaumann.info/svd-image-compression-demo/)
 - [A Better Way to Work With Number and Date Inputs in JavaScript](https://www.builder.io/blog/numbers-and-dates)
   - valueAsNumber, valueAsDate
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
