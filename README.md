@@ -18,13 +18,15 @@
 >
 > - Don't workout at all (saves anywhere from 20 to 60 minutes, but really, really, really, really, really, really, really, really, really not recommended)
 
+> [Just 4 pages a day. It really adds up.](https://news.ycombinator.com/item?id=34779980)
+
 ---
 
 ## Week 7, 2023
 
 - [Electric Clojure](https://github.com/hyperfiddle/electric) – a signals DSL for fullstack web UI, with compiler-managed network sync
   - https://news.ycombinator.com/item?id=34771771
-- [kmt-lnh](https://news.ycombinator.com/item?id=34779980)
+- [Just 4 pages a day. It really adds up.](https://news.ycombinator.com/item?id=34779980)
 - [Comparing the Top Eight Managed Kubernetes Providers](https://medium.com/@elliotgraebert/comparing-the-top-eight-managed-kubernetes-providers-2ae39662391b)
   - Best overall: Azure
   - Best for startups: Linode
