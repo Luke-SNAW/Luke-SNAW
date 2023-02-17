@@ -22,6 +22,16 @@
 
 ## Week 7, 2023
 
+- [Electric Clojure](https://github.com/hyperfiddle/electric) – a signals DSL for fullstack web UI, with compiler-managed network sync
+  - https://news.ycombinator.com/item?id=34771771
+- [kmt-lnh](https://news.ycombinator.com/item?id=34779980)
+- [Comparing the Top Eight Managed Kubernetes Providers](https://medium.com/@elliotgraebert/comparing-the-top-eight-managed-kubernetes-providers-2ae39662391b)
+  - Best overall: Azure
+  - Best for startups: Linode
+  - Best for cost: OVHCloud
+- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+  - https://news.ycombinator.com/item?id=34813140
+- [Squares in Squares](https://erich-friedman.github.io/packing/squinsqu/)
 - [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
 - [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 - [Use Maps More and Objects Less](https://www.builder.io/blog/maps)
