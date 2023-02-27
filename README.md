@@ -22,6 +22,18 @@
 
 ---
 
+## Week 9, 2023
+
+- [Easy implemented dark mode](https://twitter.com/flaviocopes/status/1627609246014619649)
+- [What to Expect from Vue in 2023 and How it Differs from React](https://thenewstack.io/vue-2023/)
+- [The Unreasonable Effectiveness of Conditional Probabilities](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html)
+  - https://news.ycombinator.com/item?id=34900823
+- [Debugging Node.js, The Right Way](https://www.builder.io/blog/debug-nodejs)
+  ```shell
+  node server.js --inspect-brk
+  ```
+  - [chrome dev tools](https://cdn.builder.io/api/v1/image/assets%252FYJIGb4i01jvw0SRdL5Bt%252Ff5dd633650214ff28d620d233299329b?format=webp&width=2000)
+
 ## Week 8, 2023
 
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
@@ -40,46 +52,6 @@
   - For me, a complicated Javascript build system just doesn’t seem worth it for small 500-line projects
   - [if I want a build system, use esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
 - [CSS Named Colors: Groups, Palettes, Facts, & Fun](https://austingil.com/css-named-colors/)
-
-## Week 7, 2023
-
-- [Electric Clojure](https://github.com/hyperfiddle/electric) – a signals DSL for fullstack web UI, with compiler-managed network sync
-  - https://news.ycombinator.com/item?id=34771771
-- [Just 4 pages a day. It really adds up.](https://news.ycombinator.com/item?id=34779980)
-- [Comparing the Top Eight Managed Kubernetes Providers](https://medium.com/@elliotgraebert/comparing-the-top-eight-managed-kubernetes-providers-2ae39662391b)
-  - Best overall: Azure
-  - Best for startups: Linode
-  - Best for cost: OVHCloud
-- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-  - https://news.ycombinator.com/item?id=34813140
-- [Squares in Squares](https://erich-friedman.github.io/packing/squinsqu/)
-- [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
-- [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
-- [Use Maps More and Objects Less](https://www.builder.io/blog/maps)
-- [React Server Components vs. Server-Side Rendering](https://www.thearmchaircritic.org/mansplainings/react-server-components-vs-server-side-rendering)
-  - https://beta.nextjs.org/docs/rendering/fundamentals
-- [Type vs Interface in TypeScript](https://blog.bitsrc.io/type-vs-interface-in-typescript-cf3c00bc04ae)
-- [Unpacking API Management policies [Part 2]: 5 ways to handle REST API authentication](https://cloud.google.com/blog/products/api-management/5-ways-to-implement-rest-api-authentication/?hl=en)
-- [useSignal() is the future of web frameworks and is a better abstraction than useState(), which is showing its age.](https://javascriptweekly.com/link/135369/web)
-- [Using Notion as a Headless CMS with Nuxt](https://dev.to/trentbrew/using-notion-as-a-headless-cms-with-nuxt-3mk)
-- [Speeding up the JavaScript ecosystem - eslint](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)
-- [Why Create React App exists](https://github.com/reactjs/reactjs.org/pull/5487#issuecomment-1409720741)
-- [Discover the Magic of Portals: A Beginner’s Guide to React’s Most Powerful Tool](https://blog.bitsrc.io/discover-the-magic-of-portals-a-beginners-guide-to-react-s-most-powerful-tool-f6f1965ea305)
-  - Portals allow you to render components outside of their parent component’s tree.
-  - When should you use portals?
-    - Modals and dialogs
-    - Tooltips and popovers
-    - Overlaying content
-- [Environment Variables in JavaScript: process.env](https://dmitripavlutin.com/environment-variables-javascript/)
-- [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)
-- [A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)
-- [OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
-- [Optimal Images in HTML](https://www.builder.io/blog/fast-images)
-- [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
-- [Five Tips For a Healthier Postgres Database in the New Year](https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
-- [How to Search Files Effectively in the Linux Terminal](https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/)
-- Ask HN: What Happened to Elm?
-  - [In version 0.19, the core team hardcoded a whitelist into the compiler of which projects are allowed to use native code (which happened to basically be the core team's pet projects). This basically crippled the language beyond usability for everyone else.](https://news.ycombinator.com/item?id=34746350)
 
 ## What I read in past
 
