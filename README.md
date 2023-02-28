@@ -24,6 +24,19 @@
 
 ## Week 9, 2023
 
+- [Some More On-Scroll Typography Animations](https://tympanus.net/codrops/2023/02/22/some-more-on-scroll-typography-animations/)
+- [Why I’m sticking with Vue in 2023](https://medium.com/@lindblomdev/why-im-sticking-with-vue-in-2023-d67bce7bc2f4)
+  - Script setup + composition API produce clean code
+  - Performance is good
+  - Best tooling I have used
+- [Resizing with CSS](https://css-irl.info/resizing-with-css/)
+- [48 Accessibility Bookmarklets You Can Use For A11Y Testing](https://www.digitala11y.com/accessibility-bookmarklets-testing/)
+- [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [Firecracker internals: a deep dive inside the technology powering AWS Lambda](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+  - https://github1s.com/firecracker-microvm/firecracker
+- [Improve Your VSCode Workflow to the Max](https://www.builder.io/blog/vscode-tips)
+  - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+- [jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [Easy implemented dark mode](https://twitter.com/flaviocopes/status/1627609246014619649)
 - [What to Expect from Vue in 2023 and How it Differs from React](https://thenewstack.io/vue-2023/)
 - [The Unreasonable Effectiveness of Conditional Probabilities](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html)
