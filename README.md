@@ -20,10 +20,27 @@
 
 > [Just 4 pages a day. It really adds up.](https://news.ycombinator.com/item?id=34779980)
 
+> I think it should be everyone's primary focus to sleep well, drink water, get outside, get active, and eat generally decently. I hate to say it, but if you're not eating a good amount of vegetables and fruit, decent protein, sleep, etc, no amount of XYZ will catch up to that detriment.
+>
+> — [CE02](https://news.ycombinator.com/item?id=35056071)
+
 ---
+
+## Week 10, 2023
+
+- [Study finds mushrooms magnify memory by boosting nerve growth](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html)
+  > I think it should be everyone's primary focus to sleep well, drink water, get outside, get active, and eat generally decently. I hate to say it, but if you're not eating a good amount of vegetables and fruit, decent protein, sleep, etc, no amount of XYZ will catch up to that detriment.
+  >
+  > — [CE02](https://news.ycombinator.com/item?id=35056071)
+- [rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 
 ## Week 9, 2023
 
+- [All you may need is HTML](https://fabiensanglard.net/html/index.html)
+  - [0x10 RULES](https://fabiensanglard.net/ilike/index.html)
+- [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
+- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
+- [js-beautify](https://github.com/beautify-web/js-beautify) - partly deobfuscate scripts
 - [Some More On-Scroll Typography Animations](https://tympanus.net/codrops/2023/02/22/some-more-on-scroll-typography-animations/)
 - [Why I’m sticking with Vue in 2023](https://medium.com/@lindblomdev/why-im-sticking-with-vue-in-2023-d67bce7bc2f4)
   - Script setup + composition API produce clean code
