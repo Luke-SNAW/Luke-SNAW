@@ -26,62 +26,31 @@
 
 ---
 
-## Week 10, 2023
+## Week 12, 2023
 
-- [Study finds mushrooms magnify memory by boosting nerve growth](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html)
-  > I think it should be everyone's primary focus to sleep well, drink water, get outside, get active, and eat generally decently. I hate to say it, but if you're not eating a good amount of vegetables and fruit, decent protein, sleep, etc, no amount of XYZ will catch up to that detriment.
-  >
-  > — [CE02](https://news.ycombinator.com/item?id=35056071)
-- [rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
+- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) #bookshelf
+- [Steampipe](https://github.com/turbot/steampipe) is the universal interface to APIs. Use SQL to query cloud infrastructure, SaaS, code, logs, and more.
+  - https://github.com/turbot/steampipe-plugin-googlesheets
+- [libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
+- [How A Web Design Goes Straight To Hell](https://theoatmeal.com/comics/design_hell)
+- [Transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser! We currently support [BERT](https://huggingface.co/docs/transformers/model_doc/bert), [ALBERT](https://huggingface.co/docs/transformers/model_doc/albert), [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert), [T5](https://huggingface.co/docs/transformers/model_doc/t5), [T5v1.1](https://huggingface.co/docs/transformers/model_doc/t5v1.1), [FLAN-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5), [GPT2](https://huggingface.co/docs/transformers/model_doc/gpt2), [BART](https://huggingface.co/docs/transformers/model_doc/bart), [CodeGen](https://huggingface.co/docs/transformers/model_doc/codegen), [Whisper](https://huggingface.co/docs/transformers/model_doc/whisper), [CLIP](https://huggingface.co/docs/transformers/model_doc/clip), [Vision Transformer](https://huggingface.co/docs/transformers/model_doc/vit), and [VisionEncoderDecoder](https://huggingface.co/docs/transformers/model_doc/vision-encoder-decoder) models, for a variety of tasks including: masked language modelling, text classification, text-to-text generation, translation, summarization, question answering, text generation, automatic speech recognition, image classification, zero-shot image classification, and image-to-text.
+- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - The following is a list of text-based file formats and command line tools for manipulating each.
+- [Understanding lazy load and hydration in nuxt](https://stackoverflow.com/a/70263401/5163033)
+  - [It is almost always better to use `v-if` on the component instance.](https://twitter.com/MaOberlehner/status/1353747260434227201)
 
-## Week 9, 2023
+## Week 11, 2023
 
-- [All you may need is HTML](https://fabiensanglard.net/html/index.html)
-  - [0x10 RULES](https://fabiensanglard.net/ilike/index.html)
-- [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
-- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
-- [js-beautify](https://github.com/beautify-web/js-beautify) - partly deobfuscate scripts
-- [Some More On-Scroll Typography Animations](https://tympanus.net/codrops/2023/02/22/some-more-on-scroll-typography-animations/)
-- [Why I’m sticking with Vue in 2023](https://medium.com/@lindblomdev/why-im-sticking-with-vue-in-2023-d67bce7bc2f4)
-  - Script setup + composition API produce clean code
-  - Performance is good
-  - Best tooling I have used
-- [Resizing with CSS](https://css-irl.info/resizing-with-css/)
-- [48 Accessibility Bookmarklets You Can Use For A11Y Testing](https://www.digitala11y.com/accessibility-bookmarklets-testing/)
-- [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
-- [Firecracker internals: a deep dive inside the technology powering AWS Lambda](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
-  - https://github1s.com/firecracker-microvm/firecracker
-- [Improve Your VSCode Workflow to the Max](https://www.builder.io/blog/vscode-tips)
-  - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
-- [jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
-- [Easy implemented dark mode](https://twitter.com/flaviocopes/status/1627609246014619649)
-- [What to Expect from Vue in 2023 and How it Differs from React](https://thenewstack.io/vue-2023/)
-- [The Unreasonable Effectiveness of Conditional Probabilities](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html)
-  - https://news.ycombinator.com/item?id=34900823
-- [Debugging Node.js, The Right Way](https://www.builder.io/blog/debug-nodejs)
-  ```shell
-  node server.js --inspect-brk
-  ```
-  - [chrome dev tools](https://cdn.builder.io/api/v1/image/assets%252FYJIGb4i01jvw0SRdL5Bt%252Ff5dd633650214ff28d620d233299329b?format=webp&width=2000)
-
-## Week 8, 2023
-
-- [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
-- [Limbo: Scaling Software Collaboration](https://medium.com/@kentbeck_7670/limbo-scaling-software-collaboration-afd4f00db4b)
-  > Sort commits into “couldn’t possibly cause problems” (you’ll be mostly right) and “might cause problems”. Treat them differently. Rearrange your workflow so you have mostly “couldn’t possibly cause problems” commits.
-- [My class required AI. Here's what I've learned so far.](https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive)
-- [`a = 0-x` is about 3-10x faster than `a = -x`](https://twitter.com/mhevery/status/1626259524930932745)
-- [How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs/)
-- [Important SEO-Related HTML Tags, And How To Optimize Them](https://blog.openreplay.com/important-seo-related-tags-in-html-and-how-to-optimize-them/)
-- https://pointerpointer.com/
-- [How to Inspect Interactions in the Browser](https://www.builder.io/blog/inspect-interactions-in-the-browser)
-- [I love building a startup in Rust. I wouldn't pick it again.](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again)
-  > If you're thinking about building something in Rust, a good question to ask is, "what would I use if Rust didn't exist?" If your answer is something like Go or Node.js, then Rust is probably not the right choice. If your answer is C or C++ or something similar, then Rust is very likely the right choice.
-  > [zeroxfe](https://news.ycombinator.com/item?id=34836164)
-- [Writing Javascript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
-  - For me, a complicated Javascript build system just doesn’t seem worth it for small 500-line projects
-  - [if I want a build system, use esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
-- [CSS Named Colors: Groups, Palettes, Facts, & Fun](https://austingil.com/css-named-colors/)
+- [Master the Art of Caching for System Design Interviews: A Complete Guide](https://levelup.gitconnected.com/master-the-art-of-caching-for-system-design-interviews-a-complete-guide-676bb49d194)
+- [Highlights from Git 2.40](https://github.blog/2023-03-13-highlights-from-git-2-40/)
+- [Basics of CI/CD Pipeline](https://medium.com/jaanvi/basics-of-ci-cd-pipeline-5762e0eca44e)
+  1. Version control
+  2. Build
+  3. Unit test
+  4. Deploy
+  5. Auto test
+  6. Deploy to production
+  7. Measure & validate
+- [Managing State In Vue With Pinia ORM](https://blog.openreplay.com/managing-state-in-vue-with-pinia-orm/)
 
 ## What I read in past
 
