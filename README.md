@@ -26,46 +26,21 @@
 
 ---
 
+## Week 14, 2023
+
+- [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+  - https://github.com/twitter/the-algorithm
+- [One In Two New Npm Packages Is SEO Spam Right Now](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
+- [CSS hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+  - `<wbr>`, `&shy;` - [Two ways to safely break a long word in HTML](https://www.amitmerchant.com/two-ways-to-safely-break-a-long-word-in-html/)
+
 ## Week 13, 2023
 
+- [Why You Should Use Bash Over Python](https://dnastacio.medium.com/bash-over-python-39e0eba502f9)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) is **[SVGO](https://github.com/svg/svgo)**'s **M**issing **G**UI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write)
   > Writing for a child forces me to keep the words and concepts very, very simple, and to write in a style that builds up usage of the program from first principles. Writing for the grumpy old-timer is a practice in minimizing questions from them, forcing me to do a sort of final pass on the overall design of what I'm writing about, to defend design choices, and to add future improvements to the backlog. Drafting the documentation for semi-finished features that are still in progress has sometimes led me to change the design in order to make writing the docs targeting these two people simpler.  
   > — [albrewer](https://news.ycombinator.com/item?id=35307562)
-
-## Week 12, 2023
-
-- [Summarize anything with the Universal Summarizer](https://blog.kagi.com/universal-summarizer)
-- [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
-
-  > Software engineering exists as a discipline because you cannot EVER under any circumstances TRUST CODE.
-  >
-  > - You get the LLM to draft some code for you that’s 80% complete/correct.
-  > - You tweak the last 20% by hand.
-
-  > > Someone is hesitant about 5 times as productive because we only need to "check the code is good" for [two main reasons](https://news.ycombinator.com/item?id=35275438).
-
-- [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
-  - [Copilot X](https://github.com/github-copilot/chat_waitlist_signup/)
-  - [Copilot Docs](https://githubnext.com/projects/copilot-for-docs/)
-  - [Copilot for PRs](https://githubnext.com/projects/copilot-for-pull-requests/)
-  - [Copilot CLI](https://githubnext.com/projects/copilot-cli/)
-- [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/tacit-knowledge-is-a-real-thing/)
-- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) #bookshelf
-- [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
-- [Laying Out a Print Book With CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
-  - https://pagedjs.org/documentation/
-  - https://www.print-css.rocks/
-  - https://doc.courtbouillon.org/weasyprint/stable/
-- [How to Use v-model with Form Inputs in Vue](https://dmitripavlutin.com/vue-v-model-form-inputs/)
-- [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/) #bookshelf
-- [Steampipe](https://github.com/turbot/steampipe) is the universal interface to APIs. Use SQL to query cloud infrastructure, SaaS, code, logs, and more.
-  - https://github.com/turbot/steampipe-plugin-googlesheets
-- [libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
-- [How A Web Design Goes Straight To Hell](https://theoatmeal.com/comics/design_hell)
-- [Transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser! We currently support [BERT](https://huggingface.co/docs/transformers/model_doc/bert), [ALBERT](https://huggingface.co/docs/transformers/model_doc/albert), [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert), [T5](https://huggingface.co/docs/transformers/model_doc/t5), [T5v1.1](https://huggingface.co/docs/transformers/model_doc/t5v1.1), [FLAN-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5), [GPT2](https://huggingface.co/docs/transformers/model_doc/gpt2), [BART](https://huggingface.co/docs/transformers/model_doc/bart), [CodeGen](https://huggingface.co/docs/transformers/model_doc/codegen), [Whisper](https://huggingface.co/docs/transformers/model_doc/whisper), [CLIP](https://huggingface.co/docs/transformers/model_doc/clip), [Vision Transformer](https://huggingface.co/docs/transformers/model_doc/vit), and [VisionEncoderDecoder](https://huggingface.co/docs/transformers/model_doc/vision-encoder-decoder) models, for a variety of tasks including: masked language modelling, text classification, text-to-text generation, translation, summarization, question answering, text generation, automatic speech recognition, image classification, zero-shot image classification, and image-to-text.
-- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - The following is a list of text-based file formats and command line tools for manipulating each.
-- [Understanding lazy load and hydration in nuxt](https://stackoverflow.com/a/70263401/5163033)
-  - [It is almost always better to use `v-if` on the component instance.](https://twitter.com/MaOberlehner/status/1353747260434227201)
 
 ## What I read in past
 
