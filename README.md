@@ -14,6 +14,11 @@
 
 > [4 minutes run hard enough to push heart rate to 90%, 3 minutes recover, repeat 4 times](https://news.ycombinator.com/item?id=34213181)
 
+> [Leave Your Work Broken](https://census.dev/blog/an-on-ramp-to-flow)
+>
+> - Before stepping away, leave the code in a state where it is Obviously Broken, but Easy to Fix.
+> - Applying this technique means thinking about how to exit flow in a way that makes it easy to re-enter.
+
 > [recommended routine - bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/) - I Don't Have This Much Time!
 >
 > - Don't workout at all (saves anywhere from 20 to 60 minutes, but really, really, really, really, really, really, really, really, really not recommended)
@@ -28,6 +33,9 @@
 
 ## Week 14, 2023
 
+- [An On-Ramp to Flow](https://census.dev/blog/an-on-ramp-to-flow)
+  > Before stepping away, leave the code in a state where it is Obviously Broken, but Easy to Fix.  
+  > Applying this technique means thinking about how to exit flow in a way that makes it easy to re-enter. 
 - [Two-way data binding and reactivity with 15 lines of vanilla JavaScript](https://gomakethings.com/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/)
   - Proxy, Event delegate
 - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
