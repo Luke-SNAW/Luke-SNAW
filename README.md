@@ -31,8 +31,19 @@
 
 ---
 
+## Week 15, 2023
+
+- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
+
+  > why are you not using a database that does sharding for you?
+
+- [Gource](https://github.com/acaudwell/Gource) is a visualization tool for source control repositories.
+- [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
+
 ## Week 14, 2023
 
+- [Improving Web Accessibility with Semantic HTML and Testing Techniques and Tools](https://www.infoq.com/news/2023/04/web-accessibility/)
+- [CSS Masking - Ahmad Shadeed](https://ishadeed.com/article/css-masking/)
 - [An On-Ramp to Flow](https://census.dev/blog/an-on-ramp-to-flow)
   > Before stepping away, leave the code in a state where it is Obviously Broken, but Easy to Fix.  
   > Applying this technique means thinking about how to exit flow in a way that makes it easy to re-enter. 
@@ -49,14 +60,6 @@
 - [One In Two New Npm Packages Is SEO Spam Right Now](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
 - [CSS hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
   - `<wbr>`, `&shy;` - [Two ways to safely break a long word in HTML](https://www.amitmerchant.com/two-ways-to-safely-break-a-long-word-in-html/)
-
-## Week 13, 2023
-
-- [Why You Should Use Bash Over Python](https://dnastacio.medium.com/bash-over-python-39e0eba502f9)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/) is **[SVGO](https://github.com/svg/svgo)**'s **M**issing **G**UI, aiming to expose the majority, if not all the configuration options of SVGO.
-- [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write)
-  > Writing for a child forces me to keep the words and concepts very, very simple, and to write in a style that builds up usage of the program from first principles. Writing for the grumpy old-timer is a practice in minimizing questions from them, forcing me to do a sort of final pass on the overall design of what I'm writing about, to defend design choices, and to add future improvements to the backlog. Drafting the documentation for semi-finished features that are still in progress has sometimes led me to change the design in order to make writing the docs targeting these two people simpler.  
-  > — [albrewer](https://news.ycombinator.com/item?id=35307562)
 
 ## What I read in past
 
