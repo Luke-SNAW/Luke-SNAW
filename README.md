@@ -31,6 +31,16 @@
 
 ---
 
+## Week 16, 2023
+
+- [The relative font weight axis — how variable fonts ease font weight transitions](https://www.stefanjudis.com/today-i-learned/the-relative-font-weight-axis-how-variable-fonts-ease-font-weight/)
+- [Modern HTML email (tables no longer required)](https://fullystacked.net/posts/modern-html-email/)
+- [Can I Email](https://www.caniemail.com/clients/)
+- [Introducing the Space Git Flow](https://blog.jetbrains.com/space/2023/04/18/space-git-flow/)
+- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
+- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
+- https://docs.midjourney.com/docs/permutations
+
 ## Week 15, 2023
 
 - [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
@@ -49,27 +59,6 @@
 
 - [Gource](https://github.com/acaudwell/Gource) is a visualization tool for source control repositories.
 - [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
-
-## Week 14, 2023
-
-- [Improving Web Accessibility with Semantic HTML and Testing Techniques and Tools](https://www.infoq.com/news/2023/04/web-accessibility/)
-- [CSS Masking - Ahmad Shadeed](https://ishadeed.com/article/css-masking/)
-- [An On-Ramp to Flow](https://census.dev/blog/an-on-ramp-to-flow)
-  > Before stepping away, leave the code in a state where it is Obviously Broken, but Easy to Fix.  
-  > Applying this technique means thinking about how to exit flow in a way that makes it easy to re-enter. 
-- [Two-way data binding and reactivity with 15 lines of vanilla JavaScript](https://gomakethings.com/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/)
-  - Proxy, Event delegate
-- [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
-  > The strongly recommended way to start a new React project is to use a framework such as Next.js, while the traditional route of using bundlers like Vite or CRA is fairly strongly discouraged.
-- [AI won’t steal your job, people leveraging AI will](https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/)
-- [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
-  - bruce511's [another opinion](https://news.ycombinator.com/item?id=35419257)
-- [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
-- [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
-  - https://github.com/twitter/the-algorithm
-- [One In Two New Npm Packages Is SEO Spam Right Now](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
-- [CSS hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
-  - `<wbr>`, `&shy;` - [Two ways to safely break a long word in HTML](https://www.amitmerchant.com/two-ways-to-safely-break-a-long-word-in-html/)
 
 ## What I read in past
 
