@@ -31,6 +31,17 @@
 
 ---
 
+## Week 17, 2023
+- [What is Source Command in Linux and How Does it Work?](https://linuxhandbook.com/source-command/)
+- [Arrow Functions vs Regular Functions in JavaScript – What's the Difference?](https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/)
+- [Pico CSS](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+- [Quickstart for GitHub Packages](https://docs.github.com/en/packages/quickstart)
+- [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+- [THE NATURE OF CODE](https://natureofcode.com/book/) #bookshelf
+- [How does JWT work? is HS256 the best option?](https://iorilan.medium.com/how-does-jwt-work-is-hs256-the-best-option-6cd9463da7b3) - look EDDSA
+- [A 5 years+ tech lead said they shard a database to scale but then he failed to answer this question](https://iorilan.medium.com/a-5-years-tech-lead-said-they-shard-a-database-to-scale-but-then-he-failed-to-answer-this-question-8be39115dcb0)
+- [Next.js 13 is not ready for production](https://itsteknas.medium.com/next-js-13-is-not-ready-for-production-a8a8e50fbebf)
+
 ## Week 16, 2023
 
 - [Tachyon](https://github.com/weebney/tachyon) is a byte sized script that makes your website feel blazingly fast. It does this by prerendering pages before a user navigates to them, making page transitions virtually instant.
@@ -42,25 +53,6 @@
 - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
 - https://docs.midjourney.com/docs/permutations
-
-## Week 15, 2023
-
-- [You Don't Need Another Library to Compose Micro Frontends at Run Time](https://blog.bitsrc.io/you-dont-need-another-library-to-compose-micro-frontends-at-run-time-e803077ade67)
-- [EventTarget.dispatchEvent()](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/dispatchEvent)
-- [Improving CSS Shapes with Trigonometric Functions](https://danielcwilson.com/posts/css-shapes-with-trig-functions/)
-- [Jumping HTML tags. Another reason to validate your markup](https://pepelsbey.dev/articles/jumping-html-tags/)
-- [HTMHell](https://www.htmhell.dev/) - A collection of bad practices in HTML, copied from real websites.
-- [The 42 Best Pens for 2023: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-42-Best-Pens-for-2023-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
-  - [The Difference Between Ballpoint, Gel, and Rollerball Pens](https://www.jetpens.com/blog/The-Difference-Between-Ballpoint-Gel-and-Rollerball-Pens/pt/167)
-- [Croner](https://github.com/Hexagon/croner) - Cron for JavaScript and TypeScript
-- [Edit Anything by Segment-Anything](https://github.com/sail-sg/EditAnything)
-- [50 Ideas That Changed My Life](https://perell.com/essay/50-ideas-that-changed-my-life/)
-- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
-
-  > why are you not using a database that does sharding for you?
-
-- [Gource](https://github.com/acaudwell/Gource) is a visualization tool for source control repositories.
-- [What happens when you leak AWS credentials and how AWS minimizes the damage](https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 
 ## What I read in past
 
