@@ -31,28 +31,19 @@
 
 ---
 
-## Week 17, 2023
-- [What is Source Command in Linux and How Does it Work?](https://linuxhandbook.com/source-command/)
-- [Arrow Functions vs Regular Functions in JavaScript – What's the Difference?](https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/)
-- [Pico CSS](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [Quickstart for GitHub Packages](https://docs.github.com/en/packages/quickstart)
-- [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
-- [THE NATURE OF CODE](https://natureofcode.com/book/) #bookshelf
-- [How does JWT work? is HS256 the best option?](https://iorilan.medium.com/how-does-jwt-work-is-hs256-the-best-option-6cd9463da7b3) - look EDDSA
-- [A 5 years+ tech lead said they shard a database to scale but then he failed to answer this question](https://iorilan.medium.com/a-5-years-tech-lead-said-they-shard-a-database-to-scale-but-then-he-failed-to-answer-this-question-8be39115dcb0)
-- [Next.js 13 is not ready for production](https://itsteknas.medium.com/next-js-13-is-not-ready-for-production-a8a8e50fbebf)
+## Week 19, 2023
 
-## Week 16, 2023
+- [How to cache node_modules in GitHub Actions with Yarn](https://dev.to/mattpocockuk/how-to-cache-nodemodules-in-github-actions-with-yarn-24eh)
+- [24 Powerful HTML Attributes Every Senior Web Engineer Should Master!](https://javascript.plainenglish.io/24-powerful-html-attributes-every-senior-web-engineer-should-master-ad8a4df0776e)
+- [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
+- [Favour TypeScript Types Over Interfaces](https://www.lloydatkinson.net/posts/2023/favour-typescript-types-over-interfaces/)
 
-- [Tachyon](https://github.com/weebney/tachyon) is a byte sized script that makes your website feel blazingly fast. It does this by prerendering pages before a user navigates to them, making page transitions virtually instant.
-- [90% of My Skills Are Now Worth $0 ...but the other 10% are worth 1000x](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)
-- [The relative font weight axis — how variable fonts ease font weight transitions](https://www.stefanjudis.com/today-i-learned/the-relative-font-weight-axis-how-variable-fonts-ease-font-weight/)
-- [Modern HTML email (tables no longer required)](https://fullystacked.net/posts/modern-html-email/)
-- [Can I Email](https://www.caniemail.com/clients/)
-- [Introducing the Space Git Flow](https://blog.jetbrains.com/space/2023/04/18/space-git-flow/) - Branching Strategies about Git flow, GitHub flow, Trunk-based development, Space Git Flow
-- [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
-- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
-- https://docs.midjourney.com/docs/permutations
+## Week 18, 2023
+
+- [changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
+- [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
+- [Record Type in TypeScript](https://dmitripavlutin.com/typescript-record/)
+- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
 
 ## What I read in past
 
