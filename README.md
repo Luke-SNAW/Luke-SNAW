@@ -31,25 +31,18 @@
 
 ---
 
-## Week 19, 2023
+## Week 21, 2023
 
-- [I'm never investing in Google's smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
-- [file-type](https://github.com/sindresorhus/file-type) is detected by checking the [magic number](<https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_numbers_in_files>) of the buffer.
-- [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
-  - [When Should You Use Hypermedia?](https://htmx.org/essays/when-to-use-hypermedia/)
-- [Prime Video Switched from Serverless to EC2 and ECS to Save Costs](https://www.infoq.com/news/2023/05/prime-ec2-ecs-saves-costs/)
-- [On Starting A Side-Project: Hotwire vs. Angular](https://www.bennadel.com/blog/4458-on-starting-a-side-project-hotwire-vs-angular.htm)
-- [How to cache node_modules in GitHub Actions with Yarn](https://dev.to/mattpocockuk/how-to-cache-nodemodules-in-github-actions-with-yarn-24eh)
-- [24 Powerful HTML Attributes Every Senior Web Engineer Should Master!](https://javascript.plainenglish.io/24-powerful-html-attributes-every-senior-web-engineer-should-master-ad8a4df0776e)
-- [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
-- [Favour TypeScript Types Over Interfaces](https://www.lloydatkinson.net/posts/2023/favour-typescript-types-over-interfaces/)
+- [Affinity Photo as a Photoshop replacement for many people.](https://news.ycombinator.com/item?id=35988307)
+- https://twitter.com/hobdaydesign/status/1655680006901624839
 
-## Week 18, 2023
+## Week 20, 2023
 
-- [changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
-- [TypeScript Advanced Types for Next.js: Examples and Best Practices In 2023](https://blog.bitsrc.io/typescript-advanced-types-for-next-js-examples-and-best-practices-in-2023-a3a3946a353e)
-- [Record Type in TypeScript](https://dmitripavlutin.com/typescript-record/)
-- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+- [DevTools Tips](https://devtoolstips.org/) - A collection of useful cross-browser DevTools tips
+- [Closing Modals By Pressing the Back Button in Vue.js](https://javascript.plainenglish.io/closing-modals-by-pressing-the-back-button-in-vue-js-568589b4503f)
+- [Announcing Vue 3.3](https://blog.vuejs.org/posts/vue-3-3)
+  - [defineModel](https://blog.vuejs.org/posts/vue-3-3#definemodel)
+  - [Better Getter Support with `toRef` and `toValue`](https://blog.vuejs.org/posts/vue-3-3#better-getter-support-with-toref-and-tovalue)
 
 ## What I read in past
 
