@@ -31,6 +31,18 @@
 
 ---
 
+## Week 22, 2023
+
+- [Webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - image conversion and image stitching, pure front-end implementation, fast speed, privacy protection, and offline use,20 languages supported. [link](https://imagestool.com/webp2jpg-online/)
+- [Tidy First? Kent Beck on Refactoring](https://www.infoq.com/presentations/refactoring-cleaning-code/)
+  - Software design is an exercise in human relationships between waiters who want new features and changers who want to improve the code structure.
+  - Change the structure first. Then change the behavior and it'll be so much easier.
+- [Reading Code - Chakra UI](https://alexkondov.com/reading-code-chakra-ui/)
+- [Mastering the Art of Efficient JavaScript DOM Manipulation](https://itnext.io/mastering-the-art-of-efficient-javascript-dom-manipulation-899b5cbf5a3f)
+  - Use document fragments
+  - Use event delegation - `event.target.matches`
+- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
+
 ## Week 21, 2023
 
 - [SST](https://github.com/serverless-stack/sst) makes it easy to build modern full-stack applications on AWS.
@@ -67,14 +79,6 @@
 - [The Guardian Optimizes Mobile Push-Notification Delivery Architecture](https://www.infoq.com/news/2023/05/guardian-push-architecture/)
 - [Affinity Photo as a Photoshop replacement for many people.](https://news.ycombinator.com/item?id=35988307)
 - https://twitter.com/hobdaydesign/status/1655680006901624839
-
-## Week 20, 2023
-
-- [DevTools Tips](https://devtoolstips.org/) - A collection of useful cross-browser DevTools tips
-- [Closing Modals By Pressing the Back Button in Vue.js](https://javascript.plainenglish.io/closing-modals-by-pressing-the-back-button-in-vue-js-568589b4503f)
-- [Announcing Vue 3.3](https://blog.vuejs.org/posts/vue-3-3)
-  - [defineModel](https://blog.vuejs.org/posts/vue-3-3#definemodel)
-  - [Better Getter Support with `toRef` and `toValue`](https://blog.vuejs.org/posts/vue-3-3#better-getter-support-with-toref-and-tovalue)
 
 ## What I read in past
 
