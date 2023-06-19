@@ -31,35 +31,25 @@
 
 ---
 
-## Week 23, 2023
+## Week 25, 2023
 
-- [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
-- [Software Engineering at Google](https://abseil.io/resources/swe-book) #bookshelf
-- [How to avoid layout shifts caused by web fonts](https://simonhearne.com/2021/layout-shifts-webfonts/)
-  - use `font-display: optional` to prevent layout shifts
-    - hide text for up to 100ms, then only use the web font if it is available - never swapping
-    - If font-display: optional is not possible for your design, use f-mods to reduce the impact of font swaps
-  - subset fonts and serve as `woff2`
-  - use variable fonts or a limited set of weight variations
-  - preload critical fonts
-  - host your own fonts on your main domain
-- [Aimless.js](https://github.com/ChrisCavs/aimless.js) - The missing JavaScript randomness library.
-- [The Rise of the Serverless Monoliths](https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164)
-- [What the heck is the edge anyway?](https://blog.turso.tech/what-the-heck-is-the-edge-anyway-a159a12f2412)
-- [libSQL](https://github.com/libsql/libsql) is a fork of SQLite that is both Open Source, and Open Contributions.
-- [`display: contents` considered harmful](https://ericwbailey.website/published/display-contents-considered-harmful/)
+- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+  > from [HK news](https://news.ycombinator.com/item?id=36350632)
+  >
+  > - It's not fake research. It's actually quite an established science in the 24 years I've been doing it.
+  > - Take your first guess, double it, double it again if the stakeholder is a poser, add 20% per developer less experience than you, subtract 10% for the features you're going to essentially copy paste, add 15% for sick leave (browsing HN) and then double it for every question you have that are unresolved and divide it by the room temperature multiplied by the amount of people with mechanical keyboards.
+  > - That gives you roughly the right estimate for any job, until the next sprint.
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/ccustom-css-reset/)
+  - In MacOS Mojave, released in 2018, Apple disabled subpixel antialiasing across the operating system.
+  - Confusingly, MacOS browsers like Chrome and Safari still use subpixel antialiasing by default. We need to explicitly turn it off, by setting `-webkit-font-smoothing` to `antialiased`.
 
-## Week 22, 2023
+## Week 24, 2023
 
-- [Webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - image conversion and image stitching, pure front-end implementation, fast speed, privacy protection, and offline use,20 languages supported. [link](https://imagestool.com/webp2jpg-online/)
-- [Tidy First? Kent Beck on Refactoring](https://www.infoq.com/presentations/refactoring-cleaning-code/)
-  - Software design is an exercise in human relationships between waiters who want new features and changers who want to improve the code structure.
-  - Change the structure first. Then change the behavior and it'll be so much easier.
-- [Reading Code - Chakra UI](https://alexkondov.com/reading-code-chakra-ui/)
-- [Mastering the Art of Efficient JavaScript DOM Manipulation](https://itnext.io/mastering-the-art-of-efficient-javascript-dom-manipulation-899b5cbf5a3f)
-  - Use document fragments
-  - Use event delegation - `event.target.matches`
-- [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
+- [Edge sends images you view online to Microsoft, here is how to disable that](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
+- [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
+- [Effortlessly Support Next Gen Image Formats](https://dennisforbes.ca/articles/jpegxl_just_won_the_image_wars.html)
+  - use the `picture` element
 
 ## What I read in past
 
