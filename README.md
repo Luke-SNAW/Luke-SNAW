@@ -43,14 +43,6 @@
   - In MacOS Mojave, released in 2018, Apple disabled subpixel antialiasing across the operating system.
   - Confusingly, MacOS browsers like Chrome and Safari still use subpixel antialiasing by default. We need to explicitly turn it off, by setting `-webkit-font-smoothing` to `antialiased`.
 
-## Week 24, 2023
-
-- [Edge sends images you view online to Microsoft, here is how to disable that](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
-- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-- [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
-- [Effortlessly Support Next Gen Image Formats](https://dennisforbes.ca/articles/jpegxl_just_won_the_image_wars.html)
-  - use the `picture` element
-
 ## What I read in past
 
 - [👓 What I read in](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
