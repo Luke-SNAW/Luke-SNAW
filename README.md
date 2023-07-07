@@ -31,6 +31,12 @@
 
 ---
 
+## Week 27, 2023
+
+- [In Defence of DOMContentLoaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
+  > The DOMContentLoaded event fires once all of your deferred JavaScript has finished running.
+- [The hardest part of building software is not coding, it’s requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/) - Why replacing programmers with AI won’t be so easy.
+
 ## Week 26, 2023
 
 - [MJML](https://github.com/mjmlio/mjml) - the only framework that makes responsive-email easy
@@ -52,26 +58,6 @@
 - [A Complete Guide to CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/)
   > - `@layer reset, default, themes, patterns, layouts, components, utilities;`
 - [try](https://github.com/binpash/try) lets you run a command and inspect its effects before changing your live system. `try` uses Linux's [namespaces (via `unshare`)](https://docs.kernel.org/userspace-api/unshare.html) and the [overlayfs](https://docs.kernel.org/filesystems/overlayfs.html) union filesystem.
-
-## Week 25, 2023
-
-- [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-- [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
-- [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
-  > - `margin-right`: Translated to RTL, spacing problem. use `margin-inline-end` (or `gap`).
-  > - `img` alt: With that brief information, perhaps someone might be able to, say, recognize the exact pier in the photo if they had been there before or the like.
-  > - higher layer will win, regardless of specificity.
-  > - `@import url(~) layer;` - my @import of Bootstrap is plunked onto a layer. Note: we don’t even have to name it, and we can use this keyword instead of @layer while importing. - my super weak CSS selector in which I’m trying to override header margin does win
-  > - `@layer reset, default, themes, patterns, layouts, components, utilities;`
-- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
-  > from [HK news](https://news.ycombinator.com/item?id=36350632)
-  >
-  > - It's not fake research. It's actually quite an established science in the 24 years I've been doing it.
-  > - Take your first guess, double it, double it again if the stakeholder is a poser, add 20% per developer less experience than you, subtract 10% for the features you're going to essentially copy paste, add 15% for sick leave (browsing HN) and then double it for every question you have that are unresolved and divide it by the room temperature multiplied by the amount of people with mechanical keyboards.
-  > - That gives you roughly the right estimate for any job, until the next sprint.
-- [My Custom CSS Reset](https://www.joshwcomeau.com/css/ccustom-css-reset/)
-  - In MacOS Mojave, released in 2018, Apple disabled subpixel antialiasing across the operating system.
-  - Confusingly, MacOS browsers like Chrome and Safari still use subpixel antialiasing by default. We need to explicitly turn it off, by setting `-webkit-font-smoothing` to `antialiased`.
 
 ## What I read in past
 
