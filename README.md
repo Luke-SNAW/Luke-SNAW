@@ -31,6 +31,11 @@
 
 ---
 
+## Week 29, 2023
+
+- [[Browser] 리소스 우선순위 - preload, preconnect, prefetch](https://beomy.github.io/tech/browser/preload-preconnect-prefetch/)
+  > `prefetch`를 사용하면 리소스를 미리 캐시 해 두기 때문에 성능이 향상될 것이라고 예상. 하지만 vue-cli3에서 제공하는 prefetch 기능을 사용하면 오히려 첫 렌더링 성능이 저하되는 것으로 확인
+
 ## Week 28, 2023
 
 - [JavaScript closest](https://davidwalsh.name/element-closest)
@@ -38,14 +43,6 @@
   const link = document.querySelector("li a")
   const list = a.closest("ul")
   ```
-
-## Week 27, 2023
-
-- [What does the image decoding attribute actually do?](https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/)
-  > So does this make a difference as an HTML attribute? probably not that much.
-- [In Defence of DOMContentLoaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
-  > The DOMContentLoaded event fires once all of your deferred JavaScript has finished running.
-- [The hardest part of building software is not coding, it’s requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/) - Why replacing programmers with AI won’t be so easy.
 
 ## What I read in past
 
