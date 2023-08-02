@@ -33,7 +33,9 @@
 
 ## Week 31, 2023
 
-- Software Engineering at Google - ch.16~22
+- Software Engineering at Google - ch.16~25
+- [CSP Testing Using Cypress](https://glebbahmutov.com/blog/csp-testing-using-cypress/)
+- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
   - [What is Edge?](https://news.ycombinator.com/item?id=36941299)
 
