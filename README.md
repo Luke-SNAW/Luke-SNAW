@@ -33,6 +33,11 @@
 
 ## Week 31, 2023
 
+- [Building Software Together](https://luke-snaw.github.io/notes/ejkb541ebc0tp70n4hy72zw/) ch.21~28
+- [A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
+- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
+- [Resume and pause animations in CSS](https://www.amitmerchant.com/run-and-pause-animations-in-css/)
+  - `animation-play-state` property. - `running` and `paused`
 - Software Engineering at Google - ch.16~25
 - [CSP Testing Using Cypress](https://glebbahmutov.com/blog/csp-testing-using-cypress/)
 - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
