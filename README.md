@@ -31,30 +31,20 @@
 
 ---
 
-## Week 31, 2023
+## Week 33, 2023
 
-- [Building Software Together](https://luke-snaw.github.io/notes/ejkb541ebc0tp70n4hy72zw/) ch.21~28
-- [A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
-- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
-- [Resume and pause animations in CSS](https://www.amitmerchant.com/run-and-pause-animations-in-css/)
-  - `animation-play-state` property. - `running` and `paused`
-- Software Engineering at Google - ch.16~25
-- [CSP Testing Using Cypress](https://glebbahmutov.com/blog/csp-testing-using-cypress/)
-- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
-- [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
-  - [What is Edge?](https://news.ycombinator.com/item?id=36941299)
+- [When to use "chore" as type of commit message?](https://stackoverflow.com/a/26944812/5163033)
+  > "`grunt task`" means nothing that an external user would see:
+  >
+  > - implementation (of an _existing feature_, which doesn't involve a fix),
+  > - configuration (like the `.gitignore` or `.gitattributes`),
+  > - private internal methods...
 
-## Week 30, 2023
+## Week 32, 2023
 
-- Software Engineering at Google - ch.7~15
-  > Code is a liability, not an asset. Code itself doesn’t bring value: it is the functionality that it provides that brings value. That functionality is an asset if it meets a user need: the code that implements this functionality is simply a means to that end.
-- [Hono + htmx + Cloudflare is a new stack](https://blog.yusu.ke/hono-htmx-cloudflare/)
-- [Testing on the Toilet: Don't Put Logic in Tests](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html)
-  > Production code computes outputs from inputs while tests specify concrete input/output pairs. Complex test logic should be moved to helper functions with their own tests, leaving test bodies simple.
-- [[Browser] Critical Rendering Path 최적화](https://beomy.github.io/tech/browser/critical-rendering-path/#%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EC%A7%80%EC%A0%95)
-- [[Core Team RFC] New SFC macro: defineModel](https://github.com/vuejs/rfcs/discussions/503)
-- [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
-  - https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
+- [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+  - `<base>`
+- [meta seo inspector](https://www.omiod.com/meta-seo-inspector/) is a Chrome extension useful to inspect in 1 click the meta data usually not visible while browsing
 
 ## What I read in past
 
