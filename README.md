@@ -31,20 +31,21 @@
 
 ---
 
+## Week 34, 2023
+
+- [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
+  > While Tailwind may help with initial development speed, it can reduce craftsmanship and make code harder to work with over time.
+- [testing your animation refresh rate with css crimes??](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
+
 ## Week 33, 2023
 
+- [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 - [When to use "chore" as type of commit message?](https://stackoverflow.com/a/26944812/5163033)
   > "`grunt task`" means nothing that an external user would see:
   >
   > - implementation (of an _existing feature_, which doesn't involve a fix),
   > - configuration (like the `.gitignore` or `.gitattributes`),
   > - private internal methods...
-
-## Week 32, 2023
-
-- [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
-  - `<base>`
-- [meta seo inspector](https://www.omiod.com/meta-seo-inspector/) is a Chrome extension useful to inspect in 1 click the meta data usually not visible while browsing
 
 ## What I read in past
 
