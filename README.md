@@ -33,6 +33,15 @@
 
 ## Week 34, 2023
 
+- [PSA: Add dir="auto" to your inputs and textareas.](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
+- [Server-Side Rendering is a Thiel Truth](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+- [How architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
+  - https://www.workingsoftware.dev/software-architecture-canvas/
+  - https://canvas.arc42.org/architecture-communication-canvas
+  - https://arc42.org/overview/ - https://arc42.org/download
+  - https://softwarearchitecturefordevelopers.com/
+- [Understanding the Difference Between : and :: in CSS](https://medium.com/@islizeqiang/understanding-the-difference-between-and-in-css-64c9d36c21af)
+  > :: are used to create additional elements within an element
 - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
   > While Tailwind may help with initial development speed, it can reduce craftsmanship and make code harder to work with over time.
 - [testing your animation refresh rate with css crimes??](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
