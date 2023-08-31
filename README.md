@@ -31,6 +31,17 @@
 
 ---
 
+## Week 35, 2023
+
+- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
+  > The author describes making several improvements to their search engine that significantly increased its performance and scalability. They reworked the URL database to use a single SQLite table instead of large MySQL tables, generating unique IDs during indexing rather than relying on database auto-increment. This reduced RAM usage and allowed indexing to continue while the database was updated. They also changed how the reverse index was constructed, building multiple smaller pre-indexes in memory and then merging them, instead of using a large in-memory lexicon. This avoided writing terabytes of random data to disk and allowed indexing disparate datasets together. Overall these changes halved RAM usage and addressed all known scaling issues, improving the system considerably more than expected.
+- [🧠 The Psychology of Design](https://growth.design/psychology) - 106 Cognitive Biases & Principles That Affect Your UX #bookshelf
+- [VPN Relationship Map](https://windscribe.com/vpnmap) - Find out who owns your data and see all the shady relationships in the VPN industry.
+- [git bisect](https://git-scm.com/docs/git-bisect) - during fix vite plugin error
+- [Programming as Theory Building](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
+  - [Theory building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
+- [As I get older, I just don't care about new technology](https://old.reddit.com/r/webdev/comments/1613yqj/as_i_get_older_i_just_dont_care_about_new/)
+
 ## Week 34, 2023
 
 - [PSA: Add dir="auto" to your inputs and textareas.](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
@@ -45,16 +56,6 @@
 - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
   > While Tailwind may help with initial development speed, it can reduce craftsmanship and make code harder to work with over time.
 - [testing your animation refresh rate with css crimes??](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
-
-## Week 33, 2023
-
-- [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
-- [When to use "chore" as type of commit message?](https://stackoverflow.com/a/26944812/5163033)
-  > "`grunt task`" means nothing that an external user would see:
-  >
-  > - implementation (of an _existing feature_, which doesn't involve a fix),
-  > - configuration (like the `.gitignore` or `.gitattributes`),
-  > - private internal methods...
 
 ## What I read in past
 
