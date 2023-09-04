@@ -35,7 +35,7 @@
 
 - [The Worst Programmer I Know](https://dannorth.net/2023/09/02/the-worst-programmer/)
   > Tim wasn’t delivering software; Tim was delivering a team that was delivering software.
-- [How To Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/) ([[Vomit Draft|writing.vomit-draft]])
+- [How To Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/) ([Vomit Draft](https://luke-snaw.github.io/notes/xuv0h9lxmedepsz2z6vtchq/))
   > The article provides advice on how to improve one's writing through effective editing and revising. It states that first drafts are usually poor but that is normal, as editing is the hidden yet vital second half of writing. By learning to read one's own work as a reader would, an author can better see where the writing fails to effectively convey the intended story. It takes many drafts to transform the ideas in one's head into clear writing that evokes the same experience for others. While the process can feel despairing, persisting through multiple revisions is necessary to craft a story that readers can fully understand and engage with. Effective editing focuses first on major structural issues before minor details.
 - [Explaining The Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
   - [SQL iceberg explained](https://www.youtube.com/watch?v=JZRWkfXNQOk)
