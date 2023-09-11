@@ -31,8 +31,17 @@
 
 ---
 
+## Week 37, 2023
+
+- [preload vs prefetch](https://phuoc.ng/collection/this-vs-that/preload-vs-prefetch/)
+- [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
+
 ## Week 36, 2023
 
+- [Building a Native Superapp with Micro Frontends and Federated Capacitor](https://ionic.io/blog/building-a-native-superapp-with-micro-frontends-and-federated-capacitor)
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
+- [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01) - https://github.com/hotwired/turbo/pull/971
 - [Measuring developer productivity? A response to McKinsey](https://tidyfirst.substack.com/p/measuring-developer-productivity)
 - [Javascript labeled statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label)
 - [The Worst Programmer I Know](https://dannorth.net/2023/09/02/the-worst-programmer/)
@@ -41,19 +50,6 @@
   > The article provides advice on how to improve one's writing through effective editing and revising. It states that first drafts are usually poor but that is normal, as editing is the hidden yet vital second half of writing. By learning to read one's own work as a reader would, an author can better see where the writing fails to effectively convey the intended story. It takes many drafts to transform the ideas in one's head into clear writing that evokes the same experience for others. While the process can feel despairing, persisting through multiple revisions is necessary to craft a story that readers can fully understand and engage with. Effective editing focuses first on major structural issues before minor details.
 - [Explaining The Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
   - [SQL iceberg explained](https://www.youtube.com/watch?v=JZRWkfXNQOk)
-
-## Week 35, 2023
-
-- [Getting all links from any web site into a spreadsheet using browser developer tools](https://christianheilmann.com/2023/08/24/quick-tip-getting-all-links-from-any-web-site-into-a-spreadsheet-using-browser-developer-tools/) - `console.table($$('a'),['innerHTML','href'])`
-- [Animated Koots](https://www.animatedknots.com/)
-- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
-  > The author describes making several improvements to their search engine that significantly increased its performance and scalability. They reworked the URL database to use a single SQLite table instead of large MySQL tables, generating unique IDs during indexing rather than relying on database auto-increment. This reduced RAM usage and allowed indexing to continue while the database was updated. They also changed how the reverse index was constructed, building multiple smaller pre-indexes in memory and then merging them, instead of using a large in-memory lexicon. This avoided writing terabytes of random data to disk and allowed indexing disparate datasets together. Overall these changes halved RAM usage and addressed all known scaling issues, improving the system considerably more than expected.
-- [🧠 The Psychology of Design](https://growth.design/psychology) - 106 Cognitive Biases & Principles That Affect Your UX #bookshelf
-- [VPN Relationship Map](https://windscribe.com/vpnmap) - Find out who owns your data and see all the shady relationships in the VPN industry.
-- [git bisect](https://git-scm.com/docs/git-bisect) - during fix vite plugin error
-- [Programming as Theory Building](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
-  - [Theory building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
-- [As I get older, I just don't care about new technology](https://old.reddit.com/r/webdev/comments/1613yqj/as_i_get_older_i_just_dont_care_about_new/)
 
 ## What I read in past
 
