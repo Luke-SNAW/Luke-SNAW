@@ -33,6 +33,8 @@
 
 ## Week 37, 2023
 
+- [Some notes on Local-First Development](https://bricolage.io/some-notes-on-local-first-development/)
+  - [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated, SQLite - "It's like Git, for your data."
 - [preload vs prefetch](https://phuoc.ng/collection/this-vs-that/preload-vs-prefetch/)
 - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 
