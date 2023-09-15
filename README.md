@@ -33,6 +33,10 @@
 
 ## Week 37, 2023
 
+- [Hacker News Daily Top 10 posts](https://github.com/headllines/hackernews-daily) - You can subscribe by [watching this repo](https://github.com/headllines/hackernews-daily#how-does-it-work) or via [RSS](https://feeds.pub/feed/http%3A%2F%2Frsshub.app%2Fgithub%2Fissue%2Fheadllines%2Fhackernews-daily).
+- [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
+- [ThumbHash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+  - [unpic/placeholder🖼️](https://github.com/ascorbic/unpic-placeholder) is a library for generating low quality image placeholders (LQIP) by extracting the dominant color from image, or by server-side rendering a [BlurHash](https://blurha.sh/) value.
 - [Some notes on Local-First Development](https://bricolage.io/some-notes-on-local-first-development/)
   - [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated, SQLite - "It's like Git, for your data."
 - [preload vs prefetch](https://phuoc.ng/collection/this-vs-that/preload-vs-prefetch/)
