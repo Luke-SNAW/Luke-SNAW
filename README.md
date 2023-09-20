@@ -31,6 +31,18 @@
 
 ---
 
+## Week 38, 2023
+
+- https://v0.dev/
+- [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://nitter.net/OSSInsight/status/1703087927763542305)
+  - [OSS Game Engine - Ranking](https://ossinsight.io/collections/game-engine/)
+- [How Instagram scaled to 14 million users with only 3 engineers](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
+  - Keep things very simple.
+  - Don’t re-invent the wheel.
+  - Use proven, solid technologies when possible.
+- [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5) - curl, zip, sqlite
+- [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+
 ## Week 37, 2023
 
 - [Hacker News Daily Top 10 posts](https://github.com/headllines/hackernews-daily) - You can subscribe by [watching this repo](https://github.com/headllines/hackernews-daily#how-does-it-work) or via [RSS](https://feeds.pub/feed/http%3A%2F%2Frsshub.app%2Fgithub%2Fissue%2Fheadllines%2Fhackernews-daily).
@@ -41,21 +53,6 @@
   - [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated, SQLite - "It's like Git, for your data."
 - [preload vs prefetch](https://phuoc.ng/collection/this-vs-that/preload-vs-prefetch/)
 - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
-
-## Week 36, 2023
-
-- [Building a Native Superapp with Micro Frontends and Federated Capacitor](https://ionic.io/blog/building-a-native-superapp-with-micro-frontends-and-federated-capacitor)
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
-- [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01) - https://github.com/hotwired/turbo/pull/971
-- [Measuring developer productivity? A response to McKinsey](https://tidyfirst.substack.com/p/measuring-developer-productivity)
-- [Javascript labeled statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label)
-- [The Worst Programmer I Know](https://dannorth.net/2023/09/02/the-worst-programmer/)
-  > Tim wasn’t delivering software; Tim was delivering a team that was delivering software.
-- [How To Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/) ([Vomit Draft](https://luke-snaw.github.io/notes/xuv0h9lxmedepsz2z6vtchq/))
-  > The article provides advice on how to improve one's writing through effective editing and revising. It states that first drafts are usually poor but that is normal, as editing is the hidden yet vital second half of writing. By learning to read one's own work as a reader would, an author can better see where the writing fails to effectively convey the intended story. It takes many drafts to transform the ideas in one's head into clear writing that evokes the same experience for others. While the process can feel despairing, persisting through multiple revisions is necessary to craft a story that readers can fully understand and engage with. Effective editing focuses first on major structural issues before minor details.
-- [Explaining The Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
-  - [SQL iceberg explained](https://www.youtube.com/watch?v=JZRWkfXNQOk)
 
 ## What I read in past
 
