@@ -31,50 +31,27 @@
 
 ---
 
-## Week 38, 2023
+## Week 40, 2023
 
+- [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
+  > Many popular npm packages depend on 6-8x more packages than they need to. Most of these are unnecessary polyfills.
+- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+  > It uses the QUIC protocol, which improves on TCP by more extensively encrypting metadata and enabling faster connection setup. QUIC also enhances performance by eliminating issues like head-of-line blocking and improving network handling. While HTTP/3 was created to work over QUIC, the true innovation was QUIC itself, which updates TCP with security and efficiency improvements. QUIC encryption makes it easier to update features, since middleboxes cannot access metadata. Overall, QUIC and HTTP/3 enhance web performance and security by modernizing core Internet protocols.
+- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup) discusses how hate speech and misinformation spread on Facebook contributed to real-world violence against Rohingya Muslims in Myanmar starting in 2012. Activists had warned Facebook for years about this issue but the company was slow to act.
+- [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
+- [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
+- [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve them](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/) discusses architecture challenges for massively multiplayer online (MMO) games. Unlike enterprise systems, the source of truth for an MMO's game world is the in-memory state, not the database, as persisting frequent updates would cause bottlenecks. To address this, the article recommends using a data service with the full state cached in memory.
+- [Everything authenticated by Microsoft is tainted.](https://graz.social/@publicvoit/111147782761723981)
+- [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/)
+  > [There are a lot of problems in YAML, but I think the main real problem is trying to put logic inside configuration.](https://news.ycombinator.com/item?id=37687365)
+- [Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends) - in distance of 5-minute walk
+  - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
+
+## Week 39, 2023
+
+- [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
 - [Unity's oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
 - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
-- [Understanding NestJS Architecture](https://medium.com/aws-tip/understanding-nestjs-architecture-f257d054211d)
-- [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
-- [🏃‍♂️🏃‍♀️🏃 JS minification benchmarks](https://github.com/privatenumber/minification-benchmarks)
-- [Patterns for Reactivity with Modern Vanilla JavaScript](https://frontendmasters.com/blog/vanilla-javascript-reactivity/)
-- [Responsive Viewer Chrome extension](https://github.com/skmail/responsive-viewer)
-- [Reliably Send an HTTP Request as a User Leaves a Page](https://css-tricks.com/send-an-http-request-on-page-exit/)
-- [Get All That Network Activity Under Control with Priority Hints](https://www.macarthur.me/posts/priority-hints)
-- [Web Incubator Community Group](https://wicg.io/) (WICG) is a community group of the [World Wide Web Consortium (W3C)](https://www.w3.org/) that incubates new web platform features.
-- [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
-- [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
-- [We can't send email more than 500 miles](http://web.mit.edu/jemorris/humor/500-miles)
-  - https://news.ycombinator.com/item?id=23777700
-- [Svelte 5: Runes](https://svelte.dev/blog/runes)
-
-  > [reactivity and two way data binding creating a spaghetti mess of changes affecting other changes all over the place unless you're really careful is why React was made in the first place](https://news.ycombinator.com/item?id=37584877)
-
-  > [Svelte uses signals as an implementation detail, but in a way that prevents the sorts of headaches you're describing.](https://news.ycombinator.com/item?id=37585078)
-
-  - [MrJohz's opinion among front-end frameworks](https://news.ycombinator.com/item?id=37589355)
-
-- https://v0.dev/
-- [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://nitter.net/OSSInsight/status/1703087927763542305)
-  - [OSS Game Engine - Ranking](https://ossinsight.io/collections/game-engine/)
-- [How Instagram scaled to 14 million users with only 3 engineers](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
-  - Keep things very simple.
-  - Don’t re-invent the wheel.
-  - Use proven, solid technologies when possible.
-- [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5) - curl, zip, sqlite
-- [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
-
-## Week 37, 2023
-
-- [Hacker News Daily Top 10 posts](https://github.com/headllines/hackernews-daily) - You can subscribe by [watching this repo](https://github.com/headllines/hackernews-daily#how-does-it-work) or via [RSS](https://feeds.pub/feed/http%3A%2F%2Frsshub.app%2Fgithub%2Fissue%2Fheadllines%2Fhackernews-daily).
-- [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
-- [ThumbHash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-  - [unpic/placeholder🖼️](https://github.com/ascorbic/unpic-placeholder) is a library for generating low quality image placeholders (LQIP) by extracting the dominant color from image, or by server-side rendering a [BlurHash](https://blurha.sh/) value.
-- [Some notes on Local-First Development](https://bricolage.io/some-notes-on-local-first-development/)
-  - [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated, SQLite - "It's like Git, for your data."
-- [preload vs prefetch](https://phuoc.ng/collection/this-vs-that/preload-vs-prefetch/)
-- [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 
 ## What I read in past
 
