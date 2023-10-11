@@ -31,6 +31,12 @@
 
 ---
 
+## Week 41, 2023
+
+- [Thread-per-core](https://without.boats/blog/thread-per-core/)
+  > The thread-per-core architecture for Rust async programs has been controversial. While it promises better performance and ease of implementation, it may only achieve one, not both. A share-nothing approach keeps data in separate core caches but is complex to implement transactionally.
+  > [The debate isn't about thread-per-core work stealing executors, it's whether async/await is a good abstraction for it in Rust. And the more async code I write the more I feel that it's leaky and hard to program against.](https://news.ycombinator.com/item?id=37791635)
+
 ## Week 40, 2023
 
 - [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
@@ -46,12 +52,6 @@
   > [There are a lot of problems in YAML, but I think the main real problem is trying to put logic inside configuration.](https://news.ycombinator.com/item?id=37687365)
 - [Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends) - in distance of 5-minute walk
   - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
-
-## Week 39, 2023
-
-- [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
-- [Unity's oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
-- [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 
 ## What I read in past
 
