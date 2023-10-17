@@ -31,6 +31,13 @@
 
 ---
 
+## Week 42, 2023
+
+- [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+  - [You can also filter based on the remote URL!](https://news.ycombinator.com/item?id=37904125)
+- [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [One Game, By One Man, On Six Platforms: The Good, The Bad and The Ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
+
 ## Week 41, 2023
 
 - [A comprehensive guide to the dangers of Regular Expressions in JavaScript](https://www.sonarsource.com/blog/vulnerable-regular-expressions-javascript/) explains how certain regex patterns can cause exponential backtracking on long strings, leading to regular expression denial of service (ReDoS) vulnerabilities. Two real world examples caused major outages at Stack Overflow and CloudFlare due to unintentionally vulnerable regex use.
@@ -55,22 +62,6 @@
   > The thread-per-core architecture for Rust async programs has been controversial. While it promises better performance and ease of implementation, it may only achieve one, not both. A share-nothing approach keeps data in separate core caches but is complex to implement transactionally.
   > 
   > [The debate isn't about thread-per-core work stealing executors, it's whether async/await is a good abstraction for it in Rust. And the more async code I write the more I feel that it's leaky and hard to program against.](https://news.ycombinator.com/item?id=37791635)
-
-## Week 40, 2023
-
-- [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
-  > Many popular npm packages depend on 6-8x more packages than they need to. Most of these are unnecessary polyfills.
-- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
-  > It uses the QUIC protocol, which improves on TCP by more extensively encrypting metadata and enabling faster connection setup. QUIC also enhances performance by eliminating issues like head-of-line blocking and improving network handling. While HTTP/3 was created to work over QUIC, the true innovation was QUIC itself, which updates TCP with security and efficiency improvements. QUIC encryption makes it easier to update features, since middleboxes cannot access metadata. Overall, QUIC and HTTP/3 enhance web performance and security by modernizing core Internet protocols.
-- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup) discusses how hate speech and misinformation spread on Facebook contributed to real-world violence against Rohingya Muslims in Myanmar starting in 2012. Activists had warned Facebook for years about this issue but the company was slow to act.
-- [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
-- [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-- [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve them](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/) discusses architecture challenges for massively multiplayer online (MMO) games. Unlike enterprise systems, the source of truth for an MMO's game world is the in-memory state, not the database, as persisting frequent updates would cause bottlenecks. To address this, the article recommends using a data service with the full state cached in memory.
-- [Everything authenticated by Microsoft is tainted.](https://graz.social/@publicvoit/111147782761723981)
-- [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/)
-  > [There are a lot of problems in YAML, but I think the main real problem is trying to put logic inside configuration.](https://news.ycombinator.com/item?id=37687365)
-- [Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends) - in distance of 5-minute walk
-  - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
 
 ## What I read in past
 
