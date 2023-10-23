@@ -31,8 +31,20 @@
 
 ---
 
+## Week 43, 2023
+
+- [Pushing for a lower dev estimate is like negotiating better weather with a meteorologist](https://smartguess.is/blog/your-estimate-is-less-than-that/) discusses how stakeholders often push development teams to provide lower estimates than initially given, without valid reasons for why the effort would decrease.
+  - Estimates cannot be pushed lower without new information.
+  - With open communication around constraints and tradeoffs, teams can set appropriate expectations and deliver value along the way.
+- [Flappy Bird Implemented in Typescript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
+- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/) discusses different approaches to representing hexagonal grids in code, including cube, axial, offset, and doubled coordinates.
+  - Each system has tradeoffs in terms of simplicity for algorithms and storage.
+  - Axial coordinates are recommended for algorithms as they allow basic math operations.
+  - Offset coordinates may be better for storage.
+
 ## Week 42, 2023
 
+- [useFetch triggers a request on the client side in nested components (using resolveComponent) #20476](https://github.com/nuxt/nuxt/issues/20476)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#%3Cinput%3E_types
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode
@@ -54,31 +66,6 @@
   - [You can also filter based on the remote URL!](https://news.ycombinator.com/item?id=37904125)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 - [One Game, By One Man, On Six Platforms: The Good, The Bad and The Ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
-
-## Week 41, 2023
-
-- [A comprehensive guide to the dangers of Regular Expressions in JavaScript](https://www.sonarsource.com/blog/vulnerable-regular-expressions-javascript/) explains how certain regex patterns can cause exponential backtracking on long strings, leading to regular expression denial of service (ReDoS) vulnerabilities. Two real world examples caused major outages at Stack Overflow and CloudFlare due to unintentionally vulnerable regex use.
-- [JavaScript Hydration Is a Workaround, Not a Solution](https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/)
-  > JavaScript hydration is a technique used to add interactivity to server-rendered HTML pages by attaching event handlers to DOM elements on the client-side.  
-  > However, this process requires recovering the necessary information to rebuild the application state and framework state. The document argues that hydration is an overhead because it duplicates the work already done by the server.
-  >
-  > A better approach called resumability avoids this overhead by serializing and transferring the necessary information from server to client.
-  > This allows lazy execution of event handlers on the client-side instead of eagerly executing all components.
-- [Angular, Qwik Creator on How JS Frameworks Handle Reactivity](https://thenewstack.io/angular-qwik-creator-on-how-js-frameworks-handle-reactivity/)
-  > Three approaches: values, signals, and observables.
-  >
-  > Angular and React use values and take a coarse-grained approach, re-rendering everything when data changes.  
-  > Vue is more fine-grained and will skip re-rendering unchanged components.  
-  > Svelte compilers code to be more efficient.  
-  > Qwik downloads only the minimal code needed through signals and resumability, making it highly optimized for start-up performance.  
-  > Solid uses signals to be the most fine-grained, only executing code initially.
-- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
-  > The use of barrel files, which only re-export other files, is very common in large JavaScript projects. However, they can significantly slow down development tasks by forcing the rebuilding of the entire module graph for every file.
-- [AI is an Ideology, Not a Technology](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/) argues that artificial intelligence is better understood as an ideology rather than just a technology. It promotes a view of autonomous machine intelligence that could replace humans, but this is a mirage since AI relies heavily on human data and contributions. An alternative view is to focus on how people are central to developing AI systems through providing examples, problem-solving and understanding the technology.
-- [Thread-per-core](https://without.boats/blog/thread-per-core/)
-  > The thread-per-core architecture for Rust async programs has been controversial. While it promises better performance and ease of implementation, it may only achieve one, not both. A share-nothing approach keeps data in separate core caches but is complex to implement transactionally.
-  > 
-  > [The debate isn't about thread-per-core work stealing executors, it's whether async/await is a good abstraction for it in Rust. And the more async code I write the more I feel that it's leaky and hard to program against.](https://news.ycombinator.com/item?id=37791635)
 
 ## What I read in past
 
