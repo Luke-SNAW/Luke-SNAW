@@ -31,6 +31,16 @@
 
 ---
 
+## Week 44, 2023
+
+- [Immanuel Kant—What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
+- [Toxins in chocolate](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)
+- [SQLite is not without its shortcomings.](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite#weaknesses)
+  > https://news.ycombinator.com/item?id=38036921
+- [LiteFS - Distributed SQLite](https://fly.io/docs/litefs/)
+- [Turso](https://turso.tech/) which uses SQLite under the hood and even has a concept called "embedded replicas" for zero latency reads.
+- [How to draw beautiful software architecture diagrams (part 1)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
+
 ## Week 43, 2023
 
 - [Kysely](https://github.com/kysely-org/kysely) is a type-safe and autocompletion-friendly typescript SQL query builder.
@@ -61,31 +71,6 @@
   - Each system has tradeoffs in terms of simplicity for algorithms and storage.
   - Axial coordinates are recommended for algorithms as they allow basic math operations.
   - Offset coordinates may be better for storage.
-
-## Week 42, 2023
-
-- [useFetch triggers a request on the client side in nested components (using resolveComponent) #20476](https://github.com/nuxt/nuxt/issues/20476)
-- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
-  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#%3Cinput%3E_types
-  - https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inputmode
-  - https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
-- [Styling External Links with Attribute Selectors](https://css-irl.info/styling-external-links-with-attribute-selectors/)
-  - `a[class~='link']`, `a[href*='css-irl' s]`
-- [The Ultimate Low-Quality Image Placeholder Technique](https://csswizardry.com/2023/09/the-ultimate-lqip-lcp-technique/)
-- [Fast-Paced Multiplayer (Part IV): Lag Compensation](https://www.gabrielgambetta.com/lag-compensation.html)
-- [Fast-Paced Multiplayer (Part III): Entity Interpolation](https://www.gabrielgambetta.com/entity-interpolation.html)
-- [How to escape CSS selectors in JavaScript](https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/) - a handy static method in the `CSS` JavaScript namespace to help with this exact problem — [`CSS.escape()`](https://developer.mozilla.org/en-US/docs/Web/API/CSS/escape_static)
-- [Fast-Paced Multiplayer (Part II): Client-Side Prediction and Server Reconciliation](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)
-- [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/) for the joy of computing.
-- [Reflect](https://reflect.net/) - High-performance sync for multiplayer web apps
-  - [Ready Player Two](https://rocicorp.dev/blog/ready-player-two) - Transactional Conflict Resolution instead of CRDTs
-- [PartyKit](https://github.com/partykit/partykit/) simplifies developing multiplayer applications
-- [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/) argues teams should first refactor their code into isolated domains and minimize dependencies before considering microfrontends.
-- [alternative-front-ends](https://github.com/mendel5/alternative-front-ends/) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
-  - [You can also filter based on the remote URL!](https://news.ycombinator.com/item?id=37904125)
-- [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [One Game, By One Man, On Six Platforms: The Good, The Bad and The Ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 
 ## What I read in past
 
