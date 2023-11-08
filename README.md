@@ -31,6 +31,13 @@
 
 ---
 
+## Week 45, 2023
+
+- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
+  > In the real world the most important problems are vague and have many evaluation dimensions. Author found it rewarding to optimize for speed, cost and other pragmatic factors rather than just difficulty.
+- [Litestream](https://docs.servicestack.net/ormlite/litestream#litestream)
+- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+
 ## Week 44, 2023
 
 - [Speeding up the JavaScript ecosystem - Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
