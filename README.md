@@ -33,6 +33,9 @@
 
 ## Week 45, 2023
 
+- [Webgl Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/) - it breaks accessibility
+  > [`disabled` shouldn't block focus](https://news.ycombinator.com/item?id=38196458)
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
   > In the real world the most important problems are vague and have many evaluation dimensions. Author found it rewarding to optimize for speed, cost and other pragmatic factors rather than just difficulty.
 - [Litestream](https://docs.servicestack.net/ormlite/litestream#litestream)
