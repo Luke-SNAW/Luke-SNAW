@@ -31,8 +31,25 @@
 
 ---
 
+## Week 46, 2023
+
+- [Find bilingual baby names](https://mixedname.com/)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [Debugging dynamic content in browser dev tools](https://darekkay.com/blog/debugging-dynamic-content/)
+
 ## Week 45, 2023
 
+- [Don't Use Fixed CSS height or width on Buttons, Links, or Any Other Text Containers](https://ashleemboyer.com/blog/don-t-use-fixed-css-height-or-width-on-text-containers)
+  > Despite some web design tools specifying CSS `height` values for elements like buttons, setting `height` or `max-height` can actually put you at risk for failing [WCAG 2.2 Success Criterion 1.4.4 Resize Text](https://www.w3.org/TR/WCAG22/#resize-text).
+- [Strikethrough Accessibility](https://www.webaxe.org/strikethrough-html-accessibility/)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/)
+- [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop.html)
+- [Monaspace](https://monaspace.githubnext.com/)
+  ```shell
+  system_profiler -json SPFontsDataType | grep \"family | sort | uniq # https://stackoverflow.com/a/67132993/5163033
+  ```
+  Or  
+  In Desktop view, Press “⌘ + Space” to start Spotlight, then type in “font book”
 - [Webgl Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/) - it breaks accessibility
   > [`disabled` shouldn't block focus](https://news.ycombinator.com/item?id=38196458)
@@ -40,24 +57,6 @@
   > In the real world the most important problems are vague and have many evaluation dimensions. Author found it rewarding to optimize for speed, cost and other pragmatic factors rather than just difficulty.
 - [Litestream](https://docs.servicestack.net/ormlite/litestream#litestream)
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
-
-## Week 44, 2023
-
-- [Speeding up the JavaScript ecosystem - Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
-- [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
-  > [So it does look like git's delta encoding works with sqlite's blocks.](https://news.ycombinator.com/item?id=38117779)
-- [Full-Stack Tao: Start With the Domain](https://alexkondov.com/full-stack-tao-start-with-the-domain/)
-- [grist-core](https://github.com/gristlabs/grist-core) is the evolution of spreadsheets.
-- [Window-swap](https://www.window-swap.com/) – open a new window somewhere in the world
-  - https://www.earthcam.com/
-- [Critical rendering path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
-- [Immanuel Kant—What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
-- [Toxins in chocolate](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate#chocolate-tables)
-- [SQLite is not without its shortcomings.](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite#weaknesses)
-  > https://news.ycombinator.com/item?id=38036921
-- [LiteFS - Distributed SQLite](https://fly.io/docs/litefs/)
-- [Turso](https://turso.tech/) which uses SQLite under the hood and even has a concept called "embedded replicas" for zero latency reads.
-- [How to draw beautiful software architecture diagrams (part 1)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 
 ## What I read in past
 
