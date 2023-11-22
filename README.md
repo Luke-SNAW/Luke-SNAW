@@ -31,6 +31,18 @@
 
 ---
 
+## Week 47, 2023
+
+- [Realtime planet shader in WebGL](https://github.com/jsulpis/realtime-planet-shader)
+- [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/a/623375)
+  > stay within 30%-80%
+  - [How to Prolong Lithium-based Batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
+- [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
+- [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
+  - [YouTube blames ad blockers for slow load times, and it has nothing to do with your browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images.
+- [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
+
 ## Week 46, 2023
 
 - [REST, GraphQL or RPC — A Decision Paralysis](https://itnext.io/rest-graphql-or-rpc-a-decision-paralysis-0acaa84b5a27)
@@ -43,27 +55,6 @@
 - [Find bilingual baby names](https://mixedname.com/)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [Debugging dynamic content in browser dev tools](https://darekkay.com/blog/debugging-dynamic-content/)
-
-## Week 45, 2023
-
-- [Don't Use Fixed CSS height or width on Buttons, Links, or Any Other Text Containers](https://ashleemboyer.com/blog/don-t-use-fixed-css-height-or-width-on-text-containers)
-  > Despite some web design tools specifying CSS `height` values for elements like buttons, setting `height` or `max-height` can actually put you at risk for failing [WCAG 2.2 Success Criterion 1.4.4 Resize Text](https://www.w3.org/TR/WCAG22/#resize-text).
-- [Strikethrough Accessibility](https://www.webaxe.org/strikethrough-html-accessibility/)
-- [Internet Artifacts](https://neal.fun/internet-artifacts/)
-- [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop.html)
-- [Monaspace](https://monaspace.githubnext.com/)
-  ```shell
-  system_profiler -json SPFontsDataType | grep \"family | sort | uniq # https://stackoverflow.com/a/67132993/5163033
-  ```
-  Or  
-  In Desktop view, Press “⌘ + Space” to start Spotlight, then type in “font book”
-- [Webgl Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-- [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/) - it breaks accessibility
-  > [`disabled` shouldn't block focus](https://news.ycombinator.com/item?id=38196458)
-- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
-  > In the real world the most important problems are vague and have many evaluation dimensions. Author found it rewarding to optimize for speed, cost and other pragmatic factors rather than just difficulty.
-- [Litestream](https://docs.servicestack.net/ormlite/litestream#litestream)
-- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
 
 ## What I read in past
 
