@@ -33,6 +33,8 @@
 
 ## Week 47, 2023
 
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Your Website’s URLs Can and Should Be Beautiful](https://opuszine.us/posts/your-websites-urls-can-should-be-beautiful)
 - [Realtime planet shader in WebGL](https://github.com/jsulpis/realtime-planet-shader)
 - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/a/623375)
   > stay within 30%-80%
