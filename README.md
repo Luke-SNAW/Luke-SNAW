@@ -31,6 +31,13 @@
 
 ---
 
+## Week 48, 2023
+
+- [Shopify live dashboard](https://bfcm.shopify.com)
+- [Stripe live dashboard](https://bfcm.stripe.dev)
+- [Vue - scoped style leak](https://github.com/vuejs/vue-loader/issues/957#issuecomment-329947476)
+- [Build an OTP input field](https://phuoc.ng/collection/html-dom/build-an-otp-input-field/)
+
 ## Week 47, 2023
 
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
@@ -44,19 +51,6 @@
   - [YouTube blames ad blockers for slow load times, and it has nothing to do with your browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images.
 - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
-
-## Week 46, 2023
-
-- [REST, GraphQL or RPC — A Decision Paralysis](https://itnext.io/rest-graphql-or-rpc-a-decision-paralysis-0acaa84b5a27)
-- [Clicking `<a>` element using Enter/Space key is not working even though it is focused (accessibility)](https://stackoverflow.com/a/66311677/5163033)
-- [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
-  - https://github.com/BLAKE3-team/BLAKE3
-- [Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/)
-- [HTML First](https://html-first.com/)
-  > https://news.ycombinator.com/item?id=38241304
-- [Find bilingual baby names](https://mixedname.com/)
-- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
-- [Debugging dynamic content in browser dev tools](https://darekkay.com/blog/debugging-dynamic-content/)
 
 ## What I read in past
 
