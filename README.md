@@ -31,6 +31,13 @@
 
 ---
 
+## Week 49, 2023
+
+- [Data Engineering Design Patterns](https://www.dedp.online/)
+- [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
+  - Connection analogy - Applets, Unix Programs, Plugins, Microservices
+- [The Creative Playground](https://ralphammer.com/dhow-to-get-started/)
+
 ## Week 48, 2023
 
 - https://tests.caniuse.com/avif
@@ -56,20 +63,6 @@
 - [Stripe live dashboard](https://bfcm.stripe.dev)
 - [Vue - scoped style leak](https://github.com/vuejs/vue-loader/issues/957#issuecomment-329947476)
 - [Build an OTP input field](https://phuoc.ng/collection/html-dom/build-an-otp-input-field/)
-
-## Week 47, 2023
-
-- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-- [Your Website’s URLs Can and Should Be Beautiful](https://opuszine.us/posts/your-websites-urls-can-should-be-beautiful)
-- [Realtime planet shader in WebGL](https://github.com/jsulpis/realtime-planet-shader)
-- [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/a/623375)
-  > stay within 30%-80%
-  - [How to Prolong Lithium-based Batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
-- [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
-- [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
-  - [YouTube blames ad blockers for slow load times, and it has nothing to do with your browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
-- [screenshot-to-code](https://github.com/abi/screenshot-to-code) converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images.
-- [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 
 ## What I read in past
 
