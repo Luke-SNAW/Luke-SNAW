@@ -31,38 +31,41 @@
 
 ---
 
+## Week 50, 2023
+
+- [How to Use Responsive HTML Video (...and Audio!)](https://scottjehl.com//posts/using-responsive-video/)
+  ```html
+  <video>
+    <source media="(min-width: 2000px)" src="large.webm" type="video/webm" />
+    <source media="(min-width: 2000px)" src="large.mp4" type="video/mp4" />
+    <source media="(min-width: 1000px)" src="medium.webm" type="video/webm" />
+    <source media="(min-width: 1000px)" src="medium.mp4" type="video/mp4" />
+    <source src="small.webm" type="video/webm" />
+    <source src="small.mp4" type="video/mp4" />
+  </video>
+  ```
+- [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?hl=en)
+- [Why it's essential to excel at the things AI excels at](https://youtube.com/watch?v=mdoMPWSSsqs)
+  - Learning areas that AI excels in, like coding, English, design and data, will provide more opportunities as these re fields where AI is commonly utilized.
+  - Relying entirely on external support and outsourcing prevents one from developing self-awareness, confidence and resilience to overcome challenges.
+  - Gaining expertise in an AI-strong domain allows one to effectively lead AI-assisted innovations and make the most of AI capabilities.
+  - Information alone is insufficient - one must make connections between concepts internally through understanding.
+  - Insights emerge from linking disparate ideas, which only occurs through internal reflection not external instruction.
+  - Wisdom develops from accumulating insights over time through dedicated study.
+  - Specializing in an AI field builds an expertise level others rely on, while AI supports less skilled roles.
+  - Psychologically, self-learning builds identity, willpower and problem-solving skills.
+  - Opportunities arise from innovating where AI supports human strengths, not replacing them.
+  - Mastery requires climbing from foundations, so comprehensively studying AI domains leads to leadership.
+- [Open Source Software](https://osssoftware.org/) alternatives to popular projects.
+
 ## Week 49, 2023
 
+- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+- [Fairphone](https://www.fairphone.com/en/)
 - [Data Engineering Design Patterns](https://www.dedp.online/)
 - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
   - Connection analogy - Applets, Unix Programs, Plugins, Microservices
 - [The Creative Playground](https://ralphammer.com/dhow-to-get-started/)
-
-## Week 48, 2023
-
-- https://tests.caniuse.com/avif
-- [Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
-- [Hydration Mismatch](https://vuejs.org/guide/scaling-up/ssr.html#hydration-mismatch)
-  - invalid HTML nesting structure
-  - randomly generated values
-  - The server and the client are in different time zones
-- [Travel by Oisin Carroll](https://imois.in/games/travle/) - A daily game – get between countries in as few guesses as possible
-- [Preventing Scroll “Bounce” with CSS](https://css-irl.info/preventing-overscroll-bounce-with-css/)
-  ```css
-  :root {
-    overscroll-behavior: none;
-  }
-  ```
-- [How to read a paper](https://dl.acm.org/doi/10.1145/1273445.1273458)
-- [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full.pdf)
-- [The `hanging-punctuation` property in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-- [DALL·E Party](https://dalle.party/) - DALL·E ↔ GPT-4 Vision
-  - https://dalle.party/?party=vCwYT8Em
-- [Sqids formerly Hashids](https://sqids.org/) is an open-source library that lets you generate YouTube-looking IDs from numbers.
-- [Shopify live dashboard](https://bfcm.shopify.com)
-- [Stripe live dashboard](https://bfcm.stripe.dev)
-- [Vue - scoped style leak](https://github.com/vuejs/vue-loader/issues/957#issuecomment-329947476)
-- [Build an OTP input field](https://phuoc.ng/collection/html-dom/build-an-otp-input-field/)
 
 ## What I read in past
 
