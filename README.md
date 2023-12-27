@@ -31,41 +31,41 @@
 
 ---
 
-## Week 50, 2023
+## Week 52, 2023
 
-- [How to Use Responsive HTML Video (...and Audio!)](https://scottjehl.com//posts/using-responsive-video/)
-  ```html
-  <video>
-    <source media="(min-width: 2000px)" src="large.webm" type="video/webm" />
-    <source media="(min-width: 2000px)" src="large.mp4" type="video/mp4" />
-    <source media="(min-width: 1000px)" src="medium.webm" type="video/webm" />
-    <source media="(min-width: 1000px)" src="medium.mp4" type="video/mp4" />
-    <source src="small.webm" type="video/webm" />
-    <source src="small.mp4" type="video/mp4" />
-  </video>
-  ```
-- [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?hl=en)
-- [Why it's essential to excel at the things AI excels at](https://youtube.com/watch?v=mdoMPWSSsqs)
-  - Learning areas that AI excels in, like coding, English, design and data, will provide more opportunities as these re fields where AI is commonly utilized.
-  - Relying entirely on external support and outsourcing prevents one from developing self-awareness, confidence and resilience to overcome challenges.
-  - Gaining expertise in an AI-strong domain allows one to effectively lead AI-assisted innovations and make the most of AI capabilities.
-  - Information alone is insufficient - one must make connections between concepts internally through understanding.
-  - Insights emerge from linking disparate ideas, which only occurs through internal reflection not external instruction.
-  - Wisdom develops from accumulating insights over time through dedicated study.
-  - Specializing in an AI field builds an expertise level others rely on, while AI supports less skilled roles.
-  - Psychologically, self-learning builds identity, willpower and problem-solving skills.
-  - Opportunities arise from innovating where AI supports human strengths, not replacing them.
-  - Mastery requires climbing from foundations, so comprehensively studying AI domains leads to leadership.
-- [Open Source Software](https://osssoftware.org/) alternatives to popular projects.
+- [Introducing four new international features in CSS](https://developer.chrome.com/blog/css-i18n-features?hl=en)
+  - From Chrome 119: Japanese phrase line breaking with `word-break: auto-phrase`.
+  - Behind a flag from Chrome 120: Inter-script spacing with the `text-autospace` property.
+  - Under development: Chinese, Japanese, and Korean (CJK) punctuation kerning with the `text-spacing-trim` property.
+  - Consistent minimum font size across languages.
+- [Micro Frontend Synergy: Techniques for Effective Communication](https://medium.com/@rk-tech/micro-frontend-synergy-techniques-for-effective-communication-97df104931ed)
+- [How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
+  - Use known, proven technologies. Pinterest’s dive into newer technologies at the time led to issues like data corruption.
+  - Keep it simple. (A recurring theme!)
+  - Don’t get too creative. The team settled on an architecture where they could add more of the same nodes to scale.
+  - Limit your options.
+  - Sharding databases > clustering. It reduced data transfer across nodes, which was a good thing.
+  - Have fun! New engineers would contribute code in their first week.
+- [How Big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
+  > He details an experiment where he and others were able to collect over 10,000 truly random YouTube videos using an inefficient "drunk dialing" method to guess video URLs.
+  > This allowed them to estimate that YouTube contains over 13 billion videos and that 4 billion were added just in 2023.
+- [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
+  > It is possible for former employees to retain access to workplace apps like Slack and Zoom after leaving a company by creating a Google account using a plus sign email address derived from their work email. (janedoe+oldjob@company.com)
+- [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
-## Week 49, 2023
+## Week 51, 2023
 
-- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
-- [Fairphone](https://www.fairphone.com/en/)
-- [Data Engineering Design Patterns](https://www.dedp.online/)
-- [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
-  - Connection analogy - Applets, Unix Programs, Plugins, Microservices
-- [The Creative Playground](https://ralphammer.com/dhow-to-get-started/)
+- [A Quick Guide on How to Create Accessible Buttons in HTML](https://hackernoon.com/a-quick-guide-on-how-to-create-accessible-buttons-in-html)
+  - Icon with Text Buttons - `aria-hidden=true` attribute for the svg icon
+  - Icon Buttons - `aria-label` on the button tag
+  - ... the alternatives.
+  - The size of the target for pointer inputs is at least 44 by 44 CSS pixels.
+- [How to use Chrome's accessibility tree](https://blog.pope.tech/2023/11/27/how-to-use-chromes-accessibility-tree/)
+- [Lost in Translation: Tips for Multilingual Web Accessibility](https://benmyers.dev/blog/multilingual-web-accessibility/)
+- [WebP is so great… except it’s not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+  > WebP was more prone to bad posterization and artifacts, especially on photos with smooth gradients.  
+  > For similar visual quality on a portrait photo, WebP was actually 30-39% heavier than JPEG.  
+  > WebP is not necessarily better than JPEG for all photographic use cases.
 
 ## What I read in past
 
