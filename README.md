@@ -31,8 +31,15 @@
 
 ---
 
+## Week 01, 2024
+
+- [Heynote](https://github.com/heyman/heynote/) is a dedicated scratchpad for developers
+
 ## Week 52, 2023
 
+- [Stop using {} in Typescript](https://medium.com/@sukheja.varun/stop-using-in-typescript-ed24d3532d9e)
+  - `Record<string, unkown>`
+  - `{ [key:string]: unknown }`
 - [Introducing four new international features in CSS](https://developer.chrome.com/blog/css-i18n-features?hl=en)
   - From Chrome 119: Japanese phrase line breaking with `word-break: auto-phrase`.
   - Behind a flag from Chrome 120: Inter-script spacing with the `text-autospace` property.
@@ -53,23 +60,11 @@
   > It is possible for former employees to retain access to workplace apps like Slack and Zoom after leaving a company by creating a Google account using a plus sign email address derived from their work email. (janedoe+oldjob@company.com)
 - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
-## Week 51, 2023
-
-- [A Quick Guide on How to Create Accessible Buttons in HTML](https://hackernoon.com/a-quick-guide-on-how-to-create-accessible-buttons-in-html)
-  - Icon with Text Buttons - `aria-hidden=true` attribute for the svg icon
-  - Icon Buttons - `aria-label` on the button tag
-  - ... the alternatives.
-  - The size of the target for pointer inputs is at least 44 by 44 CSS pixels.
-- [How to use Chrome's accessibility tree](https://blog.pope.tech/2023/11/27/how-to-use-chromes-accessibility-tree/)
-- [Lost in Translation: Tips for Multilingual Web Accessibility](https://benmyers.dev/blog/multilingual-web-accessibility/)
-- [WebP is so great… except it’s not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
-  > WebP was more prone to bad posterization and artifacts, especially on photos with smooth gradients.  
-  > For similar visual quality on a portrait photo, WebP was actually 30-39% heavier than JPEG.  
-  > WebP is not necessarily better than JPEG for all photographic use cases.
-
 ## What I read in past
 
 - [👓 What I read in](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
+  - [2023](https://luke-snaw.github.io/notes/d9io1hr2n9vdbvucvy3iquj/)
+  - [2022](https://luke-snaw.github.io/notes/l4c5ilaotvka1yh10wv88cy/)
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
 - 📜 [Journals](https://luke-snaw.github.io/Luke-SNAW__netlify-CMS.github.io/)
 
