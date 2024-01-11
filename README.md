@@ -33,6 +33,13 @@
 
 ## Week 02, 2024
 
+- [All JavaScript and TypeScript Features of the last 3 years](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
+- [Using the CSS contain property: A deep dive](https://blog.logrocket.com/using-css-contain-property-deep-dive/)
+  > to decrease the burden on browsers for layout calculations, paints, repaints, and reflows.
+- [One YouTube Embed weighs almost 1.2 MB](https://www.zachleat.com/web/youtube-embeds/)
+  > https://github.com/paulirish/lite-youtube-embed
+- [Correctly Configure (Pre) Connections](https://csswizardry.com/2023/12/correctly-configure-preconnections/)
+- [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/articles/http-cache?hl=en)
 - [Understanding SVG Paths](https://www.nan.fyi/svg-paths)
 - [6 CSS snippets every front-end developer should know in 2023](https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023?hl=en)
