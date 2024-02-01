@@ -31,22 +31,25 @@
 
 ---
 
+## Week 05, 2024
+
+- [Variable Fonts](https://v-fonts.com/)
+
 ## Week 04, 2024
 
+- [A Single Small Map Is Enough For A Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
+- [iPhone Apps Secretly Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
+- [npm malware (@npm_malware) on X](https://twitter.com/npm_malware)
+- [The problem with disabled buttons and what to do instead](https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/)
+- [When to use CSS text-wrap: balance; vs text-wrap: pretty;](https://blog.stephaniestimac.com/posts/2023/10/css-text-wrap/)
+  > Use text-wrap: balance; on headings and subheadings. And use text-wrap: pretty; on paragraphs of text to get rid of orphans on the last line. Despite the Chromium-only support, these would be a good candidate for progressive enhancement.
+- [A Practical Introduction to Scroll-Driven Animations with CSS scroll() and view()](https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/) - At the time of writing this, it is Chromium only.
+- [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+  - Stable Enhancements: `accent-color`, `scroll-margin-top/bottom` - `[id]`
+  - progressive enhancement: `overscroll-behavior: contain`, `scrollbar-gutter`
+  - https://news.ycombinator.com/item?id=39176717
+- [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 - [What Is Nightshade?](https://nightshade.cs.uchicago.edu/whatis.html) - An offensive tool for artists against AI art generators
-
-## Week 03, 2024
-
-- [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
-- [U.S. Developers Can Now Offer Non-App Store Purchasing Option, But Apple Will Still Collect Commissions](https://forums.macrumors.com/threads/u-s-developers-can-now-offer-non-app-store-purchasing-option-but-apple-will-still-collect-commissions.2416540/)
-- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) - Why is everyone in such a rush?
-- [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
-  > AWS replicates S3 data between availability zones
-  >
-  > - https://news.ycombinator.com/item?id=38999902 - https://news.ycombinator.com/item?id=38999947
-- [Preventing HTTPS Downgrade Attacks](https://auth0.com/blog/preventing-https-downgrade-attacks/)
-  > - configuring servers to redirect all HTTP traffic to HTTPS and setting the HTTP Content-Security-Policy and Strict-Transport-Security headers to enforce HTTPS-only browsing
-  > - The HSTS preload directive further strengthens security by ensuring browsers always use HTTPS for a domain
 
 ## What I read in past
 
