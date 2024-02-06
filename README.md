@@ -31,25 +31,28 @@
 
 ---
 
+## Week 06, 2024
+
+- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
+- [Write code for the web](https://mrmr.io/apple)
+  > - Apple doesn’t care for me as a developer
+  > - The best approach is to write code for the web, where no single company has control.
+  > - https://news.ycombinator.com/item?id=39250406
+- [tints.dev](https://www.tints.dev/) - Palette Generator + API for Tailwind CSS
+- [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
+  > - Needing to look like a specialist
+  > - Telling people what they want to hear
+- [Lazy Hydration and Server Components in Nuxt – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance/)
+  > Most of the components don’t need to be eagerly hydrated
+- [How to align the text of the last paragraph line](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
+  > `text-align-last`
+- [Benchmarks of JavaScript Package Managers(daily updated)](https://pnpm.io/benchmarks)
+
 ## Week 05, 2024
 
+- [Generally speaking, you’ll want to use `text-wrap: balance` for headings and `text-wrap: pretty` for body text.](https://codersblock.com/blog/nicer-text-wrapping-with-css-text-wrap/)
+- [Portable Network Graphics (PNG, pronounced "ping")](https://www.w3.org/TR/2003/REC-PNG-20031110/#1Scope)
 - [Variable Fonts](https://v-fonts.com/)
-
-## Week 04, 2024
-
-- [A Single Small Map Is Enough For A Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
-- [iPhone Apps Secretly Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
-- [npm malware (@npm_malware) on X](https://twitter.com/npm_malware)
-- [The problem with disabled buttons and what to do instead](https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/)
-- [When to use CSS text-wrap: balance; vs text-wrap: pretty;](https://blog.stephaniestimac.com/posts/2023/10/css-text-wrap/)
-  > Use text-wrap: balance; on headings and subheadings. And use text-wrap: pretty; on paragraphs of text to get rid of orphans on the last line. Despite the Chromium-only support, these would be a good candidate for progressive enhancement.
-- [A Practical Introduction to Scroll-Driven Animations with CSS scroll() and view()](https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/) - At the time of writing this, it is Chromium only.
-- [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
-  - Stable Enhancements: `accent-color`, `scroll-margin-top/bottom` - `[id]`
-  - progressive enhancement: `overscroll-behavior: contain`, `scrollbar-gutter`
-  - https://news.ycombinator.com/item?id=39176717
-- [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
-- [What Is Nightshade?](https://nightshade.cs.uchicago.edu/whatis.html) - An offensive tool for artists against AI art generators
 
 ## What I read in past
 
