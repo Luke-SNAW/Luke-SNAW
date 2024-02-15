@@ -31,6 +31,16 @@
 
 ---
 
+## Week 07, 2024
+
+- [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
+  - https://news.ycombinator.com/item?id=39367460
+- [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
+- [How to Study](https://cse.buffalo.edu/~rapaport/howtostudy.html)
+- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [Classless CSS](https://github.com/dbohdan/classless-css)
+- [Drop-in switcher for previewing minimal CSS frameworks](https://dohliam.github.io/dropin-minimal-css/)
+
 ## Week 06, 2024
 
 - [SQL for the Weary](https://gvwilson.github.io/sql-tutorial/)
@@ -63,12 +73,6 @@
 - [How to align the text of the last paragraph line](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
   > `text-align-last`
 - [Benchmarks of JavaScript Package Managers(daily updated)](https://pnpm.io/benchmarks)
-
-## Week 05, 2024
-
-- [Generally speaking, you’ll want to use `text-wrap: balance` for headings and `text-wrap: pretty` for body text.](https://codersblock.com/blog/nicer-text-wrapping-with-css-text-wrap/)
-- [Portable Network Graphics (PNG, pronounced "ping")](https://www.w3.org/TR/2003/REC-PNG-20031110/#1Scope)
-- [Variable Fonts](https://v-fonts.com/)
 
 ## What I read in past
 
