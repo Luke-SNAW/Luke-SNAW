@@ -31,8 +31,38 @@
 
 ---
 
+## Week 08, 2024
+
+- [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
+  - But it gets worse, especially if you drink lots of caffeine throughout the day. In that case, you never give your body the chance to clear it out. So the base concentration in your blood slowly creeps up. - https://zantafakari.substack.com/i/141012714/the-science-of-sleep
+- [htmz](https://github.com/Kalabasa/htmz) is a minimalist HTML microframework that gives you the power to create dynamic web user interfaces with the familiar simplicity of plain HTML.
+  ```html
+  <iframe
+    hidden
+    name="htmz"
+    onload="setTimeout(()=>document.querySelector(this.contentWindow.location.hash||null)?.replaceWith(...this.contentDocument.body.childNodes))"
+  ></iframe>
+  ```
+
 ## Week 07, 2024
 
+- [LLRT (**L**ow **L**atency **R**un**t**ime)](https://github.com/awslabs/llrt) is a lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. LLRT offers up to over **10x** faster startup and up to **2x** overall lower cost compared to other JavaScript runtimes running on **AWS Lambda**
+- [A Guide To Designing For Older Adults](https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/)
+  > Today, one billion people are 60 years or older. That’s 12% of the entire world population, and the age group is growing faster than any other group. Yet, online, the needs of older adults are often overlooked or omitted.
+- [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
+  - [Why external links should open in the same tab](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/#why)
+    - giving users the choice
+  - [When external links should open in a new tab](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/#when)
+    - Lose form progress
+    - An alternative solution
+    - Terminate login
+    - User needs information on both pages
+  - [Accessible design and code for external links opening in a new tab](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/#design)
+    - give users a warning that it opens in a new tab.
+- [:focus vs :focus-visible](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible#focus_vs_focus-visible)
+  > The `:focus-visible` pseudo-class also matches the focused element, but only if the user needs to be informed where the focus currently is.
+  - https://daverupert.com/2024/01/focus-visible-love/
+- [The psychology of site speed and human happiness](https://www.speedcurve.com/blog/psychology-site-speed/)
 - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
   - https://news.ycombinator.com/item?id=39367460
 - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
@@ -40,39 +70,6 @@
 - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 - [Classless CSS](https://github.com/dbohdan/classless-css)
 - [Drop-in switcher for previewing minimal CSS frameworks](https://dohliam.github.io/dropin-minimal-css/)
-
-## Week 06, 2024
-
-- [SQL for the Weary](https://gvwilson.github.io/sql-tutorial/)
-- [Command Line Interface Guidelines](https://clig.dev/)
-- [Simplify: move code into database functions](https://sive.rs/pg)
-  - Databases outlive the applications that access them.
-  - the database is actually [quite smart](https://www.postgresql.org/docs/current/server-programming.html).
-  - examples: [constraints](https://www.postgresql.org/docs/current/ddl-constraints.html), [triggers](https://www.postgresql.org/docs/current/trigger-definition.html), functions, [create JSON directly](https://www.postgresql.org/docs/current/functions-json.html#FUNCTIONS-JSON-CREATION-TABLE).
-  - If you like JavaScript, check out the promising [plv8](https://plv8.github.io/).
-  - **branching? source code history(Migrations)?**
-    - [How to work with stored procedures and not die trying](https://github.com/kblok/tech-posts/blob/master/working-with-stored-procedures.md)?
-    - [You can use a DDL trigger to keep all revisions in a table in a separate database (and of course back up that database frequently).](https://dba.stackexchange.com/a/33544) - [SQL Server DDL Triggers to Track All Database Changes](http://www.mssqltips.com/sqlservertip/2085/sql-server-ddl-triggers-to-track-all-database-changes/)
-- [It's Time To Get Over That Stored Procedure Aversion You Have](https://bigmachine.io/databases/its-time-to-get-over-that-stored-procedure-aversion-you-have/)
-- [Postgresql is enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
-  > - [As an application grows in complexity, you start to realize _why_ there's a stack, rather than just a single technology to rule them all. Trying to cram everything into Postgres (or lambdas, or S3, or firebase, or whatever other tech you're trying to consolidate on) starts to get really uncomfortable.](https://news.ycombinator.com/item?id=39274174)
-  > - [... both worked: the PG queue was never grown out of, and generally SQS was easy to work with & reliable. But what I've also seen is "Let's introduce bespoke tech that nobody on the team, including the person introducing it, has experience in, for a queue that isn't even the main focus of what we're building" — this I'm less fine with.](https://news.ycombinator.com/item?id=39274805)
-- [People will never be motivated to go the extra mile by a standardized, bureaucratized process.](https://news.ycombinator.com/item?id=39271692)
-  - https://news.ycombinator.com/item?id=39272190
-- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
-- [Write code for the web](https://mrmr.io/apple)
-  > - Apple doesn’t care for me as a developer
-  > - The best approach is to write code for the web, where no single company has control.
-  > - https://news.ycombinator.com/item?id=39250406
-- [tints.dev](https://www.tints.dev/) - Palette Generator + API for Tailwind CSS
-- [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
-  > - Needing to look like a specialist
-  > - Telling people what they want to hear
-- [Lazy Hydration and Server Components in Nuxt – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance/)
-  > Most of the components don’t need to be eagerly hydrated
-- [How to align the text of the last paragraph line](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
-  > `text-align-last`
-- [Benchmarks of JavaScript Package Managers(daily updated)](https://pnpm.io/benchmarks)
 
 ## What I read in past
 
