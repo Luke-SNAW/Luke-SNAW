@@ -31,6 +31,14 @@
 
 ---
 
+## Week 10, 2024
+
+- [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide)
+- [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
+- [Aristotle — How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/) - Ralph Ammer
+  > Happiness is not a feeling of pleasure. **Happiness is the pursuit of excellence**.
+- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
+
 ## Week 09, 2024
 
 - [Blur radius comparison](https://bjango.com/articles/blurradiuscomparison/)
@@ -73,34 +81,6 @@
 - [What is a non-capturing group in regular expressions?](https://stackoverflow.com/a/3513858/5163033)
 - [console.delight](https://frontendmasters.com/blog/console-delight/)
 - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
-
-## Week 08, 2024
-
-- [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
-- [Scroll-Driven Animations: You want overflow: clip, not overflow: hidden](https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/)
-- [Introducing SafeTest by Netflix: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
-- [🔒Securing Web: A Deep Dive into Content Security Policy (CSP)](https://dev.to/vashnavichauhan18/securing-web-a-deep-dive-into-content-security-policy-csp-2nna)
-- [Using localStorage in Modern Applications: A Comprehensive Guide](https://rxdb.info/articles/localstorage.html)
-- [Using abbreviations for long CSS properties in VS Code](https://www.amitmerchant.com/using-abbreviations-for-long-css-properties-in-vs-code/)
-- https://www.perfectmemory.ai/
-  - https://www.rewind.ai/
-- [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
-- [Bloom Filters](https://samwho.dev/bloom-filters/)
-  - Bloom filters return true it doesn't mean "yes", it means "maybe", false-positive.
-  - If you're happy to accept being wrong 0.0001% of the time (1 in a million), you could use a bloom filter which can store the same data in 82% reduction in size.
-- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
-  - [Microservices aren't a performance strategy. They are a POTENTIAL cost saving strategy against performance. And an engineering coordination strategy.](https://news.ycombinator.com/item?id=39441508)
-  - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/pdf/10.1145/3593856.3595909)
-- [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
-  - But it gets worse, especially if you drink lots of caffeine throughout the day. In that case, you never give your body the chance to clear it out. So the base concentration in your blood slowly creeps up. - https://zantafakari.substack.com/i/141012714/the-science-of-sleep
-- [htmz](https://github.com/Kalabasa/htmz) is a minimalist HTML microframework that gives you the power to create dynamic web user interfaces with the familiar simplicity of plain HTML.
-  ```html
-  <iframe
-    hidden
-    name="htmz"
-    onload="setTimeout(()=>document.querySelector(this.contentWindow.location.hash||null)?.replaceWith(...this.contentDocument.body.childNodes))"
-  ></iframe>
-  ```
 
 ## What I read in past
 
