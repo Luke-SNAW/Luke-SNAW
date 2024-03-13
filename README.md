@@ -33,6 +33,9 @@
 
 ## Week 11, 2024
 
+- [You should separate your billing from entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
+- [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
+- [Devin: AI Software Engineer - comments](https://news.ycombinator.com/item?id=39679787)
 - [Designing better target sizes](https://ishadeed.com/article/target-size/)
 - [Techniques to Break Words](https://adrianroselli.com/2024/02/techniques-to-break-words.html)
   - Probably don’t add `&shy;` without guidance from a copywriter.
