@@ -31,6 +31,16 @@
 
 ---
 
+## Week 14, 2024
+
+- [HTTP Speed](https://kitsonkelly.com/posts/http-speed) - Deno, Bun, Node.js
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+  - [Avoid different shapes](https://romgrk.com/posts/optimizing-javascript#2-avoid-different-shapes)
+- [Runtime compatibility across JavaScript runtimes](https://runtime-compat.unjs.io/)
+  - https://node.green/
+- [Alpine Ajax - Comparisons between Alpine AJAX and other similar libraries](https://alpine-ajax.js.org/comparisons/)
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
+
 ## Week 13, 2024
 
 - [You Want border-color: transparent, Not border: none](https://frontendmasters.com/blog/you-want-border-color-transparent-not-border-none/)
@@ -40,32 +50,6 @@
   - [Futex congestion collapse. Starvation of unfair mutexes.](https://news.ycombinator.com/item?id=39813525)
 - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 - https://www.libhunt.com/css
-
-## Week 11, 2024
-
-- [mise-en-place](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [Flox](https://github.com/flox/flox/) is a virtual environment and package manager all in one.
-- [You should separate your billing from entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
-- [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
-- [Devin: AI Software Engineer - comments](https://news.ycombinator.com/item?id=39679787)
-- [Designing better target sizes](https://ishadeed.com/article/target-size/)
-- [Techniques to Break Words](https://adrianroselli.com/2024/02/techniques-to-break-words.html)
-  - Probably don’t add `&shy;` without guidance from a copywriter.
-  - Probably don’t add `&shy;` to foreign words without a localization expert or at least a native speaker.
-  - Probably don’t add `&shy;` to URLs, email addresses, code blocks, and so on.
-  - Probably restrict `<wbr>` to URLs, email addresses, code blocks, and similar words where technical accuracy is paramount.
-  - Probably restrict `<wbr>` to _before_ periods and dashes and maybe slashes in URLs and emails so it doesn’t look like the sentence or address has ended.
-- [Getting Started with Style Queries](https://developer.chrome.com/docs/css-ui/style-queries?hl=en)
-  - Can't you do it with attributes?
-- [Bruno](https://github.com/usebruno/bruno) - Fast and Git-friendly open-source API client (Postman alternative)
-
-## Week 10, 2024
-
-- [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide)
-- [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
-- [Aristotle — How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/) - Ralph Ammer
-  > Happiness is not a feeling of pleasure. **Happiness is the pursuit of excellence**.
-- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
 ## What I read in past
 
