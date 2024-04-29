@@ -31,50 +31,27 @@
 
 ---
 
-## Week 16, 2024
+## Week 18, 2024
 
-- [HTMX Is So Cool I Rolled My Own!](https://dbushell.com/2024/04/16/htmx-and-modern-javascript/)
-- [The Wax and the Wane of the Web](https://alistapart.com/article/the-wax-and-the-wane-of-the-web/)
-- [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html) avoids issues like jittering or overshooting that can occur with other methods.
-- [DevTools Tips & Tricks](https://frontendmasters.com/blog/devtools-tips-tricks/)
-  - [Inspect Popups on Hover](https://frontendmasters.com/blog/devtools-tips-tricks/#1-inspect-popups-on-hover)
-  - [Use logpoints](https://frontendmasters.com/blog/devtools-tips-tricks/#2-use-logpoints)
-  - [Emulate foldable devices](https://frontendmasters.com/blog/devtools-tips-tricks/#3-emulate-foldable-devices)
-  - [Inspect Event streams](https://frontendmasters.com/blog/devtools-tips-tricks/#7-inspect-event-streams)
-  - [Live expressions](https://frontendmasters.com/blog/devtools-tips-tricks/#9-live-expressions)
-- [Gap is the new Margin](https://frontendmasters.com/blog/gap-is-the-new-margin/)
-  > > [Margin breaks component encapsulation.](https://mxstbr.com/thoughts/margin/) A well-built component should not affect anything outside itself.
-  > > [Prediction](https://dev.to/argyleink/5-css-predictions-for-2020-pl3): margins in stylesheets will decline as gap in stylesheets climb
-- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
-  > STOP. USING. FONTS. FOR. ICONS.
-- https://ios404.com/ - missing web features in iOS
-- [Hono](https://hono.dev/) is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime: Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge, and Node.js.
-- [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
-  > > `<H1><FONT COLOR=red>...</FONT></H1>` …every single goddamn time.
-  >
-  > is in fashion again! Only now it’s called class="text-red-500" [:o)](https://news.ycombinator.com/item?id=40029373)
+- [Web GUI for SVGO](https://jakearchibald.github.io/svgomg/)
+- [SVG Viewer](https://www.svgviewer.dev/) – View, edit, and optimize SVGs
+- [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+  > inability to perform certain tasks that seem simple for humans, like playing Wordle or predicting the output of cellular automata.
+- [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
+- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+  > Rust's strengths do not always align well with the needs of practical game development.
+- [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
+  > The technology has become increasingly controlled by major tech companies like Google and Apple with problems about device compatibility, data loss, and vendor lock-in. Password managers may provide a better user experience for most consumers.
 
-## Week 15, 2024
+## Week 17, 2024
 
-- [QCon London: How Duolingo Sent 4 Million Push Notifications in 6 Seconds During the Super Bowl Break](https://www.infoq.com/news/2024/04/qcon-london-duolingo-super-bowl/)
-- [QWANJI](https://byronicalpatrick.github.io/qwanji/)
-- [The Power of :has() in CSS](https://css-tricks.com/the-power-of-has-in-css/)
-  ```css
-  h1:has(+ h2) {
-    color: blue;
-  }
-  ```
-- [How to Kill the Cascade](https://robinrendle.com/the-cascade/017-how-to-kill-the-cascade/)
-- [In-app browsers are still a privacy, security, and choice problem](https://www.theregister.com/2024/03/27/inapp_browsers/)
-- [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
-  ```html
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="macos-dark.png" />
-    <source media="print" srcset="macos-contrast.png" />
-    <img src="macos-light.png" alt="…" />
-  </picture>
-  ```
-- [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
+- [CSS: Specificity](https://thevalleyofcode.com/css/4-specificity)
+- [TDD's Missing Skill: Behavioral Composition](https://tidyfirst.substack.com/p/tdds-missing-skill-behavioral-composition)
+- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
+- [Cognition Labs: "Today we're excited to introduce Devin, the first AI software engineer.](https://www.cognition-labs.com/introducing-devin)
+  - [They actually dont do ANYTHING themselfs](https://old.reddit.com/r/cscareerquestions/comments/1bd12gc/relevant_news_cognition_labs_today_were_excited/kujyidr/) - Analytics: Hotjar, Website: NextJS, Login: Clerk, Jobs: Ashby, Waitlist: Google docs (ROFL), Learn more about their funding: A link to twitter
+- [Programming Is Mostly Thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+- [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 
 ## What I read in past
 
