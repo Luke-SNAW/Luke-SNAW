@@ -31,6 +31,15 @@
 
 ---
 
+## Week 19, 2024
+
+- [Distribution is King](https://every.to/napkin-math/distribution-is-king) - What video games can teach us about building billion-dollar companies
+  - https://news.hada.io/topic?id=14677
+- [Your 14-Day Free Trial Ain't Gonna Cut It](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
+  > For Keygen, p50 TTC(Time-to-Convert) is 41 days. My p90, 130 days; p95, 198; p99, 290.
+- [JSONata](https://github.com/jsonata-js/jsonata) JSON query and transformation language
+- [‘I will never go back’: Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
+
 ## Week 18, 2024
 
 - [You receive a call on your phone. The caller says they're from your bank](https://mastodon.social/@Edent/112372412442888807)
