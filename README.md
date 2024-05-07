@@ -33,6 +33,12 @@
 
 ## Week 18, 2024
 
+- [You receive a call on your phone. The caller says they're from your bank](https://mastodon.social/@Edent/112372412442888807)
+- [I Reviewed 1,000s of GraphQL vs. REST perspectives](https://konfigthis.com/blog/graphql-vs-rest/)
+- [I Reviewed 1,000s of Opinions on HTMX](https://konfigthis.com/blog/htmx/)
+- [jsDelivr May outage postmortem](https://www.jsdelivr.com/blog/jsdelivr-may-outage-postmortem/)
+- [Locality of Behavior in React Components](https://alexkondov.com/locality-of-behavior-react/)
+  > Abstractions are not an enemy of locality. You don’t need to inline everything in a single file. In the context of a React component, the invocation of the function is more important than what it actually does.
 - [Forms 101: More tags useful in forms](https://thevalleyofcode.com/forms/5-more-tags-useful-in-forms) - `<fieldset>`, `<legend>`
 - [Form fields: File input fields](https://thevalleyofcode.com/form-fields/5-file-input-fields)
 - [Form fields: Autocompleting form fields](https://thevalleyofcode.com/form-fields/8-autocompleting-form-fields)
@@ -47,16 +53,6 @@
   > Rust's strengths do not always align well with the needs of practical game development.
 - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
   > The technology has become increasingly controlled by major tech companies like Google and Apple with problems about device compatibility, data loss, and vendor lock-in. Password managers may provide a better user experience for most consumers.
-
-## Week 17, 2024
-
-- [CSS: Specificity](https://thevalleyofcode.com/css/4-specificity)
-- [TDD's Missing Skill: Behavioral Composition](https://tidyfirst.substack.com/p/tdds-missing-skill-behavioral-composition)
-- [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/)
-- [Cognition Labs: "Today we're excited to introduce Devin, the first AI software engineer.](https://www.cognition-labs.com/introducing-devin)
-  - [They actually dont do ANYTHING themselfs](https://old.reddit.com/r/cscareerquestions/comments/1bd12gc/relevant_news_cognition_labs_today_were_excited/kujyidr/) - Analytics: Hotjar, Website: NextJS, Login: Clerk, Jobs: Ashby, Waitlist: Google docs (ROFL), Learn more about their funding: A link to twitter
-- [Programming Is Mostly Thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
-- [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 
 ## What I read in past
 
