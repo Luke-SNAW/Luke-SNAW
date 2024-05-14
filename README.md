@@ -31,6 +31,15 @@
 
 ---
 
+## Week 20, 2024
+
+- [100k Stars](https://stars.chromeexperiments.com/)
+- [PeaZip](https://github.com/peazip/PeaZip/) Free Archiver
+- [Humanoid agent robot](https://www.unitree.com/g1/)
+- [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
+  - https://news.ycombinator.com/item?id=39902854
+  - https://news.hada.io/topic?id=14789
+
 ## Week 19, 2024
 
 - [Latency numbers every frontend developer should know](https://vercel.com/blog/latency-numbers-every-web-developer-should-know)
@@ -45,29 +54,6 @@
   > For Keygen, p50 TTC(Time-to-Convert) is 41 days. My p90, 130 days; p95, 198; p99, 290.
 - [JSONata](https://github.com/jsonata-js/jsonata) JSON query and transformation language
 - [‘I will never go back’: Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
-
-## Week 18, 2024
-
-- [You receive a call on your phone. The caller says they're from your bank](https://mastodon.social/@Edent/112372412442888807)
-- [I Reviewed 1,000s of GraphQL vs. REST perspectives](https://konfigthis.com/blog/graphql-vs-rest/)
-- [I Reviewed 1,000s of Opinions on HTMX](https://konfigthis.com/blog/htmx/)
-- [jsDelivr May outage postmortem](https://www.jsdelivr.com/blog/jsdelivr-may-outage-postmortem/)
-- [Locality of Behavior in React Components](https://alexkondov.com/locality-of-behavior-react/)
-  > Abstractions are not an enemy of locality. You don’t need to inline everything in a single file. In the context of a React component, the invocation of the function is more important than what it actually does.
-- [Forms 101: More tags useful in forms](https://thevalleyofcode.com/forms/5-more-tags-useful-in-forms) - `<fieldset>`, `<legend>`
-- [Form fields: File input fields](https://thevalleyofcode.com/form-fields/5-file-input-fields)
-- [Form fields: Autocompleting form fields](https://thevalleyofcode.com/form-fields/8-autocompleting-form-fields)
-- [Google Made Me Ruin A Perfectly Good Website: A Case Study On The AI-Generated Internet](https://theluddite.org/#!post/google-ads)
-  > Google's AdSense program rejected the site, claiming it lacked unique content. To get approved, the author resorted to generating low-quality, AI-written content like recipes, poems, and blog posts about their fictional obsession with congressional apportionment. After creating this deranged additional content, Google eventually approved the site for ads. The passage is a critique of how Google's policies are leading to the proliferation of low-quality, SEO-driven content on the internet.
-- [Web GUI for SVGO](https://jakearchibald.github.io/svgomg/)
-- [SVG Viewer](https://www.svgviewer.dev/) – View, edit, and optimize SVGs
-- [What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
-  > inability to perform certain tasks that seem simple for humans, like playing Wordle or predicting the output of cellular automata.
-- [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-  > Rust's strengths do not always align well with the needs of practical game development.
-- [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-  > The technology has become increasingly controlled by major tech companies like Google and Apple with problems about device compatibility, data loss, and vendor lock-in. Password managers may provide a better user experience for most consumers.
 
 ## What I read in past
 
