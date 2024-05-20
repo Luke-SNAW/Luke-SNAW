@@ -31,6 +31,17 @@
 
 ---
 
+## Week 21, 2024
+
+- [New alternatives to innerHTML](https://fullystacked.net/innerhtml-alternatives/)
+  - `setHTML`
+  - `setHTMLUnsafe` does not perform input sanitization. The setHTMLUnsafe method is particularly useful for working with declarative shadow DOM, where the contents of a `<template>` element with the shadowrootmode attribute need to be rendered as shadow DOM. The setHTML method would remove the template element entirely, whereas setHTMLUnsafe preserves it.
+- [A Brief Note on Highlighted Text](https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html)
+  > If you plan to style text highlighted by the browser, you must give it sufficient contrast — 3:1 for the highlight block against its background and (probably) 4.5:1 for the text within that highlighted block against that background.
+- [Target=\_blank implies rel=noopener](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
+- [Thinking out loud about 2nd-gen Email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
+- [Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+
 ## Week 20, 2024
 
 - [A Front-End Engineer's Take on LLMs](https://alexkondov.com/a-frontend-engineers-take-on-llms/)
@@ -59,21 +70,6 @@
 - [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
   - https://news.ycombinator.com/item?id=39902854
   - https://news.hada.io/topic?id=14789
-
-## Week 19, 2024
-
-- [Latency numbers every frontend developer should know](https://vercel.com/blog/latency-numbers-every-web-developer-should-know)
-- [It’s always TCP_NODELAY. Every damn time.](https://brooker.co.za/blog/2024/05/09/nagle.html) argues that in modern distributed systems, Nagle's algorithm may no longer be necessary. The author recommends that for latency-sensitive distributed systems, TCP_NODELAY should be the default setting, as it provides better performance.
-- [Deaf girl is cured in world first gene therapy trial](https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html)
-- [Homebrew vs. MacPorts, A Systems Software Engineer's Perspective](https://dede.dev/posts/homebrew-vs-macPorts/)
-  > In practice, many engineers use both package managers to combine the strengths of each. For instance, use Homebrew for common software and MacPorts for specialized projects.
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [Distribution is King](https://every.to/napkin-math/distribution-is-king) - What video games can teach us about building billion-dollar companies
-  - https://news.hada.io/topic?id=14677
-- [Your 14-Day Free Trial Ain't Gonna Cut It](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
-  > For Keygen, p50 TTC(Time-to-Convert) is 41 days. My p90, 130 days; p95, 198; p99, 290.
-- [JSONata](https://github.com/jsonata-js/jsonata) JSON query and transformation language
-- [‘I will never go back’: Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 
 ## What I read in past
 
