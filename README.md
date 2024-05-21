@@ -33,6 +33,8 @@
 
 ## Week 21, 2024
 
+- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+  - Airbnb has made improving web accessibility a priority, focusing on the WCAG 1.4.4 Resize Text guideline. This guideline is important for users with low vision, as it requires web content to be maintained when text is scaled 200%.
 - [New alternatives to innerHTML](https://fullystacked.net/innerhtml-alternatives/)
   - `setHTML`
   - `setHTMLUnsafe` does not perform input sanitization. The setHTMLUnsafe method is particularly useful for working with declarative shadow DOM, where the contents of a `<template>` element with the shadowrootmode attribute need to be rendered as shadow DOM. The setHTML method would remove the template element entirely, whereas setHTMLUnsafe preserves it.
