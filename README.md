@@ -31,8 +31,18 @@
 
 ---
 
+## Week 22, 2024
+
+- [Bubble.ai](https://www.profgalloway.com/bubble-ai/)
+- [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
+
 ## Week 21, 2024
 
+- [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)
+  > A terminal emulator is probably one of the most privileged programs.
+  > It deals with all the secrets in the world, and the threat that it could be used to upload them all to a third party is great enough that people are willing to switch away from it sight unseen.
+  >
+  > not letting you use local models
 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 - [Improvements to the Speculation Rules API](https://developer.chrome.com/blog/speculation-rules-improvements?hl=en) which allows websites to prefetch or prerender future navigations to improve performance.
 - [QPick.app](https://qpick.app/) website for making random choices easy and fun!
@@ -47,35 +57,6 @@
 - [Target=\_blank implies rel=noopener](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
 - [Thinking out loud about 2nd-gen Email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 - [Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-
-## Week 20, 2024
-
-- [A Front-End Engineer's Take on LLMs](https://alexkondov.com/a-frontend-engineers-take-on-llms/)
-  > the indeterminism and unreliable behavior of LLMs, which is unlike the deterministic nature of typical software development.
-  > The author thinks prompt engineering will go the way testing is going. - be a skill rather than a discipline
-- [The Times You Need A Custom @property Instead Of A CSS Variable](https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/)
-  > CSS custom properties allow developers to specify the syntax, initial value, and inheritance behavior of CSS variables.
-  > This provides more control over how variables are used, enabling advanced animations that were previously only possible with JavaScript.
-- [Edit PDFs for free with Firefox PDF Editor](https://www.mozilla.org/en-GB/firefox/features/pdf-editor/)
-- [URLhaus](https://urlhaus.abuse.ch/) is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
-- [State of HTML 2023](https://2023.stateofhtml.com/)
-- [Not an iPad Pro Review: Why iPadOS Still Doesn’t Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
-  - [Missing Apps](https://www.macstories.net/stories/not-an-ipad-pro-review/#missing-apps)
-  - [Not-So-Desktop-Class Apps](https://www.macstories.net/stories/not-an-ipad-pro-review/#not-so-desktop-class-apps)
-  - [Files: A Slow, Unreliable File Manager](https://www.macstories.net/stories/not-an-ipad-pro-review/#files-a-slow-unreliable-file-manager)
-  - [Audio Limitations](https://www.macstories.net/stories/not-an-ipad-pro-review/#audio-limitations)
-  - [Multitasking: A Fractured Mess](https://www.macstories.net/stories/not-an-ipad-pro-review/#multitasking-a-fractured-mess)
-  - [Spotlight](https://www.macstories.net/stories/not-an-ipad-pro-review/#spotlight)
-  - [Lack of Background Processes and System-Wide Utilities](https://www.macstories.net/stories/not-an-ipad-pro-review/#lack-of-background-processes-and-system-wide-utilities)
-    - [To Be Fixed Later This Year, But Only for Some](https://www.macstories.net/stories/not-an-ipad-pro-review/#to-be-fixed-later-this-year-but-only-for-some)
-  - [Inefficiency by a Thousand Cuts](https://www.macstories.net/stories/not-an-ipad-pro-review/#inefficiency-by-a-thousand-cuts)
-  - [The Need for Change](https://www.macstories.net/stories/not-an-ipad-pro-review/#the-need-for-change)
-- [100k Stars](https://stars.chromeexperiments.com/)
-- [PeaZip](https://github.com/peazip/PeaZip/) Free Archiver
-- [Humanoid agent robot](https://www.unitree.com/g1/)
-- [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
-  - https://news.ycombinator.com/item?id=39902854
-  - https://news.hada.io/topic?id=14789
 
 ## What I read in past
 
