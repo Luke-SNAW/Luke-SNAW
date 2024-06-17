@@ -31,6 +31,12 @@
 
 ---
 
+## Week 25, 2024
+
+- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+- [Do not try to be the smartest in the room; try to be the kindest.](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
+- [How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
+
 ## Week 24, 2024
 
 - [CSS Length Units](https://css-tricks.com/css-length-units/)
@@ -59,14 +65,6 @@
   >
   > And then someone goes and invents Recall. This is not the work of a lone engineer and a principal PM fishing for Impact or whatever they call success at Microsoft. This had to have gone through multiple levels of review. Microsoft PMs, CVPs, their corpo legal people, marketing approval. And yet no one stopped to say, "wait, this could blow up in our faces"? — https://news.ycombinator.com/item?id=40615205
 - [Cancel Adobe if you are a creative under NDA with your clients](https://x.com/Stretchedwiener/status/1798153619285708909)
-
-## Week 23, 2024
-
-- [Should I Use JWTs For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-  > They are designed for large-scale environments like Google and Facebook, where the benefits of JWTs (not needing to query a user database for every request) outweigh the drawbacks. However, for most applications that process less than 10,000 requests per second, the complexity of JWTs is unnecessary. A simpler approach is to use a normal opaque session token stored in a database, which is the approach used by most web frameworks.
-- [모두를 위한 디자인](https://a11y.gitbook.io/wcag)
-- [LLMs Aren’t Just “Trained On the Internet” Anymore](https://allenpike.com/2024/llms-trained-on-internet)
-- [Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster.](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 
 ## What I read in past
 
