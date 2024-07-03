@@ -35,8 +35,20 @@
 
 ---
 
+## Week 27, 2024
+
+- [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+- [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
+- [Edna](https://github.com/kjk/edna) is a scratchpad for developers. It's a large persistent text buffer where you can write down anything you like. Works great for that Slack message you don't want to accidentally send, a JSON response from an API you're working with, notes from a meeting, daily to-do list, etc.
+- [KT 60만명 해킹의 심각성: 사상 최악의 사이버 범죄로부터 당신은 지금도 안전하지 않다](https://velog.io/@ilotoki0804/kt)
+- [Building an AI-Native Company](https://research.contrary.com/deep-dive/ai-native-company)
+- [Teo](https://github.com/teodevgroup/teo) is schema-driven web server framework. The server side API is native to Rust, Node.js and Python.
+- [마이리얼트립으로 살펴본 여행 산업에서의 SEO, 키워드 성과 분석 중요성](https://inpages.ai/kr/blog/myrealtrip-keyword-analysis)
+- [Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
+
 ## Week 26, 2024
 
+- [Liquid Layers](https://grantkot.com/ll/)
 - [Pop!\_OS](https://github.com/pop-os/pop) is an operating system for STEM and creative professionals who use their computer as a tool to discover and create. Unleash your potential on secure, reliable open source software.
 - [A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
 - [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
@@ -55,23 +67,6 @@
 - [llama.ttf](https://fuglede.github.io/llama.ttf/) is a font file which is also a large language model and an inference engine for that model.
 - [함께해요 파이썬 생태계](https://wikidocs.net/book/14021)
 - [EntityCode](https://entitycode.com/)
-
-## Week 25, 2024
-
-- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)
-- [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
-- [Cyber Scarecrow](https://www.cyberscarecrow.com/)
-- [Twitter’s Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
-- [Mocking is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/) - Mocking is an anti-pattern. Mocking adds complexity, is hard to maintain, introduces its own bugs, doesn't test what should be tested and creates a false sense of security. Several things you can do instead:
-  - More unit testing
-  - Easier to Test IO
-  - Just do IO
-  - Separation of logic and services / IO
-  - E2E integration tests
-- [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
-- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
-- [Do not try to be the smartest in the room; try to be the kindest.](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
-- [How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
 
 ## What I read in past
 
