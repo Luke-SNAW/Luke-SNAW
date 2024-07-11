@@ -35,6 +35,20 @@
 
 ---
 
+## Week 28, 2024
+
+- [Spot the Drowning Child](http://spotthedrowningchild.com/)
+- [SEQUOIA - Adapting to Endure](https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf)
+- Google Chrome gives all _.google.com sites full access to system / tab CPU usage, GPU usage, and memory usage. It also gives access to detailed processor information, and provides a logging backchannel. This API is not exposed to other sites - only to _.google.com. — [#](https://x.com/lcasdev/status/1810696257137959018)
+- [Rye](https://github.com/astral-sh/rye) is a comprehensive project and package management solution for Python.
+- [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
+- [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
+- [How to think in writing: Part 1: The thought behind the thought](https://www.henrikkarlsson.xyz/p/writing-to-think)
+  > If your goal is to probe the validity of your thoughts, this is painfully inefficient. You'll get much further if you do one or two simple passes on your writing, and then pass what you've written around and ask for feedback. — [BeetieB](https://news.ycombinator.com/item?id=40894966)
+- [Why privacy is important, and having "nothing to hide" is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
+- [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)
+- [Radio Garden](https://radio.garden/)
+
 ## Week 27, 2024
 
 - [Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults](https://bjsm.bmj.com/content/58/10/556): an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies
@@ -48,28 +62,6 @@
 - [Teo](https://github.com/teodevgroup/teo) is schema-driven web server framework. The server side API is native to Rust, Node.js and Python.
 - [마이리얼트립으로 살펴본 여행 산업에서의 SEO, 키워드 성과 분석 중요성](https://inpages.ai/kr/blog/myrealtrip-keyword-analysis)
 - [Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
-
-## Week 26, 2024
-
-- [Liquid Layers](https://grantkot.com/ll/)
-- [Pop!\_OS](https://github.com/pop-os/pop) is an operating system for STEM and creative professionals who use their computer as a tool to discover and create. Unleash your potential on secure, reliable open source software.
-- [A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
-- [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
-  > Upgrade your user, not your product. Don’t build better cameras — build better photographers.  
-  > — Kathy Sierra
-- [Reshot](https://www.reshot.com/) - Free Icons & Illustrations Design freely with instant downloads and commercial licenses.
-- [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
-- [dotenvx](https://github.com/dotenvx/dotenvx) - _a better dotenv_–from the creator of [`dotenv`](https://github.com/motdotla/dotenv).
-  - run anywhere (cross-platform)
-  - multi-environment
-  - encrypted envs
-- [Microsoft Account to local account conversion guide erased from official Windows 11 guide — instructions redacted earlier this week](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
-- [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-- [Windows 11 is now automatically enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
-- [Ruby: a great language for shell scripts!](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
-- [llama.ttf](https://fuglede.github.io/llama.ttf/) is a font file which is also a large language model and an inference engine for that model.
-- [함께해요 파이썬 생태계](https://wikidocs.net/book/14021)
-- [EntityCode](https://entitycode.com/)
 
 ## What I read in past
 
