@@ -37,6 +37,9 @@
 
 ## Week 28, 2024
 
+- [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+- [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
+- [Second Factor SMS: Worse Than Its Reputation](https://www.ccc.de/en/updates/2024/2fa-sms) - Attackers can intercept SMS one-time passwords through techniques like SIM swapping or exploiting SS7 network vulnerabilities.
 - [Spot the Drowning Child](http://spotthedrowningchild.com/)
 - [SEQUOIA - Adapting to Endure](https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf)
 - Google Chrome gives all _.google.com sites full access to system / tab CPU usage, GPU usage, and memory usage. It also gives access to detailed processor information, and provides a logging backchannel. This API is not exposed to other sites - only to _.google.com. — [#](https://x.com/lcasdev/status/1810696257137959018)
