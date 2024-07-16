@@ -35,6 +35,14 @@
 
 ---
 
+## Week 29, 2024
+
+- [Google's Gemini AI caught scanning Google Drive hosted PDF files without permission — user complains feature can't be disabled](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
+- ["Firefox added \[ad tracking\] and has already turned it on without asking you"](https://mastodon.social/@mcc/112775362045378963)
+- [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/)
+- [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
+- [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
+
 ## Week 28, 2024
 
 - [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
@@ -51,20 +59,6 @@
 - [Why privacy is important, and having "nothing to hide" is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 - [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)
 - [Radio Garden](https://radio.garden/)
-
-## Week 27, 2024
-
-- [Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults](https://bjsm.bmj.com/content/58/10/556): an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies
-- [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
-- [HTMX does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
-- [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
-- [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
-- [Edna](https://github.com/kjk/edna) is a scratchpad for developers. It's a large persistent text buffer where you can write down anything you like. Works great for that Slack message you don't want to accidentally send, a JSON response from an API you're working with, notes from a meeting, daily to-do list, etc.
-- [KT 60만명 해킹의 심각성: 사상 최악의 사이버 범죄로부터 당신은 지금도 안전하지 않다](https://velog.io/@ilotoki0804/kt)
-- [Building an AI-Native Company](https://research.contrary.com/deep-dive/ai-native-company)
-- [Teo](https://github.com/teodevgroup/teo) is schema-driven web server framework. The server side API is native to Rust, Node.js and Python.
-- [마이리얼트립으로 살펴본 여행 산업에서의 SEO, 키워드 성과 분석 중요성](https://inpages.ai/kr/blog/myrealtrip-keyword-analysis)
-- [Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 
 ## What I read in past
 
