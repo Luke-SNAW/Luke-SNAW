@@ -37,6 +37,8 @@
 
 ## Week 30, 2024
 
+- [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
+- [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 - [Anchor Links and How to Make Them Awesome](https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/)
 - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 - [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
