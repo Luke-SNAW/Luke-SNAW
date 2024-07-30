@@ -35,6 +35,19 @@
 
 ---
 
+## Week 31, 2024
+
+- [Children should be allowed to get bored, expert says](https://www.bbc.com/news/education-21895704)
+- [Have It All: External, Styleable, & Scalable SVG](https://scottjehl.com/posts/svgtopia/)
+  - [SVG triangle of compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
+- [Europe Is in Danger of Regulating Its Tech Market Out of Existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
+- [Get The Screen Width & Height Without JavaScript](https://css-tip.com/screen-dimension/)
+- [Why "page.goto()" is slowing down your Playwright tests](https://www.checklyhq.com/blog/why-page-goto-is-slowing-down-your-playwright-test/)
+- [You’ll Write Less Code With Svelte 5.0, Promises Rich Harris](https://thenewstack.io/youll-write-less-code-with-svelte-5-0-promises-rich-harris/)
+- Zstandard, or [zstd](https://github.com/facebook/zstd) as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
+  - https://x.com/adrianco/status/1560854827810361345
+  - https://www.uber.com/en-TW/blog/cost-efficiency-big-data/
+
 ## Week 30, 2024
 
 - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
@@ -49,14 +62,6 @@
 - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [TablePlus](https://tableplus.com/) - Database management made easy
-
-## Week 29, 2024
-
-- [Google's Gemini AI caught scanning Google Drive hosted PDF files without permission — user complains feature can't be disabled](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
-- ["Firefox added \[ad tracking\] and has already turned it on without asking you"](https://mastodon.social/@mcc/112775362045378963)
-- [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/)
-- [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
-- [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 
 ## What I read in past
 
