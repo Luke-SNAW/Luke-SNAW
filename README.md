@@ -37,6 +37,11 @@
 
 ## Week 31, 2024
 
+- [Don’t Let Your Domain Name Become a “Sitting Duck”](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
+- [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
+- [GlazeWM](https://github.com/glzr-io/glazewm) is a tiling window manager for Windows inspired by i3 and Polybar.
+- [Meta to pay Texas $1.4 billion for using facial recognition technology without users’ permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
+- [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
 - [Children should be allowed to get bored, expert says](https://www.bbc.com/news/education-21895704)
 - [Have It All: External, Styleable, & Scalable SVG](https://scottjehl.com/posts/svgtopia/)
   - [SVG triangle of compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
