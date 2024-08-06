@@ -35,6 +35,14 @@
 
 ---
 
+## Week 32, 2024
+
+- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- [Organic Maps](https://github.com/organicmaps/organicmaps): Offline Hike, Bike, Trails and Navigation
+- [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
+- [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
+  - [CSR is possible but has poor support](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process#moving-forward-with-new-information)
+
 ## Week 31, 2024
 
 - [Don’t Let Your Domain Name Become a “Sitting Duck”](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
@@ -52,21 +60,6 @@
 - Zstandard, or [zstd](https://github.com/facebook/zstd) as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
   - https://x.com/adrianco/status/1560854827810361345
   - https://www.uber.com/en-TW/blog/cost-efficiency-big-data/
-
-## Week 30, 2024
-
-- [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
-- [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
-- [Anchor Links and How to Make Them Awesome](https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/)
-- [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
-- [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
-  - don't use private forks. Copy the repository instead. [#](https://news.ycombinator.com/item?id=41060617)
-  - the only way to securely remediate a leaked key on a public GitHub repository is through [key rotation](https://howtorotate.com/docs/introduction/getting-started/).
-- [Google Is the Only Search Engine That Works on Reddit Now Thanks to AI Deal](https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/)
-- [Switzerland now requires all government software to be open source](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/)
-- [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
-- [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [TablePlus](https://tableplus.com/) - Database management made easy
 
 ## What I read in past
 
