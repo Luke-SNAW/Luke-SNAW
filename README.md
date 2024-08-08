@@ -37,6 +37,10 @@
 
 ## Week 32, 2024
 
+- [SVG Viewer](https://www.svgviewer.dev/) is an online tool to view, edit and optimize SVGs.
+- [Happy 33rd birthday the world's first website!](https://x.com/WebDesignMuseum/status/1820796966898680146)
+- [Cringey, But True: How Uber Tests Payments In Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
+- [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
 - [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [Organic Maps](https://github.com/organicmaps/organicmaps): Offline Hike, Bike, Trails and Navigation
 - [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
