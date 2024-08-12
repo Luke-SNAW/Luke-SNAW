@@ -35,6 +35,11 @@
 
 ---
 
+## Week 33, 2024
+
+- [Line-breakable <ruby> and CSS ruby-align property](https://developer.chrome.com/blog/line-breakable-ruby)
+- [China’s total wind and solar capacity outstrips coal, Rystad says](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
+
 ## Week 32, 2024
 
 - [SVG Viewer](https://www.svgviewer.dev/) is an online tool to view, edit and optimize SVGs.
@@ -46,24 +51,6 @@
 - [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
 - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
   - [CSR is possible but has poor support](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process#moving-forward-with-new-information)
-
-## Week 31, 2024
-
-- [Don’t Let Your Domain Name Become a “Sitting Duck”](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
-- [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
-- [GlazeWM](https://github.com/glzr-io/glazewm) is a tiling window manager for Windows inspired by i3 and Polybar.
-- [Meta to pay Texas $1.4 billion for using facial recognition technology without users’ permission](https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/)
-- [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
-- [Children should be allowed to get bored, expert says](https://www.bbc.com/news/education-21895704)
-- [Have It All: External, Styleable, & Scalable SVG](https://scottjehl.com/posts/svgtopia/)
-  - [SVG triangle of compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
-- [Europe Is in Danger of Regulating Its Tech Market Out of Existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
-- [Get The Screen Width & Height Without JavaScript](https://css-tip.com/screen-dimension/)
-- [Why "page.goto()" is slowing down your Playwright tests](https://www.checklyhq.com/blog/why-page-goto-is-slowing-down-your-playwright-test/)
-- [You’ll Write Less Code With Svelte 5.0, Promises Rich Harris](https://thenewstack.io/youll-write-less-code-with-svelte-5-0-promises-rich-harris/)
-- Zstandard, or [zstd](https://github.com/facebook/zstd) as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
-  - https://x.com/adrianco/status/1560854827810361345
-  - https://www.uber.com/en-TW/blog/cost-efficiency-big-data/
 
 ## What I read in past
 
