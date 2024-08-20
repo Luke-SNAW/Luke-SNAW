@@ -35,22 +35,17 @@
 
 ---
 
+## Week 34, 2024
+
+- [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
+- [Bun は Node より速いのか？ Misskey で検証](https://gihyo.jp/article/2024/08/misskey-15)
+- [croc](https://github.com/schollz/croc) is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is the only CLI file-transfer tool
+- [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+
 ## Week 33, 2024
 
 - [Line-breakable <ruby> and CSS ruby-align property](https://developer.chrome.com/blog/line-breakable-ruby)
 - [China’s total wind and solar capacity outstrips coal, Rystad says](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
-
-## Week 32, 2024
-
-- [SVG Viewer](https://www.svgviewer.dev/) is an online tool to view, edit and optimize SVGs.
-- [Happy 33rd birthday the world's first website!](https://x.com/WebDesignMuseum/status/1820796966898680146)
-- [Cringey, But True: How Uber Tests Payments In Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
-- [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
-- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
-- [Organic Maps](https://github.com/organicmaps/organicmaps): Offline Hike, Bike, Trails and Navigation
-- [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
-- [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
-  - [CSR is possible but has poor support](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process#moving-forward-with-new-information)
 
 ## What I read in past
 
