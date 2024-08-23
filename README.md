@@ -37,6 +37,7 @@
 
 ## Week 34, 2024
 
+- [Ikea's Inventory Drones Expansion](https://www.perplexity.ai/page/ikea-s-inventory-drones-expans-pLA9_AlHRe2xAZsVc0SYpA)
 - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 - [Bun は Node より速いのか？ Misskey で検証](https://gihyo.jp/article/2024/08/misskey-15)
 - [croc](https://github.com/schollz/croc) is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is the only CLI file-transfer tool
