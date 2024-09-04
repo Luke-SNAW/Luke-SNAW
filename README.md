@@ -35,18 +35,16 @@
 
 ---
 
-## Week 34, 2024
+## Week 36, 2024
 
-- [Ikea's Inventory Drones Expansion](https://www.perplexity.ai/page/ikea-s-inventory-drones-expans-pLA9_AlHRe2xAZsVc0SYpA)
-- [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
-- [Bun は Node より速いのか？ Misskey で検証](https://gihyo.jp/article/2024/08/misskey-15)
-- [croc](https://github.com/schollz/croc) is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is the only CLI file-transfer tool
-- [Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+- [CSS finally adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
+- [Founder Mode](https://paulgraham.com/foundermode.html)
 
-## Week 33, 2024
+## Week 35, 2024
 
-- [Line-breakable <ruby> and CSS ruby-align property](https://developer.chrome.com/blog/line-breakable-ruby)
-- [China’s total wind and solar capacity outstrips coal, Rystad says](https://renewablesnow.com/news/chinas-total-wind-and-solar-capacity-outstrips-coal-rystad-says-865106/)
+- [How to make your web page faster before it even loads](https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/)
+- [UX Design Patterns for Loading](https://www.pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback)
 
 ## What I read in past
 
