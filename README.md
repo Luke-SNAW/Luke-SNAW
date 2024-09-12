@@ -3,6 +3,10 @@
 
 ---
 
+> I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely.
+>
+> — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
+
 > “Motivation often comes after starting, not before. Action produces momentum.”
 >
 > — James Clear
@@ -37,6 +41,17 @@
 
 ## Week 37, 2024
 
+- [CSS display contents](https://ishadeed.com/article/display-contents/)
+- [I Wish I Didn't Miss the '90s-00s Internet](https://rohan.ga/blog/early-internet/)
+- [Why some of us like "interdiff" code review](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
+- [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
+  - The "why not" comments are valuable for documenting negative information - things that the code is not doing.
+  - "Why not" comments can serve as signposts for future optimization or changes, even if the current code is working fine.
+  - Lengthy function/variable names cannot fully replace "why not" comments, as they cannot capture the tradeoffs and reasoning behind the code.
+  - The author suggests that "why not" comments may be a form of "counterfactuals" in human communication, which are difficult to self-document in code.
+- [Just for Fun (2022)](https://justforfunnoreally.dev/)
+  > I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely. — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
+- [CSS :has() performance](https://www.joshwcomeau.com/css/has/#:~:text=What%20about%20performance%3F) - Browsers are really good at doing style recalculation. This isn't something we need to worry about. 😄
 - [자바스크립트는 왜 프로토타입을 선택했을까](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
 - [The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 - [Inside ECMAScript: JavaScript Standard Gets an Extra Stage](https://thenewstack.io/inside-ecmascript-javascript-standard-gets-an-extra-stage/)
