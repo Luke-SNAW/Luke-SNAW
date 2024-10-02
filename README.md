@@ -39,8 +39,17 @@
 
 ---
 
+## Week 40, 2024
+
+- [Bots, so many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
+- [Bop Spotter](https://walzr.com/bop-spotter)
+- [Meta fined $102 million for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
+- [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+
 ## Week 39, 2024
 
+- [NIST will standardise prohibition of requirement of composing passwords from various character styles, and requirement for periodic password changes.](https://mastodon.social/@LukaszOlejnik/113193089731407165)
+  - https://pages.nist.gov/800-63-4/sp800-63b.html#passwordver
 - [Dark Patterns - Hall of Shame](https://hallofshame.design/)
 - [Improving rendering performance with CSS `content-visibility`](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
   - This final solution achieved around a 45% performance improvement in both Chrome and Firefox, reducing the load time from 3 seconds to 1.3 seconds.
@@ -53,19 +62,6 @@
 - [How startups beat incumbents](https://longform.asmartbear.com/startup-beats-incumbent/)
 - [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://news.ycombinator.com/item?id=41590466)
 - [Math4Devs](https://math4devs.com/)
-
-## Week 38, 2024
-
-- [Drift towards danger and the normalization of deviance](https://risk-engineering.org/concept/Rasmussen-practical-drift) - systemic migration of organizational behavior toward accident under the influence of pressure toward cost-effectiveness in an aggressive, competing environment
-  - [Overton window](https://en.m.wikipedia.org/wiki/Overton_window)
-- [AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds](https://www.cbc.ca/news/health/ai-health-care-1.7322671)
-- [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [Fuck founder mode. Work in "Fuck off mode".](https://old.reddit.com/r/SaaS/comments/1fgv248/fuck_founder_mode_work_in_fuck_off_mode/)
-- [Oracle, it’s time to free JavaScript.](https://javascript.tm/)
-- [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
-  - [Why an HTTP Get Request Shouldn’t Have a Body](https://www.baeldung.com/cs/http-get-with-body)
-- [Logical Properties in Size Queries](https://css-irl.info/logical-properties-in-size-queries/)
-- [Animate to height: auto; (and other intrinsic sizing keywords) in CSS](https://developer.chrome.com/docs/css-ui/animate-to-height-auto/)
 
 ## What I read in past
 
