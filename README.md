@@ -39,6 +39,22 @@
 
 ---
 
+## Week 41, 2024
+
+- [AI won't replace human devs anytime soon (twitter.com/skeptrune)](https://x.com/skeptrune/status/1843060221494895058)
+- [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
+  - https://news.ycombinator.com/item?id=41757711
+- [Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision](https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/)
+- [Gen AI Makes Legal Action Cheap — and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
+- [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
+  If you check **any** of the boxes below, you should use Tauri:
+  - [ ] Do you want a single UI codebase for all platforms?
+  - [ ] Do you want to reach as many users as possible on their platform (eg. Windows, MacOS, Linux, Android, iOS)?
+  - [ ] Are you a frontend web developer and want to write native applications?
+  - [ ] Are you a Rust developer looking to write applications with a nice looking UI with the option to do it in Rust?
+  - [ ] Do you have an existing team of web developers and want to expand to native application markets with low upfront investment?
+  - [ ] Do you have an existing team of rustaceans and want everything written in Rust?
+
 ## Week 40, 2024
 
 - [Double your specificity with this one weird trick](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
@@ -52,23 +68,6 @@
 - [Bop Spotter](https://walzr.com/bop-spotter)
 - [Meta fined $102 million for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
 - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-
-## Week 39, 2024
-
-- [NIST will standardise prohibition of requirement of composing passwords from various character styles, and requirement for periodic password changes.](https://mastodon.social/@LukaszOlejnik/113193089731407165)
-  - https://pages.nist.gov/800-63-4/sp800-63b.html#passwordver
-- [Dark Patterns - Hall of Shame](https://hallofshame.design/)
-- [Improving rendering performance with CSS `content-visibility`](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
-  - This final solution achieved around a 45% performance improvement in both Chrome and Firefox, reducing the load time from 3 seconds to 1.3 seconds.
-  - While satisfied with the [content-visibility](https://web.dev/articles/content-visibility) approach, the author acknowledges that a true virtual list implementation would likely provide even better performance, especially for larger datasets.
-- [McDonald’s touchscreen kiosks were feared as job killers. Instead, something surprising happened](https://edition.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack)
-- a “feature” Apple added that auto-corrects file extensions.
-  - [Zed adds .s to my SQL files](https://github.com/zed-industries/zed/issues/16969)
-  - [Sublime text started adding a “.s” to new files.](https://forum.sublimetext.com/t/sublime-text-started-adding-a-s-to-new-files-very-annoying/73628/10)
-- [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
-- [How startups beat incumbents](https://longform.asmartbear.com/startup-beats-incumbent/)
-- [Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host](https://news.ycombinator.com/item?id=41590466)
-- [Math4Devs](https://math4devs.com/)
 
 ## What I read in past
 
