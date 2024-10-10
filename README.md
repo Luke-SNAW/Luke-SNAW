@@ -7,6 +7,8 @@
 >
 > — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
 
+> [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+
 > “Motivation often comes after starting, not before. Action produces momentum.”
 >
 > — James Clear
@@ -41,6 +43,15 @@
 
 ## Week 41, 2024
 
+- [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](https://longform.asmartbear.com/icp-ideal-customer-persona/)
+- [Nearly all of the Google images results for "baby peacock" are AI generated](https://x.com/notengoprisa/status/1842550658102079556)
+- [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+- [ARIA DevTools](https://github.com/ziolko/aria-devtools)
+- [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
+  > Epic's "First Run" program does all the things they got mad at Apple and Google about.
+  > You don't have to pay any license fees for Unreal Engine if you use Epic exclusively for payments. They give you 100% revshare for 6 months if you agree to not ship your game on any other app store.
+  >
+  > Let's not kid ourselves, Epic never cared about consumer choice or a fair playing field, they only want the ability to profit without having to invest in building a hardware platform. — [mike_d](https://news.ycombinator.com/item?id=41770323)
 - [AI won't replace human devs anytime soon (twitter.com/skeptrune)](https://x.com/skeptrune/status/1843060221494895058)
 - [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
   - https://news.ycombinator.com/item?id=41757711
