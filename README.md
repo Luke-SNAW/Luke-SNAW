@@ -43,6 +43,18 @@
 
 ## Week 41, 2024
 
+- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+  > The CAP Theorem is a fundamental theorem in distributed systems that states any distributed system can have at most two of the following three properties.
+  >
+  > - Consistency
+  > - Availability
+  > - Partition tolerance
+- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
+- [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
+  - https://news.ycombinator.com/item?id=41781457
+- [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
+  - [Valetudo](https://github.com/Hypfer/Valetudo) is a cloud replacement for vacuum robots enabling local-only operation.
+- [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](https://longform.asmartbear.com/icp-ideal-customer-persona/)
 - [Nearly all of the Google images results for "baby peacock" are AI generated](https://x.com/notengoprisa/status/1842550658102079556)
 - [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
