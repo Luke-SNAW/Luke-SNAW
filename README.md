@@ -41,6 +41,20 @@
 
 ---
 
+## Week 42, 2024
+
+- [소프트웨어 파괴의 미학](https://kciter.so/posts/the-aesthetics-of-destroying-software/)
+  > "소프트웨어 파괴의 미학"은 소프트웨어 개발에 내재된 불확실성을 탐구하며, 끊임없이 변화하는 비즈니스 요구사항 속에서 개발자들이 완벽을 추구하는 과정에서 직면하는 어려움을 강조합니다. 이 글은 개발자들이 품질을 위해 노력하지만 복잡한 비즈니스 역학에 직면하면서 기술 부채가 발생하는 과정을 설명합니다. 또한 Kano 모델을 참조하여 고객 만족도가 시간에 따라 어떻게 변화하는지, 한때 매력적이었던 기능들이 기본적인 기대사항이 되는 과정을 보여줍니다. 이 글은 코드가 결국 시대에 뒤처질 수밖에 없다는 사실을 받아들이고, 이러한 불가피성을 예상하고 받아들이는 마음가짐인 "Destruction-Oriented Development"의 개념을 소개합니다.
+- [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
+- [It made me $500k but I think content is a bad business](https://swizec.com/blog/it-made-me-500k-but-i-think-content-is-a-bad-business/)
+- [Working From Home Is Powering Productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
+  - While hybrid work may have a neutral impact on individual productivity, its macroeconomic effects are positive due to broader labor market inclusion and lower transportation emissions.
+    - Positive benefits include reduced commuting time and a quieter, less interrupted working environment
+    - Reduced time in the office may reduce ability to learn, innovate, and communicate
+    - No net productivity impact as positive and negative effects offset each other
+      > The impact of fully remote working, which has been adopted by about 10 percent of employees, is highly dependent on how well it’s managed.
+- [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
+
 ## Week 41, 2024
 
 - [The Copenhagen Book](https://github.com/pilcrowonpaper/copenhagen)
@@ -82,20 +96,6 @@
   - [ ] Are you a Rust developer looking to write applications with a nice looking UI with the option to do it in Rust?
   - [ ] Do you have an existing team of web developers and want to expand to native application markets with low upfront investment?
   - [ ] Do you have an existing team of rustaceans and want everything written in Rust?
-
-## Week 40, 2024
-
-- [Double your specificity with this one weird trick](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
-  - `.checkbox__icon.checkbox__icon`
-    > "Repeated occurrences of the same simple selector are allowed and do increase specificity." — [CSS Selectors Level 4](https://www.w3.org/TR/selectors-4/#specificity-rules)
-- [The problem with superscripts and subscripts](https://clagnut.com/blog/2434/)
-- [Introducing TODS](https://clagnut.com/blog/2433/) – a typographic and OpenType default stylesheet
-- [Solarized](https://ethanschoonover.com/solarized/) - Precision colors for machines and people
-- [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
-- [Bots, so many Bots](https://wakatime.com/blog/67-bots-so-many-bots)
-- [Bop Spotter](https://walzr.com/bop-spotter)
-- [Meta fined $102 million for storing passwords in plain text](https://www.engadget.com/big-tech/meta-fined-102-million-for-storing-passwords-in-plain-text-110049679.html)
-- [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 
 ## What I read in past
 
