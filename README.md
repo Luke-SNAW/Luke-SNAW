@@ -41,8 +41,19 @@
 
 ---
 
+## Week 43, 2024
+
+- [The story of web framework Hono, from the creator of Hono](https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono)
+- [Love being interrupted when my monitor asks me to accept user agreements](https://x.com/snwy_me/status/1847396175961641176)
+
 ## Week 42, 2024
 
+- [I’ve Been Doing Blockquotes Wrong](https://css-irl.info/ive-been-doing-blockquotes-wrong/)
+- [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
+  - [Coolify](https://coolify.io/)
+  - [Cloudflare Tunnel](https://www.cloudflare.com/en-gb/products/tunnel/)
+  - [Tailscale Funnel](https://tailscale.com/kb/1223/funnel)
+- [Ask HN: Solopreneurs, how did you come up with your idea?](https://news.ycombinator.com/item?id=41837607)
 - [GOOD ENOUGH BEATS GREAT](https://www.meaningfulmoney.life/post/maximizer-vs-satisficer)
 - [Explore the Maya Temples at Copán Ruinas](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
 - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
@@ -59,48 +70,6 @@
     - No net productivity impact as positive and negative effects offset each other
       > The impact of fully remote working, which has been adopted by about 10 percent of employees, is highly dependent on how well it’s managed.
 - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-
-## Week 41, 2024
-
-- [The Copenhagen Book](https://github.com/pilcrowonpaper/copenhagen)
-- [Automating Processes with Software is HARD](https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software)
-  - Many people underestimate the fragility of automated systems, which can fail due to unexpected inputs or tool malfunctions.
-  - the author stresses the importance of human oversight, especially in high-stakes areas.
-  - [Ironies of Automation](https://www.complexcognition.co.uk/2021/06/ironies-of-automation.html)
-- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-  > The CAP Theorem is a fundamental theorem in distributed systems that states any distributed system can have at most two of the following three properties.
-  >
-  > - Consistency
-  > - Availability
-  > - Partition tolerance
-- [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
-- [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
-  - https://news.ycombinator.com/item?id=41781457
-- [ABC News hacks into popular robot vacuum, watches owner through camera](https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020)
-  - [Valetudo](https://github.com/Hypfer/Valetudo) is a cloud replacement for vacuum robots enabling local-only operation.
-- [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
-- [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](https://longform.asmartbear.com/icp-ideal-customer-persona/)
-- [Nearly all of the Google images results for "baby peacock" are AI generated](https://x.com/notengoprisa/status/1842550658102079556)
-- [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
-- [ARIA DevTools](https://github.com/ziolko/aria-devtools)
-- [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
-  > Epic's "First Run" program does all the things they got mad at Apple and Google about.
-  > You don't have to pay any license fees for Unreal Engine if you use Epic exclusively for payments. They give you 100% revshare for 6 months if you agree to not ship your game on any other app store.
-  >
-  > Let's not kid ourselves, Epic never cared about consumer choice or a fair playing field, they only want the ability to profit without having to invest in building a hardware platform. — [mike_d](https://news.ycombinator.com/item?id=41770323)
-- [AI won't replace human devs anytime soon (twitter.com/skeptrune)](https://x.com/skeptrune/status/1843060221494895058)
-- [AI is an impediment to learning web development](https://ben.page/jumbocode-ai)
-  - https://news.ycombinator.com/item?id=41757711
-- [Apple releases Depth Pro, an AI model that rewrites the rules of 3D vision](https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/)
-- [Gen AI Makes Legal Action Cheap — and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
-- [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
-  If you check **any** of the boxes below, you should use Tauri:
-  - [ ] Do you want a single UI codebase for all platforms?
-  - [ ] Do you want to reach as many users as possible on their platform (eg. Windows, MacOS, Linux, Android, iOS)?
-  - [ ] Are you a frontend web developer and want to write native applications?
-  - [ ] Are you a Rust developer looking to write applications with a nice looking UI with the option to do it in Rust?
-  - [ ] Do you have an existing team of web developers and want to expand to native application markets with low upfront investment?
-  - [ ] Do you have an existing team of rustaceans and want everything written in Rust?
 
 ## What I read in past
 
