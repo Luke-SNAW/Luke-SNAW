@@ -8,6 +8,8 @@
 > — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
 
 > [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+>
+> better survival characteristics than the-right-thing
 
 > We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care.
 >
@@ -46,6 +48,7 @@
 
 ## Week 44, 2024
 
+- [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 - [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 - [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
   > Before I bought it, the domain was used to host pirated music. Its urls were delisted by Google (and other search engines).
