@@ -46,6 +46,16 @@
 
 ---
 
+## Week 45, 2024
+
+- [Clarifying the Relationship Between Popovers and Dialogs](https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/)
+  - Popover is an umbrella term for any kind of on-demand popup.
+  - Dialog is one type of popover — a kind that creates a new window (or card) to contain some content.
+    - Modal: A dialog with an overlay and focus trapping
+    - Non-Modal: A dialog with neither an overlay nor focus trapping
+    - Alert Dialog: A dialog that alerts screen readers when shown. It can be either modal or non-modal.
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+
 ## Week 44, 2024
 
 - [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
@@ -55,18 +65,6 @@
 - [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 - [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
   > Before I bought it, the domain was used to host pirated music. Its urls were delisted by Google (and other search engines).
-
-## Week 43, 2024
-
-- [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
-- [Practical Accessibility Tips You Can Apply Today](https://piccalil.li/blog/practical-accessibility-tips-you-can-apply-today/)
-- [Sucrose - The secret behind Elysia speed](https://saltyaom.com/blog/elysia-sucrose/)
-- [Tog's paradox](https://www.votito.com/methods/togs-paradox/) (also known as The Complexity Paradox or Tog’s Complexity Paradox) is an observation that products aiming to simplify a task for users tend to inspire new, more complex tasks.
-  > Travel became simpler → more vacations now involve flying a plane and thus obtaining tickets online and thus comparison-shopping, aggregating reviews of faraway places, etc → omg, vacation travel is complex again. It just allows to fulfill more of a dream. — [nine_k](https://news.ycombinator.com/item?id=41914693)
-  >
-  > Tog's paradox is the main reason why I suspect that generative AI will never destroy art, it will enhance it. It allows you to create artworks within minutes that until recently required hours to create and years to master. This will cause new art to emerge that pushes these new tools to the limit, again with years of study and mastery, and they will look like nothing we've been able to produce so far. — [posix86](https://news.ycombinator.com/item?id=41914285)
-- [The story of web framework Hono, from the creator of Hono](https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono)
-- [Love being interrupted when my monitor asks me to accept user agreements](https://x.com/snwy_me/status/1847396175961641176)
 
 ## What I read in past
 
