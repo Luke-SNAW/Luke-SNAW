@@ -13,6 +13,10 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 >
 > — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
+> [Roberto Blake was talking about making 100 crappy videos](https://www.youtube.com/watch?v=OnUBaQ1Sp_E) to get better over time. Putting in the reps and improving a little bit each time.
+>
+> Putting in the work without expecting any external reward at first (eg views, followers, likes, etc) will pay off in the long run. — [100 Scrappy Things](https://www.florin-pop.com/blog/100-scrappy-things/)
+
 > A good match is a **structured** dance, where players aim to **score** while they are following well-defined **rules**. This **freedom within a structure** is what makes it fun.
 >
 > — [ralphammer](https://ralphammer.com/how-to-get-started/)
