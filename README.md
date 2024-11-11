@@ -48,6 +48,17 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 46, 2024
+
+- [100 Scrappy Things](https://www.florin-pop.com/blog/100-scrappy-things/)
+  > Putting in the work without expecting any external reward at first (eg views, followers, likes, etc) will pay off in the long run.
+  > [Roberto Blake was talking about making 100 crappy videos](https://www.youtube.com/watch?v=OnUBaQ1Sp_E) to get better over time. Putting in the reps and improving a little bit each time.
+- [Hundreds of code libraries posted to NPM try to install malware on dev machines](https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/)
+  > The IP address returned by a package Phylum analyzed was: hxxp://193.233.201[.]21:3001.
+  > While the method was likely intended to conceal the source of second-stage infections, it ironically had the effect of leaving a trail of previous addresses the attackers had used in the past.
+  >
+  > Attacks like this one rely on typosquatting, a term for the use of names that closely mimic those of legitimate packages but contain small differences, such as those that might occur if the package was inadvertently misspelled.
+
 ## Week 45, 2024
 
 - [New Study Reveals Blood Sugar Control is a Key Factor in Slowing Brain Aging, Highlighting the Benefits of the Mediterranean Diet](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
@@ -63,16 +74,6 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
     - Non-Modal: A dialog with neither an overlay nor focus trapping
     - Alert Dialog: A dialog that alerts screen readers when shown. It can be either modal or non-modal.
 - [Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
-
-## Week 44, 2024
-
-- [Steam games will need to disclose kernel-level anti-cheat on store pages](https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/)
-  - https://news.ycombinator.com/item?id=41999314
-- [The Karma connection in Chrome Web Store](https://palant.info/2024/10/30/the-karma-connection-in-chrome-web-store/)
-- [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
-- [The open secret of open washing – why companies pretend to be open source](https://www.theregister.com/2024/10/25/opinion_open_washing/)
-- [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
-  > Before I bought it, the domain was used to host pirated music. Its urls were delisted by Google (and other search engines).
 
 ## What I read in past
 
