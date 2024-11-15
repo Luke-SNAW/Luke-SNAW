@@ -50,6 +50,15 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## Week 46, 2024
 
+- [Introducing Copilot Edits (preview)](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits)
+- [The disposable web](https://paul.kinlan.me/the-disposable-web/)
+  - [Generated Web Apps](https://paul.kinlan.me/generated-web-apps/) - https://websim.ai/, https://replit.com/
+- [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+- [YouTube Premium Showing Ads](https://old.reddit.com/r/youtube/comments/1gnaetv/paying_to_see_ads_great/)
+- [🌴 Stretch My Time Off](https://stretchmytimeoff.com/) - a quick experiment using Cursor (Anysphere's AI code editor) and GPT-4o to see how far AI could go in building a simple, functional site.
+  - https://github.com/zachd/stretch-my-time-off
+- [What I Wish Someone Told Me About DB(Postgres)](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
 - [100 Scrappy Things](https://www.florin-pop.com/blog/100-scrappy-things/)
   > Putting in the work without expecting any external reward at first (eg views, followers, likes, etc) will pay off in the long run.
   > [Roberto Blake was talking about making 100 crappy videos](https://www.youtube.com/watch?v=OnUBaQ1Sp_E) to get better over time. Putting in the reps and improving a little bit each time.
