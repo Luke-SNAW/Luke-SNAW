@@ -48,6 +48,12 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 47, 2024
+
+- [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
+- [How to win by doing things that don't scale](https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont) - a winning strategy even well beyond the early days of a startup
+- [The Long Tail of AI](https://research.contrary.com/deep-dive/long-tail-of-ai) - how non-AI companies are integrating artificial intelligence.
+
 ## Week 46, 2024
 
 - [Introducing Copilot Edits (preview)](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits)
@@ -67,22 +73,6 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
   > While the method was likely intended to conceal the source of second-stage infections, it ironically had the effect of leaving a trail of previous addresses the attackers had used in the past.
   >
   > Attacks like this one rely on typosquatting, a term for the use of names that closely mimic those of legitimate packages but contain small differences, such as those that might occur if the package was inadvertently misspelled.
-
-## Week 45, 2024
-
-- [New Study Reveals Blood Sugar Control is a Key Factor in Slowing Brain Aging, Highlighting the Benefits of the Mediterranean Diet](https://www.bgu.ac.il/en/news-and-articles/blood-sugar-control-is-key-factor-in-slowing-brain-aging/)
-- [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
-- [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)
-- [Attacking APIs using JSON Injection](https://danaepp.com/attacking-apis-using-json-injection)
-  > This endpoint had no sanitization on the parameters throughout the processing of the JSON body. Moreover, the library Samsung relied on (json-c) was compiled with `JSON_TOKENER_STRICT=0`, which allows for defining strings with both single and double quotes.
-  > JSON Injection → SQL Injection → Buffer Overflow → ROP = PWNED
-- [Clarifying the Relationship Between Popovers and Dialogs](https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/)
-  - Popover is an umbrella term for any kind of on-demand popup.
-  - Dialog is one type of popover — a kind that creates a new window (or card) to contain some content.
-    - Modal: A dialog with an overlay and focus trapping
-    - Non-Modal: A dialog with neither an overlay nor focus trapping
-    - Alert Dialog: A dialog that alerts screen readers when shown. It can be either modal or non-modal.
-- [Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 
 ## What I read in past
 
