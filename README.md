@@ -50,6 +50,8 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## Week 47, 2024
 
+- [Overflow Clip](https://ishadeed.com/article/overflow-clip/)
+- [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
 - [How to win by doing things that don't scale](https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont) - a winning strategy even well beyond the early days of a startup
 - [The Long Tail of AI](https://research.contrary.com/deep-dive/long-tail-of-ai) - how non-AI companies are integrating artificial intelligence.
