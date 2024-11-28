@@ -50,6 +50,7 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## Week 48, 2024
 
+- [Fraction.js - ℚ in JavaScript](https://github.com/rawify/Fraction.js)
 - [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 
 ## Week 47, 2024
