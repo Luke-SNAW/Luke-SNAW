@@ -48,6 +48,11 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 50, 2024
+
+- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+
 ## Week 49, 2024
 
 - [Exploring the HTML5 <a> Tag Ping Attribute](https://jsdev.space/html-ping-attribute/)
