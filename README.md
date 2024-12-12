@@ -49,7 +49,7 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 ---
 
 ## Week 50, 2024
-
+- [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Every UUID Dot Com](https://everyuuid.com/) - https://eieio.games/blog/writing-down-every-uuid/
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
