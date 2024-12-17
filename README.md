@@ -48,25 +48,19 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 51, 2024
+
+- [Control the Viewport Resize Behavior on mobile with `interactive-widget`](https://htmhell.dev/adventcalendar/2024/4/)
+- [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
+- Man ran 700 miles to make ‘insanely impressive’ art on GPS fitness app
+  - https://www.tiktok.com/@duncan77mccabe/video/7438366744776903992
+  - https://www.youtube.com/watch?v=fO--TM4_6hw
+
 ## Week 50, 2024
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Every UUID Dot Com](https://everyuuid.com/) - https://eieio.games/blog/writing-down-every-uuid/
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
-
-## Week 49, 2024
-
-- [Exploring the HTML5 <a> Tag Ping Attribute](https://jsdev.space/html-ping-attribute/)
-- [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
-  > There is so much to go around. The world is abundant and not zero-sum. I intentionally let people take advantage of me because I know I’ll recover whatever I need in another way.
-  > A useful habit is to practice random acts of kindness daily, whenever convenient.
-- [Stop using JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
-- [You Must Read At Least One Book To Ride](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/)
-- [Go vs Bun, Go언어는 정말 JS 런타임보다 빠를까?](https://tsboard.dev/blog/sirini/41)
-  > DB 입출력이 잦은 리얼 월드에서는 **Bun** 런타임과 **Elysia** 웹프레임워크, 그리고 **mysql2** 라이브러리의 조합이 예상 외로 훌륭한 결과를 보여주었습니다. 동시 요청이 많아도 Go가 보여주는 것만큼의 안정적인 동작을 보여주었고, 미약해 보였던 싱글 스레드 기반의 이벤트 루프는 **비동기 I/O와 함께 의외의 슈퍼 파워**를 보여주었습니다.
-  - `데이터베이스 드라이버` 병목 의심
-  - DB I/O가 많은 리얼 월드 환경에서는 Bun(Elysia 프레임워크와 MySQL2 라이브러리 조합)이 더 안정적이고 효율적
-  - [논의](https://news.hada.io/comment?id=31958)
 
 ## Week 48, 2024
 
