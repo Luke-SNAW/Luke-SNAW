@@ -62,11 +62,6 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 
-## Week 48, 2024
-
-- [Fraction.js - ℚ in JavaScript](https://github.com/rawify/Fraction.js)
-- [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
-
 ## What I read in past
 
 - [👓 What I read in 2024](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
