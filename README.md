@@ -42,6 +42,10 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 >
 > — [CE02](https://news.ycombinator.com/item?id=35056071)
 
+> My real battle is doing good versus doing nothing.
+>
+> — [Deirdre Sullivan](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
+
 > Before leaving for the day I leave a comment in code: I’m working on this, need to do A, B C… to get it working.
 >
 > — [makz](https://news.ycombinator.com/item?id=40744916)
@@ -50,6 +54,8 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## Week 51, 2024
 
+- [Always Go To The Funeral](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
+  > In my humdrum life, the daily battle hasn't been good versus evil. It's hardly so epic. Most days, my real battle is doing good versus doing nothing.
 - [Control the Viewport Resize Behavior on mobile with `interactive-widget`](https://htmhell.dev/adventcalendar/2024/4/)
 - [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
 - Man ran 700 miles to make ‘insanely impressive’ art on GPS fitness app
