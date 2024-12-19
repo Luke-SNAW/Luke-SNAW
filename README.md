@@ -54,6 +54,9 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## Week 51, 2024
 
+- [My Modern CSS Reset](https://jakelazaroff.com/words/my-modern-css-reset/)
+- [What PWA Can Do Today](https://whatpwacando.today/)
+- [Moon](https://ciechanow.ski/moon/)
 - [Always Go To The Funeral](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
   > In my humdrum life, the daily battle hasn't been good versus evil. It's hardly so epic. Most days, my real battle is doing good versus doing nothing.
 - [Control the Viewport Resize Behavior on mobile with `interactive-widget`](https://htmhell.dev/adventcalendar/2024/4/)
