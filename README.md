@@ -52,8 +52,13 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 52, 2024
+
+- [New Google Sheet on half of 13.6" MacBook Air screen is fully covered by popups](https://imgur.com/a/NQskWzI)
+
 ## Week 51, 2024
 
+- [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 - [My Modern CSS Reset](https://jakelazaroff.com/words/my-modern-css-reset/)
 - [What PWA Can Do Today](https://whatpwacando.today/)
 - [Moon](https://ciechanow.ski/moon/)
@@ -64,12 +69,6 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 - Man ran 700 miles to make ‘insanely impressive’ art on GPS fitness app
   - https://www.tiktok.com/@duncan77mccabe/video/7438366744776903992
   - https://www.youtube.com/watch?v=fO--TM4_6hw
-
-## Week 50, 2024
-- [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
-- [Every UUID Dot Com](https://everyuuid.com/) - https://eieio.games/blog/writing-down-every-uuid/
-- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
-- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 
 ## What I read in past
 
