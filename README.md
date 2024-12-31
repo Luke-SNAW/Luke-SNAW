@@ -72,7 +72,8 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ## What I read in past
 
-- [👓 What I read in 2024](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
+- [👓 What I read in 2025](https://luke-snaw.github.io/notes/3c3ubyy4jyo2x0qui65nwtu/)
+  - [2024](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
   - [2023](https://luke-snaw.github.io/notes/d9io1hr2n9vdbvucvy3iquj/)
   - [2022](https://luke-snaw.github.io/notes/l4c5ilaotvka1yh10wv88cy/)
 - 📝 [Gists](https://gist.github.com/Luke-SNAW)
