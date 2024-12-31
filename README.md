@@ -52,23 +52,13 @@ Simplicity, even if it sacrifices some ideal functionality has better survival c
 
 ---
 
+## Week 1, 2025
+
+- [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
+
 ## Week 52, 2024
 
 - [New Google Sheet on half of 13.6" MacBook Air screen is fully covered by popups](https://imgur.com/a/NQskWzI)
-
-## Week 51, 2024
-
-- [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
-- [My Modern CSS Reset](https://jakelazaroff.com/words/my-modern-css-reset/)
-- [What PWA Can Do Today](https://whatpwacando.today/)
-- [Moon](https://ciechanow.ski/moon/)
-- [Always Go To The Funeral](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
-  > In my humdrum life, the daily battle hasn't been good versus evil. It's hardly so epic. Most days, my real battle is doing good versus doing nothing.
-- [Control the Viewport Resize Behavior on mobile with `interactive-widget`](https://htmhell.dev/adventcalendar/2024/4/)
-- [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
-- Man ran 700 miles to make ‘insanely impressive’ art on GPS fitness app
-  - https://www.tiktok.com/@duncan77mccabe/video/7438366744776903992
-  - https://www.youtube.com/watch?v=fO--TM4_6hw
 
 ## What I read in past
 
