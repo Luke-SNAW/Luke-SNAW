@@ -53,7 +53,7 @@
   - `translate="no"` attribute
 - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
 - [CSS margin-trim and line height units](https://12daysofweb.dev/2024/css-margin-trim-line-height-units/)
-- [The underrated <dl> element](https://htmhell.dev/adventcalendar/2024/26/)
+- [The underrated `<dl>` element](https://htmhell.dev/adventcalendar/2024/26/)
 - [The search input: They almost got it right](https://htmhell.dev/adventcalendar/2024/24/)
 
 ## Week 1, 2025
