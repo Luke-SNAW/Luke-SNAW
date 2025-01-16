@@ -31,7 +31,10 @@
 >
 > - Don't workout at all (saves anywhere from 20 to 60 minutes, but really, really, really, really, really, really, really, really, really not recommended)
 
-> [Just 4 pages a day. It really adds up.](https://news.ycombinator.com/item?id=34779980)
+> 도무지 읽히지 않는 책 앞에서 내가 택한 방법은 펼쳐진 페이지 앞에서 멍때리기이다. 다르게 표현하면 이렇다. 펼쳐진 두 페이지 앞에서 오래 머물기.
+>
+> 책을 펼쳐놓는 것으로 충분하다. 읽지 못해도 좋다. 매일 정해진 진도를 나가야 하는 학교 수업이 아니니까. 하지만 읽지 않아도 괜찬다고 해서 펼쳐두지조차 않으면 곤란하다. 가능한 한 자주 책을 펼쳐두도록 하자. 전혀 읽지 않고 멍하니 바라보고 있다가 다시 덮게 되더라도
+> — 막막한 독서. 시로군. P.10~13
 
 > I think it should be everyone's primary focus to sleep well, drink water, get outside, get active, and eat generally decently. I hate to say it, but if you're not eating a good amount of vegetables and fruit, decent protein, sleep, etc, no amount of XYZ will catch up to that detriment. — [CE02](https://news.ycombinator.com/item?id=35056071)
 
@@ -45,6 +48,8 @@
 
 ## Week 3, 2025
 
+- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
+- [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/) - the most important and fundamental skill first – balance
 - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
 - [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
