@@ -3,6 +3,27 @@
 
 ---
 
+## Week 4, 2025
+
+- [Kind Engineering](https://kind.engineering/) - How To Engineer Kindness
+- [UK's elite hardware talent is being wasted.](https://josef.cn/blog/uk-talent)
+- [DoubleClickjacking: A New Era of UI Redressing](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html) - get users to commit to clicking twice, but the pop up page only accepts a single click before closing. Their second click goes to the page underneath the pop up, which is e.g. an authentication button. — [nneonneo](https://news.ycombinator.com/item?id=42746553)
+- [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
+
+## Week 3, 2025
+
+- [Google is making AI in Gmail and Docs free — but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free) - The B2B AI wars are heating up, and Google’s trying to make sure everyone gets a taste of Gemini.
+- [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](<https://www.cell.com/cell/abstract/S0092-8674(24)01343-6>)
+- [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
+- [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
+- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
+- [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/) - the most important and fundamental skill first – balance
+- [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
+- [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
+- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
+
+---
+
 > I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely. — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
 
 > Simplicity, even if it sacrifices some ideal functionality has better survival characteristics than the-right-thing. — [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
@@ -40,37 +61,13 @@
 
 > My real battle is doing good versus doing nothing. — [Deirdre Sullivan](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
 
+[Kind Engineering](https://kind.engineering/) - How To Engineer Kindness
+
 > Sometimes magic is just someone spending more time on something than anyone else might reasonably expect. — [Teller](https://www.goodreads.com/quotes/6641527-sometimes-magic-is-just-someone-spending-more-time-on-something)
 
 > Before leaving for the day I leave a comment in code: I’m working on this, need to do A, B C… to get it working. — [makz](https://news.ycombinator.com/item?id=40744916)
 
 ---
-
-## Week 3, 2025
-
-- [Google is making AI in Gmail and Docs free — but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free) - The B2B AI wars are heating up, and Google’s trying to make sure everyone gets a taste of Gemini.
-- [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](<https://www.cell.com/cell/abstract/S0092-8674(24)01343-6>)
-- [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
-- [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
-- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
-- [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/) - the most important and fundamental skill first – balance
-- [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
-- [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
-- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
-
-## Week 2, 2025
-
-- [Unoffice Hours](https://interconnected.org/home/2020/09/24/unoffice_hours)
-- [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
-  - The garbage collector and its tendency to pause everything randomly
-  - The JIT compiler’s ability to delete all of your code because it “isn’t necessary”
-  - Terribly broad flame graphs in most JavaScript devtools
-- [Use "translate" to turn off element translations](https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/)
-  - `translate="no"` attribute
-- [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
-- [CSS margin-trim and line height units](https://12daysofweb.dev/2024/css-margin-trim-line-height-units/)
-- [The underrated `<dl>` element](https://htmhell.dev/adventcalendar/2024/26/)
-- [The search input: They almost got it right](https://htmhell.dev/adventcalendar/2024/24/)
 
 ## What I read in past
 
