@@ -1,5 +1,5 @@
 ### Hi there 👋. I'm a Front-end developer.
-### 🌱 Personal knowledge management - [Dendron](https://luke-snaw.github.io/)
+### 🌱 [My personal knowledge management](https://luke-snaw.github.io/) with [Dendron 🌲](https://github.com/dendronhq/dendron)
 
 ---
 
