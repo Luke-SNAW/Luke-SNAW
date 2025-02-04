@@ -3,29 +3,18 @@
 
 ---
 
-## Week 4, 2025
+## Week 6, 2025
 
-- [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
-- [KRDS v1.0.0](https://www.krds.go.kr/html/site/index.html) - 대한민국 정부 디자인 시스템
-- https://shapecatcher.com/ - Unicode Character Recognition
-- [Psychological Safety and the Only Pyramid Scheme That Works](https://iamevan.me/blog/psychological-safety-and-the-only-pyramid-scheme-that-works)
-  > As people feel more and more secure in doing deployments, raising issues and speaking confidently in a company, the amount of failure goes down.
-- [Kind Engineering](https://kind.engineering/) - How To Engineer Kindness
-- [UK's elite hardware talent is being wasted.](https://josef.cn/blog/uk-talent)
-- [DoubleClickjacking: A New Era of UI Redressing](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html) - get users to commit to clicking twice, but the pop up page only accepts a single click before closing. Their second click goes to the page underneath the pop up, which is e.g. an authentication button. — [nneonneo](https://news.ycombinator.com/item?id=42746553)
-- [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
+- [Anthropic: "Applicants should not use AI assistants"](https://simonwillison.net/2025/Feb/2/anthropic/)
+  - [Yes, and they should state that they also don't use AI in the selection process.](https://news.ycombinator.com/item?id=42917187)
+  - [It’s cause they wanna use the data to train AI on and traininy AI on AI is useless.](https://news.ycombinator.com/item?id=42917324)
+- [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
+- [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/) - It takes less than an hour and $3.
+- [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
-## Week 3, 2025
+## Week 5, 2025
 
-- [Google is making AI in Gmail and Docs free — but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free) - The B2B AI wars are heating up, and Google’s trying to make sure everyone gets a taste of Gemini.
-- [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](<https://www.cell.com/cell/abstract/S0092-8674(24)01343-6>)
-- [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
-- [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
-- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/)
-- [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/) - the most important and fundamental skill first – balance
-- [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
-- [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
-- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
+- [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 
 ---
 
