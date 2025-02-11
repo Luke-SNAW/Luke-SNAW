@@ -3,6 +3,12 @@
 
 ---
 
+## Week 7, 2025
+
+- [MODERN-DAY ORACLES or BULLSHIT MACHINES?](https://thebullshitmachines.com/) - How to thrive in a ChatGPT world
+- [Copilot stops working on `gender` related subjects](https://github.com/orgs/community/discussions/72603)
+- [I’m done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
+
 ## Week 6, 2025
 
 - [WikiTok](https://wikitok.vercel.app/) - [creator's comment](https://news.ycombinator.com/item?id=42936923)
@@ -13,17 +19,13 @@
 - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/) - It takes less than an hour and $3.
 - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
-## Week 5, 2025
-
-- [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
-
 ---
+
+> We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
 > I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely. — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
 
 > Simplicity, even if it sacrifices some ideal functionality has better survival characteristics than the-right-thing. — [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
-
-> We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
 > [Roberto Blake was talking about making 100 crappy videos](https://www.youtube.com/watch?v=OnUBaQ1Sp_E) to get better over time. Putting in the reps and improving a little bit each time.
 >
