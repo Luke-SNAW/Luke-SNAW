@@ -3,6 +3,11 @@
 
 ---
 
+## Week 8, 2025
+
+- [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
+- [Dust from Car Brakes More Harmful than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
+
 ## Week 7, 2025
 
 - [AI Founder's Bitter Lesson. Chapter 1 - History Repeats Itself](https://lukaspetersson.com/blog/2025/bitter-vertical/)
@@ -15,16 +20,6 @@
 - [MODERN-DAY ORACLES or BULLSHIT MACHINES?](https://thebullshitmachines.com/) - How to thrive in a ChatGPT world
 - [Copilot stops working on `gender` related subjects](https://github.com/orgs/community/discussions/72603)
 - [I’m done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
-
-## Week 6, 2025
-
-- [WikiTok](https://wikitok.vercel.app/) - [creator's comment](https://news.ycombinator.com/item?id=42936923)
-- [Anthropic: "Applicants should not use AI assistants"](https://simonwillison.net/2025/Feb/2/anthropic/)
-  - [Yes, and they should state that they also don't use AI in the selection process.](https://news.ycombinator.com/item?id=42917187)
-  - [It’s cause they wanna use the data to train AI on and traininy AI on AI is useless.](https://news.ycombinator.com/item?id=42917324)
-- [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
-- [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/) - It takes less than an hour and $3.
-- [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
 ---
 
