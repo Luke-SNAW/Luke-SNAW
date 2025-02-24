@@ -5,6 +5,12 @@
 
 ## Week 8, 2025
 
+- [I put my heart and soul into this AI but nobody cares](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/)
+- [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
+- [The Hidden Costs of Running a Global Engineering Team and Recipes for Mitigation](https://michaelbensoussan.com/posts/challenges-of-global-engineering-teams/)
+  > - A 3-hour gap is manageable.
+  > - A 6-hour gap starts breaking things. Someone’s always sacrificing their schedule, and a one-day delay easily turns into two.
+  > - A 9-hour gap? This is where things fall apart completely. Simple decisions that should take 30 minutes turned into multi-day sagas. By the time you got an answer to your question, the context had changed so much you needed to ask new questions.
 - [Svelte is not Javascript](https://hodlbod.npub.pro/post/1739830562159/)
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
   > So the abstractions save us time working, but they don’t save us time learning.
@@ -15,19 +21,6 @@
 - [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
 - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
 - [Dust from Car Brakes More Harmful than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
-
-## Week 7, 2025
-
-- [AI Founder's Bitter Lesson. Chapter 1 - History Repeats Itself](https://lukaspetersson.com/blog/2025/bitter-vertical/)
-- [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
-- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
-- [8 Design Breakthroughs Defining AI's Future](https://www.unknownarts.co/p/8-design-breakthroughs-defining-ais)
-- [How I Built an Open Source AI Tool to Find My Autoimmune Disease (After $100k and 30+ Hospital Visits)](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/) - Now Available for Anyone to Use - [github](https://github.com/OpenHealthForAll/open-health)
-- [Advertising is a cancer on society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
-- [Deep dive into LLMs like ChatGPT by Andrej Karpathy (TL;DR)](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
-- [MODERN-DAY ORACLES or BULLSHIT MACHINES?](https://thebullshitmachines.com/) - How to thrive in a ChatGPT world
-- [Copilot stops working on `gender` related subjects](https://github.com/orgs/community/discussions/72603)
-- [I’m done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
 
 ---
 
