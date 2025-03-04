@@ -3,29 +3,18 @@
 
 ---
 
+## Week 10, 2025
+
+- [The housing theory of everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [The $100 Trillion Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
+- [Executive wealth as a factor in return-to-office](https://x.com/EthanEvansVP/status/1895845734177452369)
+- [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
+- [localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## Week 9, 2025
 
 - [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
-
-## Week 8, 2025
-
-- [I put my heart and soul into this AI but nobody cares](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/)
-- [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
-- [The Hidden Costs of Running a Global Engineering Team and Recipes for Mitigation](https://michaelbensoussan.com/posts/challenges-of-global-engineering-teams/)
-  > - A 3-hour gap is manageable.
-  > - A 6-hour gap starts breaking things. Someone’s always sacrificing their schedule, and a one-day delay easily turns into two.
-  > - A 9-hour gap? This is where things fall apart completely. Simple decisions that should take 30 minutes turned into multi-day sagas. By the time you got an answer to your question, the context had changed so much you needed to ask new questions.
-- [Svelte is not Javascript](https://hodlbod.npub.pro/post/1739830562159/)
-- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-  > So the abstractions save us time working, but they don’t save us time learning.
-- [No Startup Has Ever Failed Because it Didn’t Have a Blog](https://hackernoon.com/no-startup-has-ever-failed-because-it-didnt-have-a-blog)
-  - Airbnb tackled crappy check-in rates by bringing their cameras into homes and taking better photos, not by blogging about the future of holiday stays.
-- [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem) - OpenAI’s Deep Research is built for me, and I can’t use it.
-  > LLMs are good at the things that computers are bad at, and bad at the things that computers are good at.
-- [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
-- [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
-- [Dust from Car Brakes More Harmful than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 
 ---
 
