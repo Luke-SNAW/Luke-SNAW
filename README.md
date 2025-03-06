@@ -5,6 +5,13 @@
 
 ## Week 10, 2025
 
+- [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
+- [ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology](https://awards.acm.org/about/2024-turing) - Andrew Barto and Richard Sutton Recognized as Pioneers of Reinforcement Learning
+  - [The Bitter Lesson by Richard Sutton](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) - http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+    1. AI researchers have often tried to build knowledge into their agents,
+    2. this always helps in the short term, and is personally satisfying to the researcher, but
+    3. in the long run it plateaus and even inhibits further progress, and
+    4. breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning.
 - [Rendering the Simulation Theory: Exploring Fractals, GLSL, and the Nature of Reality](https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/)
 - [Comparing local large language models for alt-text generation](https://dri.es/comparing-local-llms-for-alt-text-generation)
 - [Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation](https://embracethered.com/blog/posts/2025/gemini-memory-persistence-prompt-injection/)
