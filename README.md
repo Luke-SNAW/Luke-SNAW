@@ -5,6 +5,7 @@
 
 ## Week 10, 2025
 
+- [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 - [ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology](https://awards.acm.org/about/2024-turing) - Andrew Barto and Richard Sutton Recognized as Pioneers of Reinforcement Learning
   - [The Bitter Lesson by Richard Sutton](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) - http://www.incompleteideas.net/IncIdeas/BitterLesson.html
