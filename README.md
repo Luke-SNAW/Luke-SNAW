@@ -3,6 +3,13 @@
 
 ---
 
+## Week 11, 2025
+
+- [Relative Colors](https://ishadeed.com/article/css-relative-colors/) - An interactive guide to learn CSS Relative Colors.
+  - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+- [In Memoriam: Mark Klein, AT&T Whistleblower Who Revealed NSA Mass Spying](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
+- [Succinct data structures](https://blog.startifact.com/posts/succinct/)
+
 ## Week 10, 2025
 
 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
