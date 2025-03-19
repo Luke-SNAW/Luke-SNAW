@@ -3,6 +3,11 @@
 
 ---
 
+## Week 12, 2025
+
+- [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
+- [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
+
 ## Week 11, 2025
 
 - [Relative Colors](https://ishadeed.com/article/css-relative-colors/) - An interactive guide to learn CSS Relative Colors.
