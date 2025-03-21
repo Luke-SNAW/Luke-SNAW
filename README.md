@@ -5,6 +5,15 @@
 
 ## Week 12, 2025
 
+- [A guide to image overlays in CSS](https://blog.logrocket.com/css-overlay/)
+- [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/)
+- [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
+- [Breadcrumbs Are Dead in Web Design](https://webdesignerdepot.com/breadcrumbs-are-dead-in-web-design/)
+- [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
+- [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
+- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+  - Research as leisure involves cultivating curiosity, developing meaningful questions, gathering evidence, and creating tangible outcomes from research efforts.
+  - The act of reading should be seen as playful and intentional, moving beyond mere consumption to active engagement with ideas.
 - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 - [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
 
