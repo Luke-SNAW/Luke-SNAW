@@ -3,6 +3,13 @@
 
 ---
 
+## Week 13, 2025
+
+- [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
+- [Do viruses trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
+- [I won't connect my dishwasher to your stupid cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
+- [63 Chinese Cuisines: the Complete Guide](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
+
 ## Week 12, 2025
 
 - [A guide to image overlays in CSS](https://blog.logrocket.com/css-overlay/)
@@ -16,39 +23,6 @@
   - The act of reading should be seen as playful and intentional, moving beyond mere consumption to active engagement with ideas.
 - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 - [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
-
-## Week 11, 2025
-
-- [Relative Colors](https://ishadeed.com/article/css-relative-colors/) - An interactive guide to learn CSS Relative Colors.
-  - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
-- [In Memoriam: Mark Klein, AT&T Whistleblower Who Revealed NSA Mass Spying](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
-- [Succinct data structures](https://blog.startifact.com/posts/succinct/)
-
-## Week 10, 2025
-
-- [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
-- [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
-- [ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology](https://awards.acm.org/about/2024-turing) - Andrew Barto and Richard Sutton Recognized as Pioneers of Reinforcement Learning
-  - [The Bitter Lesson by Richard Sutton](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) - http://www.incompleteideas.net/IncIdeas/BitterLesson.html
-    1. AI researchers have often tried to build knowledge into their agents,
-    2. this always helps in the short term, and is personally satisfying to the researcher, but
-    3. in the long run it plateaus and even inhibits further progress, and
-    4. breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning.
-- [Rendering the Simulation Theory: Exploring Fractals, GLSL, and the Nature of Reality](https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/)
-- [Comparing local large language models for alt-text generation](https://dri.es/comparing-local-llms-for-alt-text-generation)
-- [Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation](https://embracethered.com/blog/posts/2025/gemini-memory-persistence-prompt-injection/)
-- [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
-- [How I Automated My Computer Routine With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
-- [The housing theory of everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
-- [The $100 Trillion Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
-- [Executive wealth as a factor in return-to-office](https://x.com/EthanEvansVP/status/1895845734177452369)
-- [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
-- [localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## Week 9, 2025
-
-- [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
-- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 
 ---
 
