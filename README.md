@@ -3,6 +3,17 @@
 
 ---
 
+## Week 14, 2025
+
+- [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability) - Turning such a straightforward process into a mysterious AI black box isn't innovation—it's a headache.
+- [Terms of Service Didn't Read](https://tosdr.org/en)
+- [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
+- [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
+- [Why you should use modeling \[with TLA+/PlusCal\]](https://muratbuffalo.blogspot.com/2018/01/why-you-should-use-modeling-with.html)
+  - Modeling shows you how sloppy your "design" is.
+  - Being smart does not scale; exhaustive model checking comes to the rescue
+  - Don't trust your deduction abilities for proving that each action preserves the safety conditions you identify.
+
 ## Week 13, 2025
 
 - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
@@ -19,20 +30,6 @@
 - [Do viruses trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 - [I won't connect my dishwasher to your stupid cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
 - [63 Chinese Cuisines: the Complete Guide](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
-
-## Week 12, 2025
-
-- [A guide to image overlays in CSS](https://blog.logrocket.com/css-overlay/)
-- [Why You Should Choose HTML5 article Over section](https://www.smashingmagazine.com/2020/01/html5-article-section/)
-- [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
-- [Breadcrumbs Are Dead in Web Design](https://webdesignerdepot.com/breadcrumbs-are-dead-in-web-design/)
-- [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
-- [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
-- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
-  - Research as leisure involves cultivating curiosity, developing meaningful questions, gathering evidence, and creating tangible outcomes from research efforts.
-  - The act of reading should be seen as playful and intentional, moving beyond mere consumption to active engagement with ideas.
-- [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
-- [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
 
 ---
 
