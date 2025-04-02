@@ -5,6 +5,7 @@
 
 ## Week 14, 2025
 
+- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability) - Turning such a straightforward process into a mysterious AI black box isn't innovation—it's a headache.
 - [Terms of Service Didn't Read](https://tosdr.org/en)
 - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
