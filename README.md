@@ -3,8 +3,17 @@
 
 ---
 
+## Week 15, 2025
+
+- [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
+- [Standard Ebooks](https://standardebooks.org/) is a volunteer-driven project that produces new editions of public domain ebooks that are lovingly formatted, open source, free of U.S. copyright restrictions, and free of cost.
+
 ## Week 14, 2025
 
+- [Why I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
+- [Dijkstra On the foolishness of "natural language programming"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+  - The expectation for programming to be simplified through "natural language programming" is misguided; formal symbolism is essential for accuracy.
+  - Formal texts provide a structured framework that helps eliminate nonsensical statements, which are more prevalent in natural language.
 - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 - [curl-impersonate](https://github.com/lwthiker/curl-impersonate) - A special build of curl that can impersonate the four major browsers
   - https://github.com/lexiforest/curl-impersonate - An active fork of curl-impersonate with more versions and build targets.
@@ -21,23 +30,6 @@
   - Modeling shows you how sloppy your "design" is.
   - Being smart does not scale; exhaustive model checking comes to the rescue
   - Don't trust your deduction abilities for proving that each action preserves the safety conditions you identify.
-
-## Week 13, 2025
-
-- [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
-  > - Hyphens connect things, such as compound words: double-decker, cut-and-dried, 212-555-5555.
-  > - EN dashes make a range between things: Boston–San Francisco flight, 10–20 years: both connect not only the endpoints, but define that all the space between is included. (Compare the last usage with the phone number example under Hyphens.)
-  > - EM dashes break things, such as sentences or thoughts: 'What the—!'; A paragraph should express one idea—but rules are made to be broken.
-  >   — [mmooss](https://news.ycombinator.com/item?id=43499567)
-- [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
-- [Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
-- [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
-- [한국어 몰라요 - 글로벌 협업의 4가지 패턴](https://techblog.lycorp.co.jp/ko/4-patterns-of-global-collaboration)
-- [Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport) - Closing Keynote with Leslie Lamport [PDF](https://www.socallinuxexpo.org/sites/default/files/presentations/linux-expo%20%281%29.pdf)
-- [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
-- [Do viruses trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
-- [I won't connect my dishwasher to your stupid cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
-- [63 Chinese Cuisines: the Complete Guide](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 
 ---
 
