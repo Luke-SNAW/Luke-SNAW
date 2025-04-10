@@ -5,6 +5,8 @@
 
 ## Week 15, 2025
 
+- [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
+- [Apache ECharts](https://github.com/apache/echarts) is a powerful, interactive charting and data visualization library for browser
 - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 - [Standard Ebooks](https://standardebooks.org/) is a volunteer-driven project that produces new editions of public domain ebooks that are lovingly formatted, open source, free of U.S. copyright restrictions, and free of cost.
 
