@@ -3,6 +3,26 @@
 
 ---
 
+## Week 17, 2025
+
+- [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for) - AI 기반 바이브 코딩은 혁신적이지만, 품질 없는 속도는 위험하다는 경고의 글
+  - 품질은 자동으로 따라오지 않음
+  - 속도는 품질 없이는 무의미함
+  - AI는 대체자가 아니라 인턴입니다 (사람이 루프 안에 있어야 함)
+- [Cozy comfort](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) - New research backs up what gamers have thought for years: video games can be an antidote to stress and anxiety.
+- [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
+  > `log(3) / log(2)` bits per ternary digit
+- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
+  ```js
+  arr
+    .values()
+    .drop(10)
+    .take(10)
+    .filter((el) => el < 10)
+    .map((el) => el + 5)
+    .toArray()
+  ```
+
 ## Week 16, 2025
 
 - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
@@ -21,13 +41,6 @@
   - YouTube. YouTube: Once a video catalog with social discovery. Now? TikTok.
   - LinkedIn. Once a network of resumes. Now? TikTok.
   - Substack. Yeah, a newsletter platform... now launching TikTok-style videos. [Seriously](https://techcrunch.com/2025/03/31/substack-is-rolling-out-a-tiktok-like-video-feed-in-its-app/).
-
-## Week 15, 2025
-
-- [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
-- [Apache ECharts](https://github.com/apache/echarts) is a powerful, interactive charting and data visualization library for browser
-- [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
-- [Standard Ebooks](https://standardebooks.org/) is a volunteer-driven project that produces new editions of public domain ebooks that are lovingly formatted, open source, free of U.S. copyright restrictions, and free of cost.
 
 ---
 
