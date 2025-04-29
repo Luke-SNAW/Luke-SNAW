@@ -3,6 +3,15 @@
 
 ---
 
+## Week 18, 2025
+
+- [Novel Universal Bypass for All Major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
+- [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
+  > looking to buy a specific item, only to find the layout confusing? Perhaps you ended up aimlessly strolling around, purchasing other items?
+- [The Alliance](https://www.theallianceframework.com/)
+  > The employer-employee relationship is broken. Managers face a seemingly impossible dilemma: You can’t afford to offer lifetime employment. But you can’t build a lasting, innovative business when everyone acts like a free agent.
+  > The solution: Stop thinking of employees as family or free agents, and start thinking of them as allies on a tour of duty.
+
 ## Week 17, 2025
 
 - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
@@ -28,25 +37,6 @@
     .map((el) => el + 5)
     .toArray()
   ```
-
-## Week 16, 2025
-
-- [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
-- [Understanding JavaScript Memory Management: Deep Dive into Garbage Collection Techniques](https://jsdev.space/js-garbage-collection/)
-  > Generational Garbage Collection
-  - Core Principle: The Weak Generation Hypothesis suggests younger objects tend to die faster.
-  - V8 Specific Implementation: Objects that survive several GC cycles in the "new generation" are promoted to the "old generation."
-- [Making :visited more private](https://developer.chrome.com/blog/visited-links)
-  - with partitioning, browsing on Site A and click a link to go to Site B, the combination of "Site A + Site B" is stored in your `:visited` history
-- [New Vulnerability in GitHub Copilot and Cursor](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
-  - "Rules File Backdoor," which injects malicious instructions into configuration files used by AI coding assistants
-  - The attack exploits hidden unicode characters and evasion techniques
-- [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
-- [Four years of running a SaaS in a competitive market](https://maxrozen.com/on-four-years-running-saas-competitive-market)
-- [But what if I really want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
-  - YouTube. YouTube: Once a video catalog with social discovery. Now? TikTok.
-  - LinkedIn. Once a network of resumes. Now? TikTok.
-  - Substack. Yeah, a newsletter platform... now launching TikTok-style videos. [Seriously](https://techcrunch.com/2025/03/31/substack-is-rolling-out-a-tiktok-like-video-feed-in-its-app/).
 
 ---
 
