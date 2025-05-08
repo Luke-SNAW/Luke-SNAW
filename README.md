@@ -3,8 +3,18 @@
 
 ---
 
+## Week 19, 2025
+
+- [On The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
+  - 🥱 -> 🤔💡🌱 (Boredom -> Reflection, Creativity, Growth)
+  - Smartphones eliminate boredom and dullness, but as a result, creativity and empathy are being impaired.
+  - Interstitial time, which used to be moments for meditation, daydreaming, and observation—human activities—has now mostly been replaced by digital consumption.
+  - The habit of avoiding waiting and boredom leads to the weakening of our attention, patience, and imagination.
+  - With access to an iPad or a smartphone, children in the twenty-first century never had to be bored;
+
 ## Week 18, 2025
 
+- [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/) - https://notebooklm.google/
 - [Novel Universal Bypass for All Major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
   > looking to buy a specific item, only to find the layout confusing? Perhaps you ended up aimlessly strolling around, purchasing other items?
@@ -12,33 +22,9 @@
   > The employer-employee relationship is broken. Managers face a seemingly impossible dilemma: You can’t afford to offer lifetime employment. But you can’t build a lasting, innovative business when everyone acts like a free agent.
   > The solution: Stop thinking of employees as family or free agents, and start thinking of them as allies on a tour of duty.
 
-## Week 17, 2025
-
-- [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
-  > Their app is a little bit of AI jammed into an interface designed for mundane human labor rather than an interface designed for automating mundane labor.
-  > [“Horseless carriage”](https://en.wikipedia.org/wiki/Horseless_carriage) refers to the early motor car designs that borrowed heavily from the horse-drawn carriages that preceded them.
-- [Botnet Part 2: The Web is Broken](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
-  > Certain companies recruit app developers to create botnets by injecting “network sharing” SDKs into their apps. These botnets then use the network bandwidth of unsuspecting users of said apps to crawl the web, brute-force mail servers and other nasty things.
-- [Why LLM-Powered Programming is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human) - [“Centaur chess”](https://en.wikipedia.org/wiki/Advanced_chess) pairs humans with AI chess engines, creating teams that outperform both solo humans and solo AI systems playing on their own.
-- [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for) - AI 기반 바이브 코딩은 혁신적이지만, 품질 없는 속도는 위험하다는 경고의 글
-  - 품질은 자동으로 따라오지 않음
-  - 속도는 품질 없이는 무의미함
-  - AI는 대체자가 아니라 인턴입니다 (사람이 루프 안에 있어야 함)
-- [Cozy comfort](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) - New research backs up what gamers have thought for years: video games can be an antidote to stress and anxiety.
-- [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
-  > `log(3) / log(2)` bits per ternary digit
-- [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
-  ```js
-  arr
-    .values()
-    .drop(10)
-    .take(10)
-    .filter((el) => el < 10)
-    .map((el) => el + 5)
-    .toArray()
-  ```
-
 ---
+
+- 🥱 -> 🤔💡🌱 — [On The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 
 > We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
@@ -49,6 +35,8 @@
 > [Roberto Blake was talking about making 100 crappy videos](https://www.youtube.com/watch?v=OnUBaQ1Sp_E) to get better over time. Putting in the reps and improving a little bit each time.
 >
 > Putting in the work without expecting any external reward at first (eg views, followers, likes, etc) will pay off in the long run. — [100 Scrappy Things](https://www.florin-pop.com/blog/100-scrappy-things/)
+
+> Make the difficult habitual, the habitual easy, and the easy beautiful. — [Constantin S. Stanislavski](https://www.goodreads.com/quotes/7102271-make-the-difficult-habitual-the-habitual-easy-and-the-easy)
 
 > A good match is a **structured** dance, where players aim to **score** while they are following well-defined **rules**. This **freedom within a structure** is what makes it fun. — [ralphammer](https://ralphammer.com/how-to-get-started/)
 
@@ -70,7 +58,7 @@
 
 > 도무지 읽히지 않는 책 앞에서 내가 택한 방법은 펼쳐진 페이지 앞에서 멍때리기이다. 다르게 표현하면 이렇다. 펼쳐진 두 페이지 앞에서 오래 머물기.
 >
-> 책을 펼쳐놓는 것으로 충분하다. 읽지 못해도 좋다. 매일 정해진 진도를 나가야 하는 학교 수업이 아니니까. 하지만 읽지 않아도 괜찬다고 해서 펼쳐두지조차 않으면 곤란하다. 가능한 한 자주 책을 펼쳐두도록 하자. 전혀 읽지 않고 멍하니 바라보고 있다가 다시 덮게 되더라도
+> 책을 펼쳐놓는 것으로 충분하다. 읽지 못해도 좋다. 매일 정해진 진도를 나가야 하는 학교 수업이 아니니까. 하지만 읽지 않아도 괜찮다고 해서 펼쳐두지조차 않으면 곤란하다. 가능한 한 자주 책을 펼쳐두도록 하자. 전혀 읽지 않고 멍하니 바라보고 있다가 다시 덮게 되더라도
 > — 막막한 독서. 시로군. P.10~13
 
 > I think it should be everyone's primary focus to sleep well, drink water, get outside, get active, and eat generally decently. I hate to say it, but if you're not eating a good amount of vegetables and fruit, decent protein, sleep, etc, no amount of XYZ will catch up to that detriment. — [CE02](https://news.ycombinator.com/item?id=35056071)
@@ -80,8 +68,6 @@
 [Kind Engineering](https://kind.engineering/) - How To Engineer Kindness
 
 > Sometimes magic is just someone spending more time on something than anyone else might reasonably expect. — [Teller](https://www.goodreads.com/quotes/6641527-sometimes-magic-is-just-someone-spending-more-time-on-something)
-
-> Before leaving for the day I leave a comment in code: I’m working on this, need to do A, B C… to get it working. — [makz](https://news.ycombinator.com/item?id=40744916)
 
 ---
 
