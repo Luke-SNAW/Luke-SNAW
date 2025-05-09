@@ -5,6 +5,8 @@
 
 ## Week 19, 2025
 
+- The real potential of tools like Suno isn’t in cranking out radio-ready hits. It’s in creating music that doesn't have commercial incentives to exist. Case in point: Functional Music. — [kelseyfrog](https://news.ycombinator.com/item?id=43874312)
+- [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 - [On The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
   - 🥱 -> 🤔💡🌱 (Boredom -> Reflection, Creativity, Growth)
   - Smartphones eliminate boredom and dullness, but as a result, creativity and empathy are being impaired.
