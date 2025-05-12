@@ -3,6 +3,16 @@
 
 ---
 
+## Week 20, 2025
+
+- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
+- [One-Click RCE in ASUS’s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
+  > I asked ASUS if they offered bug bounties. They responded saying they do not, but they would instead put my name in their [“hall of fame”](https://www.asus.com/content/asus-product-security-advisory/#header2025).
+- [(t,i,x,y) => "creative code golfing"](https://tixy.land/)
+- [ (7화) 부동산이 흥하면 나라가 망하는 이유 | The Civilization 위대한 문명사 7화 | 서울대 김태유 명예교수](https://www.youtube.com/watch?v=UsHxl_5QJbY)
+  - 가치를 창출하는 투자보다 부동산 투자가 더 이득이 크면 그 쪽으로 자원이 쏠려 점점 비생산적 사회가 된다.
+  - 분업화. 인간성 말살 비판이 있었지만, 포드의 생산성 폭증으로 기사 계급이 되어야 겨우 타던 말을 거의 모든 사람이 탈 수 있는 차로
+
 ## Week 19, 2025
 
 - The real potential of tools like Suno isn’t in cranking out radio-ready hits. It’s in creating music that doesn't have commercial incentives to exist. Case in point: Functional Music. — [kelseyfrog](https://news.ycombinator.com/item?id=43874312)
@@ -13,16 +23,6 @@
   - Interstitial time, which used to be moments for meditation, daydreaming, and observation—human activities—has now mostly been replaced by digital consumption.
   - The habit of avoiding waiting and boredom leads to the weakening of our attention, patience, and imagination.
   - With access to an iPad or a smartphone, children in the twenty-first century never had to be bored;
-
-## Week 18, 2025
-
-- [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/) - https://notebooklm.google/
-- [Novel Universal Bypass for All Major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
-- [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
-  > looking to buy a specific item, only to find the layout confusing? Perhaps you ended up aimlessly strolling around, purchasing other items?
-- [The Alliance](https://www.theallianceframework.com/)
-  > The employer-employee relationship is broken. Managers face a seemingly impossible dilemma: You can’t afford to offer lifetime employment. But you can’t build a lasting, innovative business when everyone acts like a free agent.
-  > The solution: Stop thinking of employees as family or free agents, and start thinking of them as allies on a tour of duty.
 
 ---
 
