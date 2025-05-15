@@ -5,6 +5,13 @@
 
 ## Week 20, 2025
 
+- [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
+- [base65536](https://github.com/qntm/base65536)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/)
+- [Product Purgatory: When they love it but still don’t buy](https://longform.asmartbear.com/purgatory/)
+  - Even if a product could be implemented effortlessly and at no cost, customers may still decline due to perceived risks and implementation challenges.
+  - Products must provide **significant value that far exceeds the penalties of adoption**; otherwise, customers will not prioritize them.
+  - Identifying which customers have an **urgent need** for a product. Companies often delay purchases until they address higher-priority issues.
 - [Bus Stops Here: Shanghai Lets Riders Design Their Own Routes](https://www.sixthtone.com/news/1017072)
 - [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
   - The applicant wanted to communicate thoroughly and made efforts toward it, but the hiring manager brushed it off.
