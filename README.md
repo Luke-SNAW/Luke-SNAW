@@ -3,8 +3,28 @@
 
 ---
 
+## Week 22, 2025
+
+- [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+  > The pattern is becoming clear once again: the technology doesn't replace the skill, it elevates it to a higher level of abstraction.
+  > For agency work building disposable marketing sites, this doesn't matter. For systems that need to evolve over years, it's catastrophic.
+  - The biggest asset of a developer is saying "no" to people. — [#](https://news.ycombinator.com/item?id=44105883)
+- [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
+  > Management has an AI shaped hammer and they're hitting everything to see if it's a nail. — [#](https://news.ycombinator.com/item?id=44068593)
+  >
+  > This--all of this--seems exactly antithetical to computing/development/design/"engineering"/architecture/whatever-the-hell people call this profession as I understood it.  
+  > Typically, I labored under the delusion that competent technical decision makers would integrate tooling or choose to use a language, "service", platform, whatever, if they saw benefits and if they could make a "case" for why something was the correct approach, i.e how it met some product's needs, addressed some shortcomings, made things more efficient. — [#](https://news.ycombinator.com/item?id=44068694)
+  >
+  > My point of comparison of choice is overseas contractors, not pair programming.  
+  > Copilot or Cursor or whatnot is basically a better experience because you do not have to get on Zoom calls (after Slack has failed) to ask why some chunk of your system that cares about root nodes has mysteriously gained a function called isChild (not hasChildren) that returns a boolean based on whether or not the node has children and not whether it has a parent. Or to figure out why a bunch a API parameters that used to accept arrays now don't. — [#](https://news.ycombinator.com/item?id=44078849)
+
 ## Week 21, 2025
 
+- [불만족의 해독제](https://www.youtube.com/watch?v=kMEO5pDwkH0) - 감사함
+- [Simple Made Easy - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
+  - Simplicity in software design is about focusing on one task or concept, avoiding the intertwining of multiple functionalities.
+  - Choosing simpler constructs and avoiding complex artifacts can lead to more reliable and maintainable software systems.
+  - The need for clear separations between "what" a function does and "how" it is implemented is vital for creating effective abstractions in programming.
 - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
 - [The behavior of LLMs in hiring decisions](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring): Systemic biases in candidate selection
@@ -15,34 +35,6 @@
     > Since state and logic are self-contained, you could have multiple, distinct generators being used in parallel with no issue.
   - The document illustrates how generators can replace complex patterns like recursion or callbacks, simplifying code and enhancing readability.
 - [Mystical](https://github.com/denismm/mystical_ps) - is more like a way to write PostScript that looks like a magical circle.
-
-## Week 20, 2025
-
-- [Here Is Everything That Has Changed Since Congestion Pricing Started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
-  - New York's congestion pricing benefits all commuters and drivers and others without a balloon effect.
-- [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
-- [base65536](https://github.com/qntm/base65536)
-- [Internet Artifacts](https://neal.fun/internet-artifacts/)
-- [Product Purgatory: When they love it but still don’t buy](https://longform.asmartbear.com/purgatory/)
-  - Even if a product could be implemented effortlessly and at no cost, customers may still decline due to perceived risks and implementation challenges.
-  - Products must provide **significant value that far exceeds the penalties of adoption**; otherwise, customers will not prioritize them.
-  - Identifying which customers have an **urgent need** for a product. Companies often delay purchases until they address higher-priority issues.
-- [Bus Stops Here: Shanghai Lets Riders Design Their Own Routes](https://www.sixthtone.com/news/1017072)
-- [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
-  - The applicant wanted to communicate thoroughly and made efforts toward it, but the hiring manager brushed it off.
-  - https://news.ycombinator.com/item?id=43980036
-- [상남자식 마크다운 공유 웹서비스](https://mdshare060114.web.app/?edit=false)
-  - DB따위 쓰지 않고 URL로 모든 정보를 저장하는 호방함과 안전함, 그리고 간단함
-  - .md파일 업로드 혹은 textarea에서 직접 마크다운 문서 작성 가능
-- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
-  - Sampling method to use when you don't know how many samples will come in.
-- [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
-- [One-Click RCE in ASUS’s Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-  > I asked ASUS if they offered bug bounties. They responded saying they do not, but they would instead put my name in their [“hall of fame”](https://www.asus.com/content/asus-product-security-advisory/#header2025).
-- [(t,i,x,y) => "creative code golfing"](https://tixy.land/)
-- [ (7화) 부동산이 흥하면 나라가 망하는 이유 | The Civilization 위대한 문명사 7화 | 서울대 김태유 명예교수](https://www.youtube.com/watch?v=UsHxl_5QJbY)
-  - 가치를 창출하는 투자보다 부동산 투자가 더 이득이 크면 그 쪽으로 자원이 쏠려 점점 비생산적 사회가 된다.
-  - 분업화. 인간성 말살 비판이 있었지만, 포드의 생산성 폭증으로 기사 계급이 되어야 겨우 타던 말을 거의 모든 사람이 탈 수 있는 차로
 
 ---
 
