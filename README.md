@@ -3,6 +3,17 @@
 
 ---
 
+## Week 23, 2025
+
+- [Disclosure: Covert Web-to-App Tracking via Localhost on Android - Meta and Yandex](https://localmess.github.io/)
+  > These native Android apps receive browsers' metadata, cookies and commands from the Meta Pixel and Yandex Metrica scripts embedded on thousands of web sites.
+- [Typing 118 WPM Broke My Brain in the Right Ways (A Year-Long Journey)](https://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
+  > Every morning, before I even think about opening VS Code, before Slack starts destroying my soul, before the daily standup where we pretend we know what we're doing, I just type. Five minutes. That's it.
+  > rushing makes everything worse.
+- [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
+  > AI is democratizing a wide range of creative and professional tasks.  
+  > The key differentiator is no longer technical skill but judgement.
+
 ## Week 22, 2025
 
 - [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
@@ -17,24 +28,6 @@
   >
   > My point of comparison of choice is overseas contractors, not pair programming.  
   > Copilot or Cursor or whatnot is basically a better experience because you do not have to get on Zoom calls (after Slack has failed) to ask why some chunk of your system that cares about root nodes has mysteriously gained a function called isChild (not hasChildren) that returns a boolean based on whether or not the node has children and not whether it has a parent. Or to figure out why a bunch a API parameters that used to accept arrays now don't. — [#](https://news.ycombinator.com/item?id=44078849)
-
-## Week 21, 2025
-
-- [불만족의 해독제](https://www.youtube.com/watch?v=kMEO5pDwkH0) - 감사함
-- [Simple Made Easy - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
-  - Simplicity in software design is about focusing on one task or concept, avoiding the intertwining of multiple functionalities.
-  - Choosing simpler constructs and avoiding complex artifacts can lead to more reliable and maintainable software systems.
-  - The need for clear separations between "what" a function does and "how" it is implemented is vital for creating effective abstractions in programming.
-- [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
-- [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
-- [The behavior of LLMs in hiring decisions](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring): Systemic biases in candidate selection
-- ReScript - [Difference vs TypeScript](https://rescript-lang.org/docs/manual/v11.0.0/introduction#difference-vs-typescript)
-- [WHAT THE HELL ARE PEOPLE DOING?](https://humans.maxcomperatore.com/) - Live-ish estimates based on global population dynamics & simulated day/night cycles
-- [I think the ergonomics of generators is growing on me.](https://macarthur.me/posts/generators/)
-  - Generators encapsulate state management, reducing tight coupling between components and allowing for cleaner, more modular code.
-    > Since state and logic are self-contained, you could have multiple, distinct generators being used in parallel with no issue.
-  - The document illustrates how generators can replace complex patterns like recursion or callbacks, simplifying code and enhancing readability.
-- [Mystical](https://github.com/denismm/mystical_ps) - is more like a way to write PostScript that looks like a magical circle.
 
 ---
 
