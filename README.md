@@ -3,6 +3,18 @@
 
 ---
 
+## Week 24, 2025
+
+- [Tracking the performance of the various coding agents.](https://aavetis.github.io/ai-pr-watcher/)
+- [Pivot Points](https://longform.asmartbear.com/pivot-points/)
+  - **Contextual Evaluation**: Unlike traditional assessments that categorize traits as strengths or weaknesses, Pivot Points recognize that their value is context-dependent.
+  - **Embracing Constraints**: Pivot Points are viewed as enabling constraints that, when embraced, can lead to more fulfilling personal and professional lives, allowing individuals and organizations to thrive by aligning actions with inherent strengths.
+- [Deep in Mordor where the shadows lie: Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
+- [A look at CloudFlare’s AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
+  > It’s not bad, but I wouldn’t really recommend it for use yet.
+- [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
+- [Solo Performance Prompting (SPP)](https://www.lmtoolkit.com/prompt_dictionary/zero_shot/solo_performance_prompting/)
+
 ## Week 23, 2025
 
 - [Disclosure: Covert Web-to-App Tracking via Localhost on Android - Meta and Yandex](https://localmess.github.io/)
@@ -13,21 +25,6 @@
 - [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
   > AI is democratizing a wide range of creative and professional tasks.  
   > The key differentiator is no longer technical skill but judgement.
-
-## Week 22, 2025
-
-- [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
-  > The pattern is becoming clear once again: the technology doesn't replace the skill, it elevates it to a higher level of abstraction.
-  > For agency work building disposable marketing sites, this doesn't matter. For systems that need to evolve over years, it's catastrophic.
-  - The biggest asset of a developer is saying "no" to people. — [#](https://news.ycombinator.com/item?id=44105883)
-- [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
-  > Management has an AI shaped hammer and they're hitting everything to see if it's a nail. — [#](https://news.ycombinator.com/item?id=44068593)
-  >
-  > This--all of this--seems exactly antithetical to computing/development/design/"engineering"/architecture/whatever-the-hell people call this profession as I understood it.  
-  > Typically, I labored under the delusion that competent technical decision makers would integrate tooling or choose to use a language, "service", platform, whatever, if they saw benefits and if they could make a "case" for why something was the correct approach, i.e how it met some product's needs, addressed some shortcomings, made things more efficient. — [#](https://news.ycombinator.com/item?id=44068694)
-  >
-  > My point of comparison of choice is overseas contractors, not pair programming.  
-  > Copilot or Cursor or whatnot is basically a better experience because you do not have to get on Zoom calls (after Slack has failed) to ask why some chunk of your system that cares about root nodes has mysteriously gained a function called isChild (not hasChildren) that returns a boolean based on whether or not the node has children and not whether it has a parent. Or to figure out why a bunch a API parameters that used to accept arrays now don't. — [#](https://news.ycombinator.com/item?id=44078849)
 
 ---
 
