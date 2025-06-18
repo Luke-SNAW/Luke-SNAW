@@ -3,6 +3,26 @@
 
 ---
 
+## Week 25, 2025
+
+- [The Grug Brained Developer](https://grugbrain.dev/) - A layman's guide to thinking like the self-aware smol brained
+- [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
+  - Before giving feedback, assess your own role in the situation and consider if the issue is worth addressing.
+  - Use the "even more" technique to frame feedback positively, suggesting enhancements rather than criticizing past actions.
+  - Share personal experiences instead of directly telling the leader what to do to reduce defensiveness.
+  - Employ diplomatic language that invites collaboration, such as "What are your thoughts on..." or "Perhaps we could..."
+  - Offer concrete examples and data to support your feedback, making it more persuasive and actionable.
+  - Position your feedback to focus on future improvements rather than past mistakes to prevent a defensive reaction.
+- [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
+  - reviewing AI-generated code takes as much time as writing code from scratch, if not more.
+  - interns learn and improve over time, while AI does not retain knowledge from past tasks.
+  - Claims that AI increases speed or productivity often come from lowering quality standards while accepting additional risks, or stem from the interests of AI vendors.
+- [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- [How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
+  - Keep the gates open that were not gatekept for you
+  - simply telling them "you were incredibly kind to me and you are a big reason for me trying to be kind to others" might just make their day
+  - Pay it forward
+
 ## Week 24, 2025
 
 - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
@@ -32,17 +52,6 @@
   > It’s not bad, but I wouldn’t really recommend it for use yet.
 - [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 - [Solo Performance Prompting (SPP)](https://www.lmtoolkit.com/prompt_dictionary/zero_shot/solo_performance_prompting/)
-
-## Week 23, 2025
-
-- [Disclosure: Covert Web-to-App Tracking via Localhost on Android - Meta and Yandex](https://localmess.github.io/)
-  > These native Android apps receive browsers' metadata, cookies and commands from the Meta Pixel and Yandex Metrica scripts embedded on thousands of web sites.
-- [Typing 118 WPM Broke My Brain in the Right Ways (A Year-Long Journey)](https://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
-  > Every morning, before I even think about opening VS Code, before Slack starts destroying my soul, before the daily standup where we pretend we know what we're doing, I just type. Five minutes. That's it.
-  > rushing makes everything worse.
-- [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
-  > AI is democratizing a wide range of creative and professional tasks.  
-  > The key differentiator is no longer technical skill but judgement.
 
 ---
 
