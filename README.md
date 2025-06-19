@@ -71,6 +71,10 @@
 
 > A good match is a **structured** dance, where players aim to **score** while they are following well-defined **rules**. This **freedom within a structure** is what makes it fun. — [ralphammer](https://ralphammer.com/how-to-get-started/)
 
+- [Pivot Points](https://longform.asmartbear.com/pivot-points/)
+  - non-judgmental aspects of personality that can be strengths in some contexts and weaknesses in others
+  - Pivot Points are fixed in the short term
+
 > “Motivation often comes after starting, not before. Action produces momentum.” — James Clear
 
 > Focus is more about **not** keeping busy when you need to wait for something.  
