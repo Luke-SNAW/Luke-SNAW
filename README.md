@@ -3,6 +3,12 @@
 
 ---
 
+## Week 27, 2025
+
+- [Try This One Weird Trick Russian Hackers Hate (2021)](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+  - https://news.ycombinator.com/item?id=44408552
+
 ## Week 26, 2025
 
 - [Navigating the unpredictability of everything](https://longform.asmartbear.com/predict-the-future/)
@@ -14,27 +20,6 @@
   - Emphasizing the need for friction when adding new components can help manage the support burden and prevent unnecessary complexity in the tech stack.
 - [Am I unique?](https://www.amiunique.org/fingerprint)
 - [Cover your tracks](https://coveryourtracks.eff.org/) - See how trackers view your browser
-
-## Week 25, 2025
-
-- [Animating zooming using CSS: transform order is important… sometimes](https://jakearchibald.com/2025/animating-zooming/)
-- [The Grug Brained Developer](https://grugbrain.dev/) - A layman's guide to thinking like the self-aware smol brained
-- [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
-  - Before giving feedback, assess your own role in the situation and consider if the issue is worth addressing.
-  - Use the "even more" technique to frame feedback positively, suggesting enhancements rather than criticizing past actions.
-  - Share personal experiences instead of directly telling the leader what to do to reduce defensiveness.
-  - Employ diplomatic language that invites collaboration, such as "What are your thoughts on..." or "Perhaps we could..."
-  - Offer concrete examples and data to support your feedback, making it more persuasive and actionable.
-  - Position your feedback to focus on future improvements rather than past mistakes to prevent a defensive reaction.
-- [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
-  - reviewing AI-generated code takes as much time as writing code from scratch, if not more.
-  - interns learn and improve over time, while AI does not retain knowledge from past tasks.
-  - Claims that AI increases speed or productivity often come from lowering quality standards while accepting additional risks, or stem from the interests of AI vendors.
-- [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- [How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
-  - Keep the gates open that were not gatekept for you
-  - simply telling them "you were incredibly kind to me and you are a big reason for me trying to be kind to others" might just make their day
-  - Pay it forward
 
 ---
 
