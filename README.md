@@ -3,23 +3,25 @@
 
 ---
 
+## Week 28, 2025
+
+- [Writing in the Age of LLMs](https://www.sh-reya.com/blog/ai-writing/)
+- [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
+- [Show HN: I AI-coded a tower defense game and documented the whole process](https://news.ycombinator.com/item?id=44463967)
+  - [Prompts used to develop Tower of Time](https://github.com/maciej-trebacz/tower-of-time-game/blob/main/PROMPTS.md)
+- [My open source project was relicensed by a YC company \[license updated\]](https://x.com/soham_btw/status/1940952786491027886)
+  - https://news.ycombinator.com/item?id=44460552
+
 ## Week 27, 2025
 
+- [No one likes meetings. They’re sending their AI note takers instead.](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
+  - https://news.ycombinator.com/item?id=44446916
+  - https://news.hada.io/comment?id=40962
+- [I scanned all of GitHub's "oops commits" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+  - Maybe I missed it but the article doesn't mention the even easier way to see this: the activity tab. Any force push to hide ugly prototype code is kept forever which annoys me. — [Pwhy1](https://news.ycombinator.com/item?id=44452623)
 - [Try This One Weird Trick Russian Hackers Hate (2021)](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
   - https://news.ycombinator.com/item?id=44408552
-
-## Week 26, 2025
-
-- [Navigating the unpredictability of everything](https://longform.asmartbear.com/predict-the-future/)
-  - A robust strategy should include multiple pathways to success, reducing reliance on any single outcome and increasing resilience against unpredictability.
-  - Companies should focus on what will not change in the future, such as customer desires and fundamental needs, rather than trying to predict specific changes.
-  - Exploring a range of possible futures and simplifying complex plans can help organizations better manage unpredictability and respond effectively to changing circumstances.
-- [Software Sprawl, The Golden Path, and Scaling Teams With Agency](https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/)
-  - The Golden Path should be fully supported by the organization, ensuring engineers understand that using non-standard components comes with the responsibility for their maintenance.
-  - Emphasizing the need for friction when adding new components can help manage the support burden and prevent unnecessary complexity in the tech stack.
-- [Am I unique?](https://www.amiunique.org/fingerprint)
-- [Cover your tracks](https://coveryourtracks.eff.org/) - See how trackers view your browser
 
 ---
 
