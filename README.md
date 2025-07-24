@@ -3,25 +3,30 @@
 
 ---
 
-## Week 28, 2025
+## Week 30, 2025
 
-- [Writing in the Age of LLMs](https://www.sh-reya.com/blog/ai-writing/)
-- [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
-- [Show HN: I AI-coded a tower defense game and documented the whole process](https://news.ycombinator.com/item?id=44463967)
-  - [Prompts used to develop Tower of Time](https://github.com/maciej-trebacz/tower-of-time-game/blob/main/PROMPTS.md)
-- [My open source project was relicensed by a YC company \[license updated\]](https://x.com/soham_btw/status/1940952786491027886)
-  - https://news.ycombinator.com/item?id=44460552
+- [Why Facts Don’t Change Minds in the Culture Wars—Structure Does](https://vasily.cc/blog/facts-dont-change-minds/)
+  - Belief Systems as Structures: Belief systems can be visualized as interconnected graphs where core ideas (nodes) and their connections (edges) form a stable, self-reinforcing structure. Challenging a core idea or connection can destabilize the entire system.
+  - Historical Example: The Church's resistance to Galileo's heliocentric model was not just about superstition but about protecting a belief structure that underpinned its authority and societal order.
+- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) - From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
+- [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 
-## Week 27, 2025
+## Week 29, 2025
 
-- [No one likes meetings. They’re sending their AI note takers instead.](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
-  - https://news.ycombinator.com/item?id=44446916
-  - https://news.hada.io/comment?id=40962
-- [I scanned all of GitHub's "oops commits" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
-  - Maybe I missed it but the article doesn't mention the even easier way to see this: the activity tab. Any force push to hide ugly prototype code is kept forever which annoys me. — [Pwhy1](https://news.ycombinator.com/item?id=44452623)
-- [Try This One Weird Trick Russian Hackers Hate (2021)](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
-- [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-  - https://news.ycombinator.com/item?id=44408552
+- [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
+  - Prioritize by impact, not just size: The Rocks, Pebbles, Sand framework emphasizes prioritizing tasks based on their strategic impact rather than just their size or urgency.
+  - Use a simple sprint-planning system: Prioritize tasks in this order: time-critical items, Rocks, Pebbles, and Sand. Adjust as needed based on capacity and the readiness of high-quality stories.
+  - Avoid common mistakes: Don't let easy or urgent tasks (Sand) crowd out strategic tasks (Rocks). Also, don't assume that the size of a task determines its priority.
+- [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
+  - Debating with a skilled opponent can be challenging, as they can control the conversation's framing, leading to a loss of momentum and confidence.
+  - Framing a conversation in your terms is a powerful debating strategy.
+  - This framing allows inevitabilists to dismiss opposing views and engage only with those who accept their premise.
+- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
+  > - Start with a rough draft/spike
+  > - Try to soften requirements if you can
+  > - Don’t get distracted
+  >   https://news.ycombinator.com/item?id=44557115
+- [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 
 ---
 
