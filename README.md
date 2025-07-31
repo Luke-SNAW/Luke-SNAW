@@ -3,30 +3,44 @@
 
 ---
 
+## Week 31, 2025
+
+- [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford](https://www.youtube.com/watch?v=tbDDYKRFjhk)
+  - **AI's Impact on Developer Productivity**: AI increases developer productivity by roughly 15-20% on average, but this varies based on several factors.
+  - **Task Complexity Matters**: AI is more effective for low-complexity tasks, with productivity gains of 30-40%, compared to 10-15% for high-complexity tasks.
+  - **Context Window Limitations**: Even with larger context windows, AI performance decreases as the amount of context increases.
+  - **Methodology**: The study used a model that automates the evaluation of code changes, making it scalable and affordable compared to manual expert evaluations.
+  - **Surveys are Ineffective**: Self-reported surveys are poor predictors of developer productivity, with developers often misjudging their own productivity by about 30 percentile points.
+- [Stop selling "unlimited", when you mean "until we change our minds"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again) 🤥
+
+  > That "5%" Drives Everything - Who actually gets hit by these limits: - **Power users**, **Early adopters**, **Team influencers**, **$200/month Claude Max subscribers**
+  >
+  > **The real damage:** You're not frustrating 5% of users—you're breaking trust with the exact people who drive growth and adoption.
+  >
+  > @dvyio on Twitter/X called this “[vibe limiting](https://x.com/dvyio/status/1949918722849984953)”
+
+  - ↔ Anthropic **never sold an unlimited plan**
+    > The new Max plan delivers exactly that. With up to 20x higher usage limits — [Introducing the Max Plan](https://www.anthropic.com/news/max-plan)
+
+- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
+
+> I swear if I see another "SEO" guy or some rando web dev who joined the workforce after Covid complaining about SPAs by misrepresenting it, I'm gonna explode.  
+> As someone who's been developing web apps since the 2000s, let me tell you the origin of SPA has few things to do with the "false promise of SPAs" he listed, but largely due to companies in the late 2000/early 2010s wanting to go "mobile first". This usually meant they still had a desktop second somewhere, which implied they were architecting the entire system to completely separate the frontends and the backend.
+>
+> Before, what web devs meant by frontend was essentially server-side rendered HTML templates with perhaps a little bit of jQuery running on the client-side. Now, since mobile and desktop web apps are to share some business logic and the database somehow, people had to rediscover REST by reading Roy Fielding's Phd dissertation that inspired the original HTTP. This meant now every company was moving to service-oriented architecture and started exposing their backend APIs onto the open internet so their mobile apps and SPAs running in the browser can share the same APIs. This was a cost saving measure.
+>
+> This period also coincided with the steady decline of full-stack webapp frameworks like Ruby on Rails and Django because for a couple of years, these frameworks had no good ways to support an API only applications. Django hadn't even reached 1.0 back then. This was a time when NodeJS was really starting to pick up momentum. Once people had started being more comfortable with JS on the server-side, lots of people suddenly realized they could push a lot of business logic to increasing powerful desktop browsers and phones, application hosts people now call "edge devices".
+>
+> This is the true impetus of SPA. How is CSS going to kill this need? — [wyuenho](https://news.ycombinator.com/item?id=44690219)
+
 ## Week 30, 2025
 
+- [Vibe Specs: Vibe Coding That Actually Works](https://lukebechtel.com/blog/vibe-speccing)
 - [Why Facts Don’t Change Minds in the Culture Wars—Structure Does](https://vasily.cc/blog/facts-dont-change-minds/)
   - Belief Systems as Structures: Belief systems can be visualized as interconnected graphs where core ideas (nodes) and their connections (edges) form a stable, self-reinforcing structure. Challenging a core idea or connection can destabilize the entire system.
   - Historical Example: The Church's resistance to Galileo's heliocentric model was not just about superstition but about protecting a belief structure that underpinned its authority and societal order.
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) - From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
 - [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
-
-## Week 29, 2025
-
-- [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
-  - Prioritize by impact, not just size: The Rocks, Pebbles, Sand framework emphasizes prioritizing tasks based on their strategic impact rather than just their size or urgency.
-  - Use a simple sprint-planning system: Prioritize tasks in this order: time-critical items, Rocks, Pebbles, and Sand. Adjust as needed based on capacity and the readiness of high-quality stories.
-  - Avoid common mistakes: Don't let easy or urgent tasks (Sand) crowd out strategic tasks (Rocks). Also, don't assume that the size of a task determines its priority.
-- [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
-  - Debating with a skilled opponent can be challenging, as they can control the conversation's framing, leading to a loss of momentum and confidence.
-  - Framing a conversation in your terms is a powerful debating strategy.
-  - This framing allows inevitabilists to dismiss opposing views and engage only with those who accept their premise.
-- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
-  > - Start with a rough draft/spike
-  > - Try to soften requirements if you can
-  > - Don’t get distracted
-  >   https://news.ycombinator.com/item?id=44557115
-- [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 
 ---
 
