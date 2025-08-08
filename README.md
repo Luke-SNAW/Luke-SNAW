@@ -3,6 +3,11 @@
 
 ---
 
+## Week 32, 2025
+
+- https://www.vibechart.net/
+- [Live coding sucks](https://hadid.dev/posts/living-coding/) - Live coding interviews measure stress, not coding skills
+
 ## Week 31, 2025
 
 - [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford](https://www.youtube.com/watch?v=tbDDYKRFjhk)
@@ -32,15 +37,6 @@
 > This period also coincided with the steady decline of full-stack webapp frameworks like Ruby on Rails and Django because for a couple of years, these frameworks had no good ways to support an API only applications. Django hadn't even reached 1.0 back then. This was a time when NodeJS was really starting to pick up momentum. Once people had started being more comfortable with JS on the server-side, lots of people suddenly realized they could push a lot of business logic to increasing powerful desktop browsers and phones, application hosts people now call "edge devices".
 >
 > This is the true impetus of SPA. How is CSS going to kill this need? — [wyuenho](https://news.ycombinator.com/item?id=44690219)
-
-## Week 30, 2025
-
-- [Vibe Specs: Vibe Coding That Actually Works](https://lukebechtel.com/blog/vibe-speccing)
-- [Why Facts Don’t Change Minds in the Culture Wars—Structure Does](https://vasily.cc/blog/facts-dont-change-minds/)
-  - Belief Systems as Structures: Belief systems can be visualized as interconnected graphs where core ideas (nodes) and their connections (edges) form a stable, self-reinforcing structure. Challenging a core idea or connection can destabilize the entire system.
-  - Historical Example: The Church's resistance to Galileo's heliocentric model was not just about superstition but about protecting a belief structure that underpinned its authority and societal order.
-- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison) - From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
-- [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
 
 ---
 
