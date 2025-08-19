@@ -3,40 +3,16 @@
 
 ---
 
+## Week 33, 2025
+
+- [Search all text in New York City](https://www.alltext.nyc/)
+  - https://pudding.cool/2025/07/street-view/
+- [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
+
 ## Week 32, 2025
 
 - https://www.vibechart.net/
 - [Live coding sucks](https://hadid.dev/posts/living-coding/) - Live coding interviews measure stress, not coding skills
-
-## Week 31, 2025
-
-- [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford](https://www.youtube.com/watch?v=tbDDYKRFjhk)
-  - **AI's Impact on Developer Productivity**: AI increases developer productivity by roughly 15-20% on average, but this varies based on several factors.
-  - **Task Complexity Matters**: AI is more effective for low-complexity tasks, with productivity gains of 30-40%, compared to 10-15% for high-complexity tasks.
-  - **Context Window Limitations**: Even with larger context windows, AI performance decreases as the amount of context increases.
-  - **Methodology**: The study used a model that automates the evaluation of code changes, making it scalable and affordable compared to manual expert evaluations.
-  - **Surveys are Ineffective**: Self-reported surveys are poor predictors of developer productivity, with developers often misjudging their own productivity by about 30 percentile points.
-- [Stop selling "unlimited", when you mean "until we change our minds"](https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again) 🤥
-
-  > That "5%" Drives Everything - Who actually gets hit by these limits: - **Power users**, **Early adopters**, **Team influencers**, **$200/month Claude Max subscribers**
-  >
-  > **The real damage:** You're not frustrating 5% of users—you're breaking trust with the exact people who drive growth and adoption.
-  >
-  > @dvyio on Twitter/X called this “[vibe limiting](https://x.com/dvyio/status/1949918722849984953)”
-
-  - ↔ Anthropic **never sold an unlimited plan**
-    > The new Max plan delivers exactly that. With up to 20x higher usage limits — [Introducing the Max Plan](https://www.anthropic.com/news/max-plan)
-
-- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
-
-> I swear if I see another "SEO" guy or some rando web dev who joined the workforce after Covid complaining about SPAs by misrepresenting it, I'm gonna explode.  
-> As someone who's been developing web apps since the 2000s, let me tell you the origin of SPA has few things to do with the "false promise of SPAs" he listed, but largely due to companies in the late 2000/early 2010s wanting to go "mobile first". This usually meant they still had a desktop second somewhere, which implied they were architecting the entire system to completely separate the frontends and the backend.
->
-> Before, what web devs meant by frontend was essentially server-side rendered HTML templates with perhaps a little bit of jQuery running on the client-side. Now, since mobile and desktop web apps are to share some business logic and the database somehow, people had to rediscover REST by reading Roy Fielding's Phd dissertation that inspired the original HTTP. This meant now every company was moving to service-oriented architecture and started exposing their backend APIs onto the open internet so their mobile apps and SPAs running in the browser can share the same APIs. This was a cost saving measure.
->
-> This period also coincided with the steady decline of full-stack webapp frameworks like Ruby on Rails and Django because for a couple of years, these frameworks had no good ways to support an API only applications. Django hadn't even reached 1.0 back then. This was a time when NodeJS was really starting to pick up momentum. Once people had started being more comfortable with JS on the server-side, lots of people suddenly realized they could push a lot of business logic to increasing powerful desktop browsers and phones, application hosts people now call "edge devices".
->
-> This is the true impetus of SPA. How is CSS going to kill this need? — [wyuenho](https://news.ycombinator.com/item?id=44690219)
 
 ---
 
