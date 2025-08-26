@@ -3,16 +3,19 @@
 
 ---
 
-## Week 33, 2025
+## Week 35, 2025
 
-- [Search all text in New York City](https://www.alltext.nyc/)
-  - https://pudding.cool/2025/07/street-view/
-- [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
+- [The three-or-four-hours rule for getting creative work done](https://www.oliverburkeman.com/fourhours) suggests that consistent, high-focus work is typically limited to about three or four hours a day.
+  - The rule emphasizes protecting a block of undisturbed focus time rather than striving for perfection by eliminating all distractions.
+  - Modern work culture often demands relentless productivity, but the key is to prioritize focused work hours over extended, scattered efforts.
+- [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849) - planning each workday around a 3-3-3 model
+  - first devoting three hours to deep work on your most important project.
+  - Next, complete three other urgent tasks that don’t require three hours of focus.
+  - Finally, do three “maintenance” tasks, like cleaning, answering emails, or scheduling other work.
 
-## Week 32, 2025
+## Week 34, 2025
 
-- https://www.vibechart.net/
-- [Live coding sucks](https://hadid.dev/posts/living-coding/) - Live coding interviews measure stress, not coding skills
+- [Left to Right Programming](https://graic.net/p/left-to-right-programming) - Programs Should Be Valid as They Are Typed
 
 ---
 
