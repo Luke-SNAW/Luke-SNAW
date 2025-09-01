@@ -3,6 +3,18 @@
 
 ---
 
+## Week 36, 2025
+
+- [Eternal Struggle](https://yoavg.github.io/eternal/)
+  - https://francisduvivier.github.io/eternal-struggle-with-speed-control/v2.html
+- [Use One Big Server: 2022](https://specbranch.com/posts/one-big-server/) - One server today is capable of:
+  - [Serving video files at 400 Gbps](https://people.freebsd.org/~gallatin/talks/euro2021.pdf) (now [800 Gbps](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf))
+  - [1 million IOPS on a NoSQL database](https://www.scylladb.com/2017/05/10/faster-and-better-what-to-expect-running-scylla-on-aws-i3-instances/)
+  - [70k IOPS in PostgreSQL](https://www.enterprisedb.com/blog/pgbench-performance-benchmark-postgresql-12-and-edb-advanced-server-12)
+  - [500k requests per second to nginx](https://openbenchmarking.org/test/pts/nginx)
+  - [Compiling the linux kernel in 20 seconds](https://openbenchmarking.org/test/pts/build-linux-kernel-1.14.0)
+  - [Rendering 4k video with x264 at 75 FPS](https://openbenchmarking.org/test/pts/x264-2.7.0)
+
 ## Week 35, 2025
 
 - [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
@@ -13,10 +25,6 @@
   - first devoting three hours to deep work on your most important project.
   - Next, complete three other urgent tasks that don’t require three hours of focus.
   - Finally, do three “maintenance” tasks, like cleaning, answering emails, or scheduling other work.
-
-## Week 34, 2025
-
-- [Left to Right Programming](https://graic.net/p/left-to-right-programming) - Programs Should Be Valid as They Are Typed
 
 ---
 
