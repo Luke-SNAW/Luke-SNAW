@@ -5,6 +5,9 @@
 
 ## Week 36, 2025
 
+- [The Day AppGet Died.](https://keivan.io/the-day-appget-died/) - The story of how Microsoft embraced and then killed AppGet.
+  - [winget install learning](https://devblogs.microsoft.com/commandline/winget-install-learning/)
+- [Google AI Overview made up an elaborate story about me](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z) - AI hallucinations
 - [Eternal Struggle](https://yoavg.github.io/eternal/)
   - https://francisduvivier.github.io/eternal-struggle-with-speed-control/v2.html
 - [Use One Big Server: 2022](https://specbranch.com/posts/one-big-server/) - One server today is capable of:
