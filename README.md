@@ -3,8 +3,22 @@
 
 ---
 
+## Week 37, 2025
+
+- [Your target market isn't demographic](https://longform.asmartbear.com/target-market/)
+  - The actual target market is defined by the characteristics shared by users who benefit from a product, not by demographic factors.
+  - For a TV show, the target market is not just females aged 19-29, but those who enjoy the genre, actors, aesthetic, and writing style.
+- [Local Server Security Best Practices](https://green.sapphi.red/blog/local-server-security-best-practices)
+  > 1. An attacker serves a malicious site (e.g., http://malicious.example.com).
+  > 2. A user accesses a site that executes JavaScript served by the malicious site. This isn't limited to top-level navigation; it includes embedding via iframes or scripts on external sites.
+  > 3. The served JavaScript executes fetch('http://127.0.0.1:3000/main.js'), and the response content is sent to the attacker.
+  > 4. The attacker receives the contents of http://127.0.0.1:3000/main.js.
+- [iPhone dumbphone](https://stopa.io/post/297) - using [Apple Configurator](https://support.apple.com/apple-configurator) for saving about 2 hours of screen time a day.
+  > Moving all the distractions to another device that I can't carry around with me is a great idea - [#](https://news.ycombinator.com/item?id=45180528)
+
 ## Week 36, 2025
 
+- [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 - [LLM Visualization](https://bbycroft.net/llm)
   - [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
 - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
@@ -29,17 +43,6 @@
   - [500k requests per second to nginx](https://openbenchmarking.org/test/pts/nginx)
   - [Compiling the linux kernel in 20 seconds](https://openbenchmarking.org/test/pts/build-linux-kernel-1.14.0)
   - [Rendering 4k video with x264 at 75 FPS](https://openbenchmarking.org/test/pts/x264-2.7.0)
-
-## Week 35, 2025
-
-- [Ask HN: Why hasn't x86 caught up with Apple M series?](https://news.ycombinator.com/item?id=45019483)
-- [The three-or-four-hours rule for getting creative work done](https://www.oliverburkeman.com/fourhours) suggests that consistent, high-focus work is typically limited to about three or four hours a day.
-  - The rule emphasizes protecting a block of undisturbed focus time rather than striving for perfection by eliminating all distractions.
-  - Modern work culture often demands relentless productivity, but the key is to prioritize focused work hours over extended, scattered efforts.
-- [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849) - planning each workday around a 3-3-3 model
-  - first devoting three hours to deep work on your most important project.
-  - Next, complete three other urgent tasks that don’t require three hours of focus.
-  - Finally, do three “maintenance” tasks, like cleaning, answering emails, or scheduling other work.
 
 ---
 
