@@ -3,54 +3,18 @@
 
 ---
 
-## Week 39, 2025
+## Week 41, 2025
 
-- [시간 관리의 세 단계 진화: 왜 빈 큐를 먼저 만들어야 하는가](https://unnud.com/the-three-stage-evolution-of-time-management-why-you-should-create-an-empty-queue-first/)
-  - 시간 구조를 먼저 설계: Deep Work Queue, Creative Queue, Admin Queue
-    - 구조는 고정하되 내용은 유연하게 - 이번 주는 기획서, 다음 주는 분석 보고서
-    - 좋은 그릇(시간 구조)을 먼저 준비하고 담을 것(할 일)을 고르는 순서의 역전
-    - 시간 관리의 비밀은 많이 하는 게 아니라 맞는 일을 맞는 시간에 하는 것
-  - 주의
-    - 긴 목록이 뇌에 "위험하다"는 신호 → 스트레스 호르몬 분비 → 미루기는 게으름이 아닌 방어 기제
-    - 30분 단위는 스트레스 → 90분-2시간 큐가 적정
-    - 모든 큐 채우려는 완벽주의 → 70% 채우고 30% 버퍼
-- [Give footnotes the boot](https://jakearchibald.com/2025/give-footnotes-the-boot/)
+- [How a Competitor Crippled a $23.5M Bootcamp By Becoming a Reddit Moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) - [HN](https://news.ycombinator.com/item?id=45521920)
 
-  - Footnotes disrupt the reading flow by requiring readers to navigate away from the main content.
-  - On the web, footnotes are even more cumbersome due to scrolling and navigation challenges.
-  - Readers should be able to easily skip over supplementary content if they choose.
+## Week 40, 2025
 
-  > For example: [#](https://jakearchibald.com/2025/give-footnotes-the-boot/#comment-6731381255)
-  >
-  > - 50+% likelihood and content is short? → Parentheses
-  > - 50+% likelihood and content is medium or long? → note block
-  > - 20-50% likelihood and content is medium or long? → collapsed note block
-  > - < 20% likelihood and content is short or medium? → footnote
-
-## Week 38, 2025
-
-- [V8과 WebAssembly: 현대 자바스크립트 엔진의 구조와 성능 최적화(상하편)](https://www.zigae.com/chrome-gc/)
-  - V8의 세대별 힙 구조는 객체의 수명에 따라 최적화된 처리를 가능하게 하며, Young Generation과 Old Generation으로 구분되어 관리된다.
-  - V8의 세대별 객체 승격 메커니즘은 Age-based, Size-based, Pretenuring 등의 복합적인 휴리스틱을 사용하여 객체를 Old Generation으로 승격시킨다.
-  - React의 Fiber 아키텍처는 V8의 세대별 가설과 충돌하며, Fiber 노드는 컴포넌트가 마운트된 동안 계속 살아있어 Old Generation으로 승격되어 Major GC 부담을 증가시킨다.
-  - React Hooks는 클로저 메모리 누수를 일으킬 수 있으며, useEffect와 같은 훅은 클로저가 전체 컴포넌트 스코프를 캡처하여 메모리 누수를 유발할 수 있다.
-  - V8의 Orinoco 프로젝트는 병렬 처리, 증분 처리, 동시 처리 등의 기술을 도입하여 GC pause time을 크게 감소시켰으며, 특히 동시 마킹은 Major GC pause time을 60-70% 감소시켰다.
-- [Distributing your own scripts via Homebrew](https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/)
-  - Creating a Homebrew tap involves setting up a GitHub repository and using the brew tap-new command.
-- [Anycrap](https://anycrap.shop/) - A store that generates products from anything you type in search
-- [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
-  > Constraint solvers runtimes are unpredictable and almost always slower than an ideal bespoke algorithm because they are more expressive, in what I refer to as the [capability/tractability tradeoff](https://buttondown.com/hillelwayne/archive/the-capability-tractability-tradeoff/). But even so, they'll do way better than a _bad_ bespoke algorithm, and I'm not experienced enough in handwriting algorithms to consistently beat a solver.
-  > The real advantage of solvers, though, is how well they handle new constraints.
-- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
-- [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design) - still be backward compatible with ASCII
-  1.  Read a byte. If it starts with 0, it's a single-byte character (ASCII). Show the character represented by the remaining 7 bits on the screen. Continue with the next byte.
-  2.  If the byte didn't start with a 0, then:
-      - If it starts with 110, it's a two-byte character, so read the next byte as well.
-      - If it starts with 1110, it's a three-byte character, so read the next two bytes.
-      - If it starts with 11110, it's a four-byte character, so read the next three bytes.
-  3.  Once the number of bytes are determined, read all the remaining bits except the leading bits, and find the binary value (aka. code point) of the character.
-  4.  Look up the code point in the Unicode character set to find the corresponding character and display it on the screen.
-  5.  Read the next byte and repeat the process.
+- [Users Only Care About 20% of Your Application](https://idiallo.com/blog/users-only-care-about-20-percent)
+  - Users typically only utilize about 20% of an application's features, and **this 20% varies from user to user**.
+  - Software often becomes bloated with features that most users don't need, leading to frustration and resentment.
+  - VS Code, Slack, and Discord exemplify platforms that provide a foundation for users to customize their experience.
+  - Accepting that users will only partially care about your software can lead to more focused and satisfying product development.
+  - Embracing the idea that software will be used in unexpected ways can lead to innovative and user-centric design.
 
 ---
 
