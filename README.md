@@ -3,16 +3,15 @@
 
 ---
 
+## Week 43, 2025
+
+- [Space Elevator](https://neal.fun/space-elevator/)
+
 ## Week 42, 2025
 
 - [An Illustrated Introduction to Linear Algebra](https://www.ducktyped.org/p/an-illustrated-introduction-to-linear)
 - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 - [They traveled to Thailand. They wound up cyber scam slaves in Myanmar.](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/mypmxwdwwvr/) - Across Southeast Asia, a multibillion-dollar fraud industry has emerged, staffed in part by victims of trafficking.
-
-## Week 41, 2025
-
-- [How a Competitor Crippled a $23.5M Bootcamp By Becoming a Reddit Moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) - [HN](https://news.ycombinator.com/item?id=45521920)
-
 
 ---
 
