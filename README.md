@@ -5,6 +5,16 @@
 
 ## Week 43, 2025
 
+- [How Complex Systems Fail](https://how.complexsystems.fail)
+  - Complex systems always contain latent failures that change over time due to technological and organizational changes.
+  - Complex systems operate in a degraded mode, with continuous failures and repairs, making accidents seem inevitable in hindsight.
+  - Post-accident analyses often incorrectly attribute failures to a single root cause, overlooking the multiple contributing factors.
+  - Hindsight bias affects post-accident assessments, making it difficult to accurately evaluate human performance during the event.
+- [Fallout from the AWS outage: Smart mattresses go rogue](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide) - An AWS outage caused widespread disruptions, including issues with smart mattresses from Eight Sleep.
+- [How Deno protects against npm exploits](https://deno.com/blog/deno-protects-npm-exploits)
+  - Deno offers a secure alternative by running code in a sandbox with no OS access by default.
+  - Deno requires explicit permissions for file system access, network connections, and environment variables.
+  - But, deno's current permission model is applied on a per-project basis, meaning if a project has already granted permissions, a malicious package could exploit those permissions. Fine-grained permission control per package (e.g., per-package permissions) is not yet fully implemented, which prevents complete blocking of supply chain attacks.
 - [Space Elevator](https://neal.fun/space-elevator/)
 
 ## Week 42, 2025
