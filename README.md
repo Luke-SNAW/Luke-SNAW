@@ -5,6 +5,7 @@
 
 ## Week 44, 2025
 
+- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) - Prioritizing Cognitive Fatigue Reduction at Work. 일하며 1순위로 인지피로 줄이기 팁들.
 - ['Washington Post' editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
 - [Samsung makes ads on smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
 - [Avoid 2:00 and 3:00 am cron jobs!](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/) Most of the time such cron jobs will run fine, but if they run every Sunday morning, then twice per year they will run at the exact time daylight savings time (aka summer time) kicks in or ends, sometimes with very strange results.
