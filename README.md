@@ -3,6 +3,11 @@
 
 ---
 
+## Week 45, 2025
+
+- [1fr 1fr vs auto auto vs 50% 50%](https://frontendmasters.com/blog/1fr-1fr-vs-auto-auto-vs-50-50/)
+- [Strange attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+
 ## Week 44, 2025
 
 - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) - Prioritizing Cognitive Fatigue Reduction at Work. 일하며 1순위로 인지피로 줄이기 팁들.
@@ -30,20 +35,6 @@
     - This transition is causing significant short-term pain for industries reliant on traffic monetization, particularly media companies.
   - A new internet business model is emerging, potentially rewarding creators of unique, original content that fills knowledge gaps identified by AI.
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) - A personal guide to reclaiming focus in the age of endless temptation
-
-## Week 43, 2025
-
-- [How Complex Systems Fail](https://how.complexsystems.fail)
-  - Complex systems always contain latent failures that change over time due to technological and organizational changes.
-  - Complex systems operate in a degraded mode, with continuous failures and repairs, making accidents seem inevitable in hindsight.
-  - Post-accident analyses often incorrectly attribute failures to a single root cause, overlooking the multiple contributing factors.
-  - Hindsight bias affects post-accident assessments, making it difficult to accurately evaluate human performance during the event.
-- [Fallout from the AWS outage: Smart mattresses go rogue](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide) - An AWS outage caused widespread disruptions, including issues with smart mattresses from Eight Sleep.
-- [How Deno protects against npm exploits](https://deno.com/blog/deno-protects-npm-exploits)
-  - Deno offers a secure alternative by running code in a sandbox with no OS access by default.
-  - Deno requires explicit permissions for file system access, network connections, and environment variables.
-  - But, deno's current permission model is applied on a per-project basis, meaning if a project has already granted permissions, a malicious package could exploit those permissions. Fine-grained permission control per package (e.g., per-package permissions) is not yet fully implemented, which prevents complete blocking of supply chain attacks.
-- [Space Elevator](https://neal.fun/space-elevator/)
 
 ---
 
