@@ -3,46 +3,39 @@
 
 ---
 
-## Week 45, 2025
+## Week 52, 2025
 
-- [How Freewriting Can Boost Your Creativity](https://www.grammarly.com/blog/writing-techniques/free-writing/)
-- [How to Write an Effective Rough Draft: Practical Tips for Every Writer](https://www.grammarly.com/blog/writing-process/how-to-write-a-rough-draft/)
-- [Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse](https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse)
-  - The Israeli Minister of Defense accused the leaker of 'blood libel,' a term historically used to incite violence against Jewish people.
-  - Rightwing politicians and media figures have accused her of damaging Israel's global standing and undermining the state by pursuing the case.
-  - She faces charges including fraud, breach of trust, abuse of office, obstruction of justice, and disclosure of official information.
-- [Use Cases for Field Sizing](https://ishadeed.com/article/field-sizing/)
-- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/) - a flag (KEY_INFLATE_SIGNAL_STRENGTH_BOOL) to always report the signal strength to the user as one bar higher than it really is.
-- [1fr 1fr vs auto auto vs 50% 50%](https://frontendmasters.com/blog/1fr-1fr-vs-auto-auto-vs-50-50/)
-- [Strange attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- [Send email with SMTP relay from a printer, scanner, or app](https://support.google.com/a/answer/176600?hl=en)
+- ['It's a moment of death and rebirth': The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
+  - Ancient monuments across the Northern Hemisphere, some dating back 5,000 years, are precisely aligned to capture the rising and setting sun during the winter solstice.
+  - The winter solstice, occurring around December 21st or 22nd, marks the shortest day of the year and symbolizes the end of one cycle and the beginning of another, with days gradually lengthening afterward.
+- [I got hacked, my server started mining Monero this morning.](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
+  - The author's server was compromised and used to mine Monero for 10 days due to a vulnerability in the Umami analytics tool, which is built with Next.js.
+  - The vulnerability (CVE-2025-66478) was an unsafe deserialization flaw in Next.js's React Server Components' Flight protocol, allowing arbitrary code execution.
+  - Despite the compromise, container isolation prevented the malware from escaping the Umami container and affecting the host system or other containers.
 
-## Week 44, 2025
+## Week 51, 2025
 
-- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) - Prioritizing Cognitive Fatigue Reduction at Work. 인지피로 줄이며 일하기 팁들.
-- ['Washington Post' editorials omit a key disclosure: Bezos' financial ties](https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties)
-- [Samsung makes ads on smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
-- [Avoid 2:00 and 3:00 am cron jobs!](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/) Most of the time such cron jobs will run fine, but if they run every Sunday morning, then twice per year they will run at the exact time daylight savings time (aka summer time) kicks in or ends, sometimes with very strange results.
-  > Just use UTC folks unless you have a really good idea why you shouldn't. - [noir_lord](https://news.ycombinator.com/item?id=45723859)
-  > I put a little analog clock on my desk that's set to UTC time. It helps a lot with converting logs to get a quick reference. - [yabones](https://news.ycombinator.com/item?id=45724173)
-- [It's insulting to read your AI-generated blog post](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/)
-
-  - Making mistakes and learning from them is a fundamentally human experience.
-  - AI-generated content creates a sterile barrier between the writer and the reader.
-  - This barrier prevents genuine engagement and connection.
-
-  > I personally don’t think I care if a blog post is AI generated or not. The only thing that matters to me is the content. I use ChatGPT to learn about a variety of different things, so if someone came up with an interesting set of prompts and follow ups and shared a summary of the research ChatGPT did, it could be meaningful content to me.
-  >
-  > > No, don't use it to fix your grammar, or for translations, or for whatever else you think you are incapable of doing. Make the mistake. Feel embarrassed. Learn from it. Why? Because that's what makes us human!
-  >
-  > It would be more human to handwrite your blog post instead. I don’t see how this is a good argument. The use of tools to help with writing and communication should make it easier to convey your thoughts, and that itself is valuable. - [alyxya](https://news.ycombinator.com/item?id=45723176)
-
-- [Cloudflare’s 2025 Annual Founders’ Letter](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
-  - The internet's core business model has historically relied on traffic generation (ads, subscriptions) to reward content creators.
-  - Traffic has been an imperfect proxy for value, leading to issues like clickbait and ragebait, driven by the need to maximize traffic.
-  - The shift from Search Engines to Answer Engines (like AI chatbots) is fundamentally changing internet discovery, providing direct answers instead of links.
-    - This transition is causing significant short-term pain for industries reliant on traffic monetization, particularly media companies.
-  - A new internet business model is emerging, potentially rewarding creators of unique, original content that fills knowledge gaps identified by AI.
-- [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) - A personal guide to reclaiming focus in the age of endless temptation
+- [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+  - Effective writing, especially for experts, is not about adhering to rules but about focusing on the reader and their needs.
+  - Experts often use their writing process to aid their complex thinking, a contrast to journalists who typically use writing to convey pre-formed ideas.
+  - Academic writing should aim to change how readers see the world, rather than simply conveying the writer's own ideas or demonstrating understanding.
+  - Effective academic writing involves understanding and using the 'code' of a specific community of readers to communicate value and persuade them.
+  - Academic conversations are dynamic and evolving, with knowledge being constructed and deconstructed by communities, rather than being a static accumulation of facts.
+- [30 Years of `<br>` Tags](https://www.artmann.co/articles/30-years-of-br-tags) - Three decades of making things on the internet
+- [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
+  - AI's real superpower lies not in creation, but in consumption and analysis of vast amounts of existing information.
+  - A personal knowledge management system, like an Obsidian vault, can store years of notes, reflections, and insights.
+  - Connecting an AI to a personal knowledge base allows users to query their past discoveries and evolving thoughts.
+- [Why Your Best Engineers Are Interviewing Elsewhere](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
+  - Hierarchies within organizations tend to filter out bad news, preventing executives from being aware of developing problems until they become crises.
+  - Middle managers often suppress bad news to appear professional and 'handle problems at their level,' leading to information latency.
+  - Skip-level conversations (executives talking directly to engineers several levels down) are often discouraged due to concerns about undermining middle management, but they provide crucial ground truth.
+- [Software Component Names Should Be Whimsical And Cryptic](https://medium.com/better-programming/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
+  - Descriptive names for software components can be misleading as the scope and purpose of a component can change over time, rendering the original name inaccurate.
+  - Descriptive names create an [illusion of transparency](https://en.wikipedia.org/wiki/Illusion_of_transparency) rather than true clarity, leading to incorrect assumptions about a component's functionality.
+  - For variables within code that are frequently changed, descriptive names like numCols and numRows are preferable to generic ones like i and j.
+  - When a name serves as an identifier for a complex, long-lived entity, it should be an opaque and immutable identifier, similar to using numerical IDs instead of email addresses as foreign keys in databases.
 
 ---
 
