@@ -3,6 +3,14 @@
 
 ---
 
+## Week 1, 2026
+
+- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+  - Slowing down the pace of consumption, whether reading or eating, significantly enhances enjoyment and comprehension.
+  - Default consumption speeds, possibly influenced by modern living's abundance, often reduce the rewards of activities.
+  - Clichés like 'less is more' and 'stop and smell the roses' are profound insights that lose their meaning when consumed too rapidly.
+- [Tiled.art](https://tiled.art/)
+
 ## Week 52, 2025
 
 - [Send email with SMTP relay from a printer, scanner, or app](https://support.google.com/a/answer/176600?hl=en)
@@ -13,29 +21,6 @@
   - The author's server was compromised and used to mine Monero for 10 days due to a vulnerability in the Umami analytics tool, which is built with Next.js.
   - The vulnerability (CVE-2025-66478) was an unsafe deserialization flaw in Next.js's React Server Components' Flight protocol, allowing arbitrary code execution.
   - Despite the compromise, container isolation prevented the malware from escaping the Umami container and affecting the host system or other containers.
-
-## Week 51, 2025
-
-- [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
-  - Effective writing, especially for experts, is not about adhering to rules but about focusing on the reader and their needs.
-  - Experts often use their writing process to aid their complex thinking, a contrast to journalists who typically use writing to convey pre-formed ideas.
-  - Academic writing should aim to change how readers see the world, rather than simply conveying the writer's own ideas or demonstrating understanding.
-  - Effective academic writing involves understanding and using the 'code' of a specific community of readers to communicate value and persuade them.
-  - Academic conversations are dynamic and evolving, with knowledge being constructed and deconstructed by communities, rather than being a static accumulation of facts.
-- [30 Years of `<br>` Tags](https://www.artmann.co/articles/30-years-of-br-tags) - Three decades of making things on the internet
-- [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
-  - AI's real superpower lies not in creation, but in consumption and analysis of vast amounts of existing information.
-  - A personal knowledge management system, like an Obsidian vault, can store years of notes, reflections, and insights.
-  - Connecting an AI to a personal knowledge base allows users to query their past discoveries and evolving thoughts.
-- [Why Your Best Engineers Are Interviewing Elsewhere](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
-  - Hierarchies within organizations tend to filter out bad news, preventing executives from being aware of developing problems until they become crises.
-  - Middle managers often suppress bad news to appear professional and 'handle problems at their level,' leading to information latency.
-  - Skip-level conversations (executives talking directly to engineers several levels down) are often discouraged due to concerns about undermining middle management, but they provide crucial ground truth.
-- [Software Component Names Should Be Whimsical And Cryptic](https://medium.com/better-programming/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
-  - Descriptive names for software components can be misleading as the scope and purpose of a component can change over time, rendering the original name inaccurate.
-  - Descriptive names create an [illusion of transparency](https://en.wikipedia.org/wiki/Illusion_of_transparency) rather than true clarity, leading to incorrect assumptions about a component's functionality.
-  - For variables within code that are frequently changed, descriptive names like numCols and numRows are preferable to generic ones like i and j.
-  - When a name serves as an identifier for a complex, long-lived entity, it should be an opaque and immutable identifier, similar to using numerical IDs instead of email addresses as foreign keys in databases.
 
 ---
 
@@ -92,7 +77,8 @@
 
 ## What I read in past
 
-- [👓 What I read in 2025](https://luke-snaw.github.io/notes/3c3ubyy4jyo2x0qui65nwtu/)
+- [What I read in 2026]()
+  - [2025](https://luke-snaw.github.io/notes/3c3ubyy4jyo2x0qui65nwtu/)
   - [2024](https://luke-snaw.github.io/notes/t9eilmx27nd8ytoelbm5v10/)
   - [2023](https://luke-snaw.github.io/notes/d9io1hr2n9vdbvucvy3iquj/)
   - [2022](https://luke-snaw.github.io/notes/l4c5ilaotvka1yh10wv88cy/)
