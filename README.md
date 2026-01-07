@@ -3,6 +3,11 @@
 
 ---
 
+## Week 2, 2026
+
+- [CSRF Protection without Tokens or Hidden Form Fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields) - The so called "modern" method to protect against CSRF attacks is based on the [Sec-Fetch-Site](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Sec-Fetch-Site) header, which all modern desktop and mobile browsers include in the requests they send to servers.
+- [Meta made scam ads harder to find instead of removing them](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
+
 ## Week 1, 2026
 
 - [Meta's AI tools are going rogue and churning out some very strange ads](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
@@ -11,17 +16,6 @@
   - Default consumption speeds, possibly influenced by modern living's abundance, often reduce the rewards of activities.
   - Clichés like 'less is more' and 'stop and smell the roses' are profound insights that lose their meaning when consumed too rapidly.
 - [Tiled.art](https://tiled.art/)
-
-## Week 52, 2025
-
-- [Send email with SMTP relay from a printer, scanner, or app](https://support.google.com/a/answer/176600?hl=en)
-- ['It's a moment of death and rebirth': The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
-  - Ancient monuments across the Northern Hemisphere, some dating back 5,000 years, are precisely aligned to capture the rising and setting sun during the winter solstice.
-  - The winter solstice, occurring around December 21st or 22nd, marks the shortest day of the year and symbolizes the end of one cycle and the beginning of another, with days gradually lengthening afterward.
-- [I got hacked, my server started mining Monero this morning.](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
-  - The author's server was compromised and used to mine Monero for 10 days due to a vulnerability in the Umami analytics tool, which is built with Next.js.
-  - The vulnerability (CVE-2025-66478) was an unsafe deserialization flaw in Next.js's React Server Components' Flight protocol, allowing arbitrary code execution.
-  - Despite the compromise, container isolation prevented the malware from escaping the Umami container and affecting the host system or other containers.
 
 ---
 
