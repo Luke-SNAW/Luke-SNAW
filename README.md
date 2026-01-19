@@ -3,14 +3,17 @@
 
 ---
 
+## Week 4, 2026
+
+- [The Influentists](https://carette.xyz/posts/influentists/) - The trend of 'hype first and context later' is characterized by individuals called 'The Influentists' who leverage large audiences to propagate unproven or misleading claims.
+  > - Doesn't the existence of consumer products like ChatGPT indicate that LLMs aren't able to do human-level work? If OpenAI really had a digital workforce with the capabilities of ~100k programmers/scientists/writers/lawyers/doctors etc, wouldn't the most profitable move be to utilize those "workers" directly, rather that renting out their skills piecemeal? - https://news.ycombinator.com/item?id=46624115
+- [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
+  > - This sounds exactly like what Google used to say about search results. Just a few ads, clearly separated from organic results, never detracting from the core mission of providing the most effective access to all the world’s information. (And certainly not driven by a secret profile of you based on pervasive surveillance of your internet activity.) - https://news.ycombinator.com/item?id=46650756
+  > - People are reacting negatively to the ads, but there's a bigger point. This is bearish as heck for AGI. If OpenAI were recursively improving their general-computer-using agent, who was going to be superhuman at every job, they wouldn't need to be messing around with things like this. - https://news.ycombinator.com/item?id=46653567
+
 ## Week 3, 2026
 
 - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
-
-## Week 2, 2026
-
-- [CSRF Protection without Tokens or Hidden Form Fields](https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields) - The so called "modern" method to protect against CSRF attacks is based on the [Sec-Fetch-Site](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Sec-Fetch-Site) header, which all modern desktop and mobile browsers include in the requests they send to servers.
-- [Meta made scam ads harder to find instead of removing them](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
 
 ---
 
