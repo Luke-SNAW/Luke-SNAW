@@ -3,6 +3,20 @@
 
 ---
 
+## Week 5, 2026
+
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
+  > - Everybody wants to write a greenfield demo. Nobody wants to run a service.
+  >   - The first 90% to get a working demo is easy. It's the other 190% that matters.
+  > - People don't buy software, they hire a service. - result
+- [The '3.5% rule': How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
+  - Nonviolent protests are twice as likely to succeed as armed conflicts.
+  - Civil resistance involving a threshold of 3.5% of the population actively participating has never failed to bring about change.
+  - Erica Chenoweth's research analyzed hundreds of campaigns over the last century to compare the success rates of nonviolent versus violent protests.
+    > - Chenoweth has backed off her previous conclusions in recent years, observing that nonviolent protest strategies have dramatically declined in effectiveness as governments have adjusted their tactics of repression and messaging. See eg [The Harvard Professor Who Quantified Democracy](https://www.harvardmagazine.com/2025/07/erica-chenoweth-democracy-data-harvard) - https://news.ycombinator.com/item?id=46759139
+- [Bugs Apple Loves](https://www.bugsappleloves.com/)
+  - https://news.ycombinator.com/item?id=46727587
+
 ## Week 4, 2026
 
 - [AI slop security reports submitted to curl](https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd)
@@ -11,10 +25,6 @@
 - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
   > - This sounds exactly like what Google used to say about search results. Just a few ads, clearly separated from organic results, never detracting from the core mission of providing the most effective access to all the world’s information. (And certainly not driven by a secret profile of you based on pervasive surveillance of your internet activity.) - https://news.ycombinator.com/item?id=46650756
   > - People are reacting negatively to the ads, but there's a bigger point. This is bearish as heck for AGI. If OpenAI were recursively improving their general-computer-using agent, who was going to be superhuman at every job, they wouldn't need to be messing around with things like this. - https://news.ycombinator.com/item?id=46653567
-
-## Week 3, 2026
-
-- [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 
 ---
 
