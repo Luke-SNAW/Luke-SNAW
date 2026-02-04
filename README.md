@@ -3,6 +3,13 @@
 
 ---
 
+## Week 6, 2026
+
+- [Safe-Now.live](https://safe-now.live/) - Ultra-light emergency info for USA and Canada
+- [Leaked chats expose the daily life of a scam compound's enslaved workforce](https://www.wired.com/story/the-red-bull-leaks/)
+- [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
+- [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) - Microsoft sells GitHub Copilot to its customers, but it increasingly favors Claude Code internally.
+
 ## Week 5, 2026
 
 - [No more boring drawings!](https://ralphammer.com/no-more-boring-drawings/) - ~~How~~Why to draw something
@@ -20,15 +27,6 @@
     > - Chenoweth has backed off her previous conclusions in recent years, observing that nonviolent protest strategies have dramatically declined in effectiveness as governments have adjusted their tactics of repression and messaging. See eg [The Harvard Professor Who Quantified Democracy](https://www.harvardmagazine.com/2025/07/erica-chenoweth-democracy-data-harvard) - https://news.ycombinator.com/item?id=46759139
 - [Bugs Apple Loves](https://www.bugsappleloves.com/)
   - https://news.ycombinator.com/item?id=46727587
-
-## Week 4, 2026
-
-- [AI slop security reports submitted to curl](https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd)
-- [The Influentists](https://carette.xyz/posts/influentists/) - The trend of 'hype first and context later' is characterized by individuals called 'The Influentists' who leverage large audiences to propagate unproven or misleading claims.
-  > - Doesn't the existence of consumer products like ChatGPT indicate that LLMs aren't able to do human-level work? If OpenAI really had a digital workforce with the capabilities of ~100k programmers/scientists/writers/lawyers/doctors etc, wouldn't the most profitable move be to utilize those "workers" directly, rather that renting out their skills piecemeal? - https://news.ycombinator.com/item?id=46624115
-- [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
-  > - This sounds exactly like what Google used to say about search results. Just a few ads, clearly separated from organic results, never detracting from the core mission of providing the most effective access to all the world’s information. (And certainly not driven by a secret profile of you based on pervasive surveillance of your internet activity.) - https://news.ycombinator.com/item?id=46650756
-  > - People are reacting negatively to the ads, but there's a bigger point. This is bearish as heck for AGI. If OpenAI were recursively improving their general-computer-using agent, who was going to be superhuman at every job, they wouldn't need to be messing around with things like this. - https://news.ycombinator.com/item?id=46653567
 
 ---
 
