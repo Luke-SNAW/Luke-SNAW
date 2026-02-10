@@ -3,30 +3,20 @@
 
 ---
 
+## Week 7, 2026
+
+- [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/) - And the sunset red? But the Martian sky red and sunset blue?
+  - The sky appears blue because blue photons from sunlight are scattered more by Earth's atmosphere than other colors, dispersing them throughout the sky.
+  - The preferential scattering of blue light is due to the resonant frequencies of nitrogen and oxygen molecules in the atmosphere, which are closer to the frequency of blue light.
+  - Violet light scatters even more than blue light, but the sky appears blue rather than violet because human eyes are less sensitive to violet light.
+  - Sunsets appear red because the sunlight travels through more atmosphere, scattering away most of the blue and green light, leaving primarily red light to reach our eyes.
+
 ## Week 6, 2026
 
 - [Safe-Now.live](https://safe-now.live/) - Ultra-light emergency info for USA and Canada
 - [Leaked chats expose the daily life of a scam compound's enslaved workforce](https://www.wired.com/story/the-red-bull-leaks/)
 - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 - [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) - Microsoft sells GitHub Copilot to its customers, but it increasingly favors Claude Code internally.
-
-## Week 5, 2026
-
-- [No more boring drawings!](https://ralphammer.com/no-more-boring-drawings/) - ~~How~~Why to draw something
-  > Carefully composed drawings can show **our relation to the world**.
-  > It is interesting because we have made a conscious choice of **what is important to us**. And chances are that this is **also interesting for others**.
-- [Thief of $90M in seized U.S.-controlled crypto alleged to be government crypto contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
-- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
-  > - Everybody wants to write a greenfield demo. Nobody wants to run a service.
-  >   - The first 90% to get a working demo is easy. It's the other 190% that matters.
-  > - People don't buy software, they hire a service. - result
-- [The '3.5% rule': How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
-  - Nonviolent protests are twice as likely to succeed as armed conflicts.
-  - Civil resistance involving a threshold of 3.5% of the population actively participating has never failed to bring about change.
-  - Erica Chenoweth's research analyzed hundreds of campaigns over the last century to compare the success rates of nonviolent versus violent protests.
-    > - Chenoweth has backed off her previous conclusions in recent years, observing that nonviolent protest strategies have dramatically declined in effectiveness as governments have adjusted their tactics of repression and messaging. See eg [The Harvard Professor Who Quantified Democracy](https://www.harvardmagazine.com/2025/07/erica-chenoweth-democracy-data-harvard) - https://news.ycombinator.com/item?id=46759139
-- [Bugs Apple Loves](https://www.bugsappleloves.com/)
-  - https://news.ycombinator.com/item?id=46727587
 
 ---
 
