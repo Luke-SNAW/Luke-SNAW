@@ -3,6 +3,12 @@
 
 ---
 
+## Week 9, 2026
+
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) - If code is free, why aren’t all apps native?
+- [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
+- [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+
 ## Week 8, 2026
 
 - [Don't Trust the Salt: AI Summarization, Multilingual Safety, and Evaluating LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
@@ -17,14 +23,6 @@
   - Converting HTML to markdown reduces token usage by approximately 80%, improving cost and processing efficiency.
   - Supports real-time HTML→Markdown conversion at the network level based on the Accept: text/markdown header.
 - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
-
-## Week 7, 2026
-
-- [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/) - And the sunset red? But the Martian sky red and sunset blue?
-  - The sky appears blue because blue photons from sunlight are scattered more by Earth's atmosphere than other colors, dispersing them throughout the sky.
-  - The preferential scattering of blue light is due to the resonant frequencies of nitrogen and oxygen molecules in the atmosphere, which are closer to the frequency of blue light.
-  - Violet light scatters even more than blue light, but the sky appears blue rather than violet because human eyes are less sensitive to violet light.
-  - Sunsets appear red because the sunlight travels through more atmosphere, scattering away most of the blue and green light, leaving primarily red light to reach our eyes.
 
 ---
 
