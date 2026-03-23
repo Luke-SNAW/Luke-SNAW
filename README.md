@@ -3,8 +3,21 @@
 
 ---
 
+## Week 13, 2026
+
+- [The End of Coding: Andrej Karpathy on Agents, AutoResearch, and the Loopy Era of AI](https://www.youtube.com/watch?v=kwSVtQ7dziU)
+  - The End of Apps and an Agent-First World
+    - Apps for smart home devices make no sense; they should **only expose APIs** and be structured for agents to call directly
+    - Since LLMs can drive tools and perform complex tasks by calling the right ones, custom-built apps are currently being **overproduced**
+    - Since customers are no longer humans but **agents acting on behalf of humans**, the entire industry needs to be restructured accordingly
+    - While "vibe coding" is currently necessary, in 1-3 years, open-source models and others will be able to **easily convert non-technical intent**, and technical barriers are expected to disappear
+- [The Future of SaaS Is Agentic](https://akashyap.ai/the-future-of-saas-is-agentic/)
+  > Agentic SaaS shifts that burden to software that can act on behalf of users. That changes both the interface and the architecture: the UI remains, but becomes a layer for intent, supervision, and review, while the product itself evolves into a system of stateful processes that can plan, execute, and adapt over time. The winners will not be the products with the most AI features, but the ones that **remove the most friction and make software feel less like a tool to operate and more like a system that works for you**.
+
 ## Week 12, 2026
 
+- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+  - https://news.ycombinator.com/item?id=47423647
 - [If you thought code writing speed was your problem you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
   - optimizing non-bottleneck steps actually worsens the system, leading to increased inventory and slower overall delivery
 - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
@@ -25,15 +38,6 @@
     5. Share only when requested.
     6. Share as a link.
 - [The 49MB web page](https://thatshubham.com/blog/news-audit) criticizes **modern news websites** for their **hostile user experience**, characterized by **excessive data loading** (49MB for the New York Times), **intrusive ads**, **tracking scripts**, and **user-unfriendly design patterns** that prioritize monetization over reader engagement
-
-## Week 11, 2026
-
-- [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
-  > when Aadil said "Let's just say a bunch of bad ideas," he changed the frame entirely. We were now playing a game where the only way to lose was by saying nothing at all.
-- [Shall i implement it? - No ...](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
-- [MALUS](https://malus.sh/) - Our proprietary AI robots independently recreate any open source project from scratch. The result? **Legally distinct code** with corporate-friendly licensing
-- [How to prepare for the next decade](https://thewakeupcallnewsletter.substack.com/p/how-to-prepare-for-the-next-decade) - A guide to preparing for the most destabilizing chapter in human history
-  - The long-term decision-making process is interesting.
 
 ---
 
