@@ -5,6 +5,19 @@
 
 ## Week 13, 2026
 
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) - a set of advanced quantization algorithms designed for extreme compression of **large language models** and **vector search engines**.
+- [Apple randomly closes bug reports unless you “verify” the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
+- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) - Interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.
+- [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) - Microsoft spent four years stuffing Windows 11 with ads, forced Copilot integrations, and bloatware, now they want applause for promising to remove it.
+  - The announced "fix" plan primarily addresses visible UI annoyances, while core issues like data collection, forced accounts, and file hijacking remain unaddressed as they align with Microsoft's revenue model.
+- [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
+  - > From GitHub CTO in 2025 when they announced they're moving everything to Azure instead of letting GitHub's infrastructure remain independent:
+  - > > For us, availability is job #1, and this migration ensures GitHub remains the fast, reliable platform developers depend on
+  - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
+    - Last 90 days uptime. Last updated Mar 22, 2026
+    - 87 incidents in last 90 days
+    - 90.21% uptime (GitHub Platform)-
+    - > Note that it gets 90% largely off Copilot going down and Actions not working. Actual git has 98.98%, which is still just one 9 but a lot better.
 - [The End of Coding: Andrej Karpathy on Agents, AutoResearch, and the Loopy Era of AI](https://www.youtube.com/watch?v=kwSVtQ7dziU)
   - The End of Apps and an Agent-First World
     - Apps for smart home devices make no sense; they should **only expose APIs** and be structured for agents to call directly
