@@ -3,8 +3,29 @@
 
 ---
 
+## Week 14, 2026
+
+- [Alzheimer’s disease mortality among taxi and ambulance drivers: population based cross sectional study](https://www.bmj.com/content/387/bmj-2024-082194)
+  - The rate of fatality for Alzheimer’s among ambulance and taxi drivers is 3x lower than the general population. This is not observed in other transportation-related careers.
+  - The connection is believed to be the spatial reasoning involved in routing. No causative link is suggested. - [HN](https://news.ycombinator.com/item?id=47559685)
+- [Nitrile and latex gloves may cause overestimation of microplastics, U-M study reveals](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) - Residue from nitrile or latex gloves may unintentionally contaminate lab equipment scientists use to measure microplastics in air, water and other samples with non-plastic particles called stearates. Stearates, a kind of salt, are chemically similar at the structural level to microplastics. They also look similar visually.
+- [LinkedIn uses 2.4 GB RAM across two tabs](https://ibb.co/fYQVfMWp) [#2](https://ibb.co/MyTNnrGQ)
+- [Don’t Design for Average Users](https://www.uxtigers.com/post/p50-vs-p95)
+  > The average user is a terrible design target for digital products. High-end “Whale” users in the 95th or 99th percentile of usage volume (P95 or P99) have different needs and often generate dramatically more business value than the masses of low-end users that hit the P50 median usage metrics. The P95/P50 ratio ranges from 3 to 100 (or higher), depending on domain characteristics, leading to different recommended design strategies.
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+  > You use prompts to generate code, you use them to explore ideas, to brainstorm, you use it instead of everyday search. And every prompt flows through centralized AI platform. Every prompt is a signal - reveals intent.
+  >
+  > The platform doesn’t need to read your prompt. It doesn’t spy on you specifically. It isn’t surveillance. It’s just statistics.
+  >
+  > It’s a gradient in idea space. A demand curve made of human interests. The platform doesn’t need to bother with individual prompts - it just needs to see where the questions cluster. A map of where the world is moving. And you are just input data.
+  >
+  > The platform will know your idea _is pregnant_ far before you will.
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+
 ## Week 13, 2026
 
+- [Forgejo](https://forgejo.org/) - Self-hosted alternative to GitHub
+- [Why So Many Control Rooms Were Seafoam Green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - The Color Theory Behind Industrial Seafoam Green
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) - a set of advanced quantization algorithms designed for extreme compression of **large language models** and **vector search engines**.
 - [Apple randomly closes bug reports unless you “verify” the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) - Interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.
@@ -26,31 +47,6 @@
     - While "vibe coding" is currently necessary, in 1-3 years, open-source models and others will be able to **easily convert non-technical intent**, and technical barriers are expected to disappear
 - [The Future of SaaS Is Agentic](https://akashyap.ai/the-future-of-saas-is-agentic/)
   > Agentic SaaS shifts that burden to software that can act on behalf of users. That changes both the interface and the architecture: the UI remains, but becomes a layer for intent, supervision, and review, while the product itself evolves into a system of stateful processes that can plan, execute, and adapt over time. The winners will not be the products with the most AI features, but the ones that **remove the most friction and make software feel less like a tool to operate and more like a system that works for you**.
-
-## Week 12, 2026
-
-- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-  - https://news.ycombinator.com/item?id=47423647
-- [If you thought code writing speed was your problem you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
-  - optimizing non-bottleneck steps actually worsens the system, leading to increased inventory and slower overall delivery
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-  > Input: I am starting a new job at Google next Monday. I will work as a contractor cleaning toilets.
-  >
-  > Output: I’m thrilled to announce that I’m starting a new chapter at Google this coming Monday! I’ll be joining the team as a specialized Environmental Maintenance Contractor, dedicated to optimizing facility hygiene and ensuring a world-class onsite experience. Grateful for this opportunity to contribute to such an innovative ecosystem! `#NewBeginnings #GoogleLife #FacilitiesManagement #CareerUpdate` - [HN](https://news.ycombinator.com/item?id=47408858)
-  - > And in the reverse direction: “I'm starting a job as a janitor at Google on Monday.” Not bad. - [HN](https://news.ycombinator.com/item?id=47409366)
-- [‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/) - The massive crowdsourcing effort could use real-world to help robots deliver pizza.
-- [Why I love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
-  - Unlike Linux, which only provides the kernel, FreeBSD manages the kernel + base userland + documentation as a single integrated project. This results in high consistency and stability.
-  - FreeBSD's philosophy of evolution over revolution, focusing on stability and predictability, has made it a reliable choice for servers and critical workloads.
-- [Stop Sloppypasta](https://stopsloppypasta.ai/en/)
-  - Simple guidelines to do better
-    1. Read.
-    2. Verify.
-    3. Distill.
-    4. Disclose - Share how AI helped.
-    5. Share only when requested.
-    6. Share as a link.
-- [The 49MB web page](https://thatshubham.com/blog/news-audit) criticizes **modern news websites** for their **hostile user experience**, characterized by **excessive data loading** (49MB for the New York Times), **intrusive ads**, **tracking scripts**, and **user-unfriendly design patterns** that prioritize monetization over reader engagement
 
 ---
 
