@@ -3,50 +3,23 @@
 
 ---
 
-## Week 14, 2026
+## Week 16, 2026
 
-- [Alzheimer’s disease mortality among taxi and ambulance drivers: population based cross sectional study](https://www.bmj.com/content/387/bmj-2024-082194)
-  - The rate of fatality for Alzheimer’s among ambulance and taxi drivers is 3x lower than the general population. This is not observed in other transportation-related careers.
-  - The connection is believed to be the spatial reasoning involved in routing. No causative link is suggested. - [HN](https://news.ycombinator.com/item?id=47559685)
-- [Nitrile and latex gloves may cause overestimation of microplastics, U-M study reveals](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) - Residue from nitrile or latex gloves may unintentionally contaminate lab equipment scientists use to measure microplastics in air, water and other samples with non-plastic particles called stearates. Stearates, a kind of salt, are chemically similar at the structural level to microplastics. They also look similar visually.
-- [LinkedIn uses 2.4 GB RAM across two tabs](https://ibb.co/fYQVfMWp) [#2](https://ibb.co/MyTNnrGQ)
-- [Don’t Design for Average Users](https://www.uxtigers.com/post/p50-vs-p95)
-  > The average user is a terrible design target for digital products. High-end “Whale” users in the 95th or 99th percentile of usage volume (P95 or P99) have different needs and often generate dramatically more business value than the masses of low-end users that hit the P50 median usage metrics. The P95/P50 ratio ranges from 3 to 100 (or higher), depending on domain characteristics, leading to different recommended design strategies.
-- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-  > You use prompts to generate code, you use them to explore ideas, to brainstorm, you use it instead of everyday search. And every prompt flows through centralized AI platform. Every prompt is a signal - reveals intent.
-  >
-  > The platform doesn’t need to read your prompt. It doesn’t spy on you specifically. It isn’t surveillance. It’s just statistics.
-  >
-  > It’s a gradient in idea space. A demand curve made of human interests. The platform doesn’t need to bother with individual prompts - it just needs to see where the questions cluster. A map of where the world is moving. And you are just input data.
-  >
-  > The platform will know your idea _is pregnant_ far before you will.
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- [Backblaze has quietly stopped backing up your data](https://rareese.com/posts/backblaze/)
+  > Despite claiming to backup all your data, Backblaze quietly stopped backing up OneDrive and Dropbox folders - along with potentially many other things.
+- [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
+  > The Copilot button in the toolbar is gone, and instead, you'll find a writing icon which will present you AI-powered writing assistance, such as rewrite, summarize, tone modification, format configuration, and more. Additionally, "AI features" in Notepad settings has been renamed to "Advanced features" and it allows users to toggle off AI capabilities within the app.
+  - > Microsoft put AI, Tabs, a login portal, a 'search with bing' action and text formatting on notepad before a 'redo' button to pair with the 'undo' action. That says everything about the current product priorities that you need to know. - [hn](https://news.ycombinator.com/item?id=47756738)
 
-## Week 13, 2026
+## Week 15, 2026
 
-- [Forgejo](https://forgejo.org/) - Self-hosted alternative to GitHub
-- [Why So Many Control Rooms Were Seafoam Green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - The Color Theory Behind Industrial Seafoam Green
-- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) - a set of advanced quantization algorithms designed for extreme compression of **large language models** and **vector search engines**.
-- [Apple randomly closes bug reports unless you “verify” the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
-- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) - Interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.
-- [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) - Microsoft spent four years stuffing Windows 11 with ads, forced Copilot integrations, and bloatware, now they want applause for promising to remove it.
-  - The announced "fix" plan primarily addresses visible UI annoyances, while core issues like data collection, forced accounts, and file hijacking remain unaddressed as they align with Microsoft's revenue model.
-- [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
-  - > From GitHub CTO in 2025 when they announced they're moving everything to Azure instead of letting GitHub's infrastructure remain independent:
-  - > > For us, availability is job #1, and this migration ensures GitHub remains the fast, reliable platform developers depend on
-  - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
-    - Last 90 days uptime. Last updated Mar 22, 2026
-    - 87 incidents in last 90 days
-    - 90.21% uptime (GitHub Platform)-
-    - > Note that it gets 90% largely off Copilot going down and Actions not working. Actual git has 98.98%, which is still just one 9 but a lot better.
-- [The End of Coding: Andrej Karpathy on Agents, AutoResearch, and the Loopy Era of AI](https://www.youtube.com/watch?v=kwSVtQ7dziU)
-  - The End of Apps and an Agent-First World
-    - Apps for smart home devices make no sense; they should **only expose APIs** and be structured for agents to call directly
-    - Since LLMs can drive tools and perform complex tasks by calling the right ones, custom-built apps are currently being **overproduced**
-    - Since customers are no longer humans but **agents acting on behalf of humans**, the entire industry needs to be restructured accordingly
-    - While "vibe coding" is currently necessary, in 1-3 years, open-source models and others will be able to **easily convert non-technical intent**, and technical barriers are expected to disappear
-- [The Future of SaaS Is Agentic](https://akashyap.ai/the-future-of-saas-is-agentic/)
-  > Agentic SaaS shifts that burden to software that can act on behalf of users. That changes both the interface and the architecture: the UI remains, but becomes a layer for intent, supervision, and review, while the product itself evolves into a system of stateful processes that can plan, execute, and adapt over time. The winners will not be the products with the most AI features, but the ones that **remove the most friction and make software feel less like a tool to operate and more like a system that works for you**.
+- [The April Cools' Club](https://www.aprilcools.club/)
+- [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796)
+  - [HN](https://news.ycombinator.com/item?id=47660925)
+- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+  - [HN](https://news.ycombinator.com/item?id=47655466)
+- [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+  > Update: Since this was published, the lovely internet community has let me know we were missing two Copilots: Gaming Copilot and Microsoft Dragon Copilot (🤦‍♀️). This brings the total to 80. The chart has been updated and I'll continue to update it as Microsoft continues to Copilot.
 
 ---
 
