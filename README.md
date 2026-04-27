@@ -3,6 +3,12 @@
 
 ---
 
+## Week 18, 2026
+
+- [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
+- [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
+  - [Controversies surrounding GoDaddy](https://en.wikipedia.org/wiki/Controversies_surrounding_GoDaddy)
+
 ## Week 16, 2026
 
 - [Backblaze has quietly stopped backing up your data](https://rareese.com/posts/backblaze/)
@@ -10,16 +16,6 @@
 - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
   > The Copilot button in the toolbar is gone, and instead, you'll find a writing icon which will present you AI-powered writing assistance, such as rewrite, summarize, tone modification, format configuration, and more. Additionally, "AI features" in Notepad settings has been renamed to "Advanced features" and it allows users to toggle off AI capabilities within the app.
   - > Microsoft put AI, Tabs, a login portal, a 'search with bing' action and text formatting on notepad before a 'redo' button to pair with the 'undo' action. That says everything about the current product priorities that you need to know. - [hn](https://news.ycombinator.com/item?id=47756738)
-
-## Week 15, 2026
-
-- [The April Cools' Club](https://www.aprilcools.club/)
-- [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796)
-  - [HN](https://news.ycombinator.com/item?id=47660925)
-- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
-  - [HN](https://news.ycombinator.com/item?id=47655466)
-- [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
-  > Update: Since this was published, the lovely internet community has let me know we were missing two Copilots: Gaming Copilot and Microsoft Dragon Copilot (🤦‍♀️). This brings the total to 80. The chart has been updated and I'll continue to update it as Microsoft continues to Copilot.
 
 ---
 
