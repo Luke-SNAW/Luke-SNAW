@@ -3,6 +3,16 @@
 
 ---
 
+## Week 19, 2026
+
+- [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews) shares key learnings about **behavioral interviews**, emphasizing that **how candidates present themselves** and their **fit** with the role and company are crucial for securing an offer, often outweighing technical skills alone.
+- [LinkedIn is searching your browser extensions](https://browsergate.eu/)
+- [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+- [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
+  > The [Sapir-Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity), in its simplest form, is the idea that the language you speak influences the thoughts you think. This post is about a twist on this idea, that I’m calling “Inverse Sapir-Whorf” (for want of a better term), and how we see it in computer programming languages.
+  >
+  > gendered pronouns and nouns - In English, in normal speech you are going to use “he” or “she” when referring to a specific person. “Singular they” does exist, but it’s very unnatural if you are talking about a specific person of known or assumed sex.
+
 ## Week 18, 2026
 
 - HERMES.md in commit messages causes requests to route to extra usage billing
@@ -10,13 +20,6 @@
 - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
 - [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
   - [Controversies surrounding GoDaddy](https://en.wikipedia.org/wiki/Controversies_surrounding_GoDaddy)
-## Week 16, 2026
-
-- [Backblaze has quietly stopped backing up your data](https://rareese.com/posts/backblaze/)
-  > Despite claiming to backup all your data, Backblaze quietly stopped backing up OneDrive and Dropbox folders - along with potentially many other things.
-- [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
-  > The Copilot button in the toolbar is gone, and instead, you'll find a writing icon which will present you AI-powered writing assistance, such as rewrite, summarize, tone modification, format configuration, and more. Additionally, "AI features" in Notepad settings has been renamed to "Advanced features" and it allows users to toggle off AI capabilities within the app.
-  - > Microsoft put AI, Tabs, a login portal, a 'search with bing' action and text formatting on notepad before a 'redo' button to pair with the 'undo' action. That says everything about the current product priorities that you need to know. - [hn](https://news.ycombinator.com/item?id=47756738)
 
 ---
 
