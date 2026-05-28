@@ -3,35 +3,18 @@
 
 ---
 
+## Week 22, 2026
+
+- [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) - **Shamir's Secret Sharing** is a cryptographic method that splits a **secret** into multiple pieces using **polynomials**, ensuring only a specific threshold of shares can reconstruct the original value. By hiding the secret at the vertical axis intercept, the scheme guarantees that any number of shares below the threshold reveals **zero information** about the secret.
+- [How Private Equity Bought America’s Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
+  > When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.  
+  > The Business Model: Brilliant for Investors, Brutal for Everyone Else
+
 ## Week 21, 2026
 
 - [Apparently Google hates us now](https://xcancel.com/pokemoncentral/status/2057123807404638250) - the recent deindexing of the Italian fan wiki Pokémon Central by Google
   - Many participants suggest that Google has become indifferent to site owners, often leaving them with no clear recourse or explanation for sudden visibility losses. - [HN](https://news.ycombinator.com/item?id=48210263)
 - [Ascetic Computing](https://ratfactor.com/ascetic-computing) is a philosophy of **simplicity** and **focus** that prioritizes personal standards and deliberate tool usage over the constant pursuit of new technology. By embracing **self-imposed constraints** and reliable, long-lasting software, users can achieve greater creative freedom and avoid the distractions of modern digital life.
-
-## Week 20, 2026
-
-- [Better Browser Caching with No-Vary-Search](https://csswizardry.com/2026/05/better-browser-caching-with-no-vary-search/)  
-  Imagine a landing page that is heavily used in campaigns, ads, email, and social posts:
-  - `/offer?utm_source=google`
-  - `/offer?utm_source=chatgpt`
-  - `/offer?utm_source=linkedin`
-
-  If those all return the same page, you can tell the cache to ignore `utm_source`:
-
-  ```
-  No-Vary-Search: params=("utm_source")
-  ```
-
-- [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
-  > a fiction writer rushes to complete a first draft (often called a vomit draft) and later extracts what’s working and gets rid of what’s not. There’s an editing process after the first initial rapid write. The editor’s job is to take the bits that are working well and shape it all into a cohesive whole.  
-  > What if we had one system just for speed? Everyone focused on bringing things to life could work here. AI agents, our own generated and unreviewed code, junior devs, marketing etc.
-- [You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
-  > You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed.
-- [Lorem Ipsum Makes LLMs Smarter. No, Seriously.](https://dev.to/ww-w-ai/lorem-ipsum-makes-llms-smarter-no-seriously-1j8l)
-  - LoPE는 RL 훈련 시 프롬프트 앞에 Lorem ipsum dolor sit amet ... 을 삽입하는 기법. 어려운 문제에서 모든 샘플이 실패하면 학습 신호가 0이 되는 "zero-advantage" 문제를 해결
-  - 라틴어 기반의 "언어처럼 보이지만 무의미한 텍스트"가 효과적인 이유와 모델의 기본 추론 궤도를 교란해 탐색 다양성을 확보하는 메커니즘이 흥미롭다.
-  - [Nonsense Helps](https://arxiv.org/abs/2605.05566): Prompt Space Perturbation Broadens Reasoning Exploration
 
 ---
 
