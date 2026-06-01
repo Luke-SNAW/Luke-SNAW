@@ -3,18 +3,19 @@
 
 ---
 
+## Week 23, 2026
+
+- [We replaced Redis with MySQL for inventory reservations—and it scaled](https://shopify.engineering/scaling-inventory-reservations) - How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.
+- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
+  > the beauty of life is found in all of these subtle imperfections
+
 ## Week 22, 2026
 
+- [Velocipedia](https://www.gianlucagimini.it/portfolio-item/velocipedia/) explores how the human brain struggles to recall the complex structure of a bicycle through a collection of hundreds of crowd-sourced, hand-drawn sketches.
 - [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) - **Shamir's Secret Sharing** is a cryptographic method that splits a **secret** into multiple pieces using **polynomials**, ensuring only a specific threshold of shares can reconstruct the original value. By hiding the secret at the vertical axis intercept, the scheme guarantees that any number of shares below the threshold reveals **zero information** about the secret.
 - [How Private Equity Bought America’s Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
   > When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.  
   > The Business Model: Brilliant for Investors, Brutal for Everyone Else
-
-## Week 21, 2026
-
-- [Apparently Google hates us now](https://xcancel.com/pokemoncentral/status/2057123807404638250) - the recent deindexing of the Italian fan wiki Pokémon Central by Google
-  - Many participants suggest that Google has become indifferent to site owners, often leaving them with no clear recourse or explanation for sudden visibility losses. - [HN](https://news.ycombinator.com/item?id=48210263)
-- [Ascetic Computing](https://ratfactor.com/ascetic-computing) is a philosophy of **simplicity** and **focus** that prioritizes personal standards and deliberate tool usage over the constant pursuit of new technology. By embracing **self-imposed constraints** and reliable, long-lasting software, users can achieve greater creative freedom and avoid the distractions of modern digital life.
 
 ---
 
