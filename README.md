@@ -3,6 +3,20 @@
 
 ---
 
+## Week 24, 2026
+
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+  > Strawberries are delicious, and they have a very complex flavor profile. They have hundreds, if not thousands, of strains, and for every single individual strawberry, there are thousands of unique compounds that contribute to its flavor. There are white ones, red ones, some are white on the inside, some are red, some are sour, some are sweet, some are a little bitter, some are very aromatic, some are very juicy, some are very firm, some are very soft. Even if the differences within a single bushel of strawberries are nigh imperceptible, the experience of eating one is complex and layered. And each and every one of the strawberries you put in a cake, blend into a smoothie, or eat on its own is, in a way, a beautifully imperfect, unique, analog experience. You might not notice it, you might not care, but it's there, and it matters — even if just that tiny bit.
+  >
+  > But if you were to decompose a strawberry, extract the aromatic compound that smells most like a strawberry, analyze its formula, devise a way to synthesize it, and make it commercially viable, you could put that in every food as a substitute for the meticulous work of collecting good strawberries and the complex palate one has. It would be much cheaper to manufacture, and it would give you a very concentrated hit of strawberry flavor. Most people wouldn't be able to tell much of a difference, and it would probably still be delicious. If you're not greedy.
+  >
+  > In fact, this is exactly what happens in the food industry. They extract the compound that gives strawberries their flavor and put it in everything from cheap candy to expensive desserts.
+  >
+  > But it would also completely erase everything else about the experience of eating a strawberry. The texture, the juiciness, the complexity of the flavor, the imperfections, the joy of finding a particularly good one, the cosmic horror of eating a wormy one, the nostalgia of having your grandma's strawberry jam with dozens of individually unique strawberries in it. All of that is lost and condensed into a single, pure hit of strawberry flavor. Tasty? Maybe. But it's not a strawberry anymore. It's just a chemical that kind of tastes like a strawberry. Soon enough, you forget what one actually tastes like. Or worse, you prefer the chemicals. Or even worse, you can't even find real strawberries anymore because the market is flooded with synthetic replacements. Or even worser, the real ones have long gone extinct because no one wanted to grow them anymore when the synthetic version was cheaper and more convenient. And whoop-dee-doo, you've erased about 500 individual human experiences and replaced them with a single, shared one. And that's just strawberries.
+  >
+  > This is what dopamine fracking does to culture, hobbies, and even relationships, which are so much more complex because they are so deeply abstract. It extracts the most concentrated hit of dopamine and puts it in everything, while erasing all the complexity, nuance, and beauty that made it special in the first place. And the more we do it, the more we forget what the original experience was like, and the more we prefer the synthetic version, and the worse off we are. It's a vicious cycle that leads to a homogenized, commodified culture that is devoid of meaning and connection.
+- [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) - [Scoped Commits](https://scopedcommits.com/)
+
 ## Week 23, 2026
 
 - [The Desperation of NYTimes](https://rozumem.xyz/posts/16) criticizes the publication for forcing **onboarding marketing emails** on new subscribers without an **opt-out option**.
@@ -18,21 +32,20 @@
 - [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
   > the beauty of life is found in all of these subtle imperfections
 
-## Week 22, 2026
-
-- [Velocipedia](https://www.gianlucagimini.it/portfolio-item/velocipedia/) explores how the human brain struggles to recall the complex structure of a bicycle through a collection of hundreds of crowd-sourced, hand-drawn sketches.
-- [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) - **Shamir's Secret Sharing** is a cryptographic method that splits a **secret** into multiple pieces using **polynomials**, ensuring only a specific threshold of shares can reconstruct the original value. By hiding the secret at the vertical axis intercept, the scheme guarantees that any number of shares below the threshold reveals **zero information** about the secret.
-- [How Private Equity Bought America’s Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
-  > When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.  
-  > The Business Model: Brilliant for Investors, Brutal for Everyone Else
-
 ---
+
+- [아늑함을 즐김](https://www.youtube.com/watch?v=Gcd0uIZwUSI) 空
+
+- 현실은 인간의 연산으로 완전히 파악할 수 없는 복잡계. 주어진 상황과 능력으로 할 수 있는 최선의 적응은 단순함과 꾸준함.
+  - 파산을 면하는 선에서 여러가지를 해보고 자신에게 맞는 걸 위주로 꾸준히. 그를 위해 단순, 편안, 쾌적함이 필요.
 
 - 🥱 -> 🤔💡🌱 — [On The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 
 > I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely. — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
 
 > We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
+
+> The texture, the juiciness, the complexity of the flavor, the imperfections, the joy of finding a particularly good one, the cosmic horror of eating a wormy one, the nostalgia of having your grandma's strawberry jam with dozens of individually unique strawberries in it. - [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
 
 > Simplicity, even if it sacrifices some ideal functionality has better survival characteristics than the-right-thing. — [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
