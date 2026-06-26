@@ -3,6 +3,13 @@
 
 ---
 
+## Week 26, 2026
+
+- [Become a Good Photographer, Part Six: Don’t Learn From Teachers](https://photoni.st/index.php/2026/06/19/become-a-good-photographer-part-six-dont-learn-from-teachers/) - To improve as a photographer, you should **stop following generic tutorials** designed for engagement and instead **study the personal processes** of experienced photographers. By analyzing how others connect **intention to execution**, you develop the **critical discernment** necessary to define your own artistic path.
+- [The 100,000 whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+  > The similarities in the collage go far beyond the choice of titles: for example, all the covers in the top row feature a roaring dinosaur in the top left corner of the design. There are many other clusters in the data, too. Look for a recurring red-and-white cartoon rocket, a golden retriever, a lion, and so forth. The similarities extend even to author names: Ethan Bright, Nolan Bright, Pamela Bright, Daniel Bright, Thomas Bright, Andrew W. Bright, Mayan Bright, Mary Bright, Levi Bright — the Brights must be a big and exceptionally talented family.
+  - [AI children's books, body horror edition](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition) discusses the disturbing prevalence of low-quality, AI-generated imagery in bestselling children's encyclopedias. The author highlights how these books rely on misleading marketing and synthetic content, potentially negatively impacting young readers.
+
 ## Week 25, 2026
 
 - [Nobody clicks your share buttons](https://ankursethi.com/blog/nobody-clicks-your-share-buttons/)
@@ -29,20 +36,6 @@
   > I reported the repo to GitHub and the recruiter to LinkedIn. So far nothing has changed and the code is still up.
   >
   > - [6 months as the CEO of LinkedIn!](https://chrisduffycomedy.com/blog/2016/11/2/6-months-as-the-ceo-of-linkedin)
-
-## Week 24, 2026
-
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-  > Strawberries are delicious, and they have a very complex flavor profile. They have hundreds, if not thousands, of strains, and for every single individual strawberry, there are thousands of unique compounds that contribute to its flavor. There are white ones, red ones, some are white on the inside, some are red, some are sour, some are sweet, some are a little bitter, some are very aromatic, some are very juicy, some are very firm, some are very soft. Even if the differences within a single bushel of strawberries are nigh imperceptible, the experience of eating one is complex and layered. And each and every one of the strawberries you put in a cake, blend into a smoothie, or eat on its own is, in a way, a beautifully imperfect, unique, analog experience. You might not notice it, you might not care, but it's there, and it matters — even if just that tiny bit.
-  >
-  > But if you were to decompose a strawberry, extract the aromatic compound that smells most like a strawberry, analyze its formula, devise a way to synthesize it, and make it commercially viable, you could put that in every food as a substitute for the meticulous work of collecting good strawberries and the complex palate one has. It would be much cheaper to manufacture, and it would give you a very concentrated hit of strawberry flavor. Most people wouldn't be able to tell much of a difference, and it would probably still be delicious. If you're not greedy.
-  >
-  > In fact, this is exactly what happens in the food industry. They extract the compound that gives strawberries their flavor and put it in everything from cheap candy to expensive desserts.
-  >
-  > But it would also completely erase everything else about the experience of eating a strawberry. The texture, the juiciness, the complexity of the flavor, the imperfections, the joy of finding a particularly good one, the cosmic horror of eating a wormy one, the nostalgia of having your grandma's strawberry jam with dozens of individually unique strawberries in it. All of that is lost and condensed into a single, pure hit of strawberry flavor. Tasty? Maybe. But it's not a strawberry anymore. It's just a chemical that kind of tastes like a strawberry. Soon enough, you forget what one actually tastes like. Or worse, you prefer the chemicals. Or even worse, you can't even find real strawberries anymore because the market is flooded with synthetic replacements. Or even worser, the real ones have long gone extinct because no one wanted to grow them anymore when the synthetic version was cheaper and more convenient. And whoop-dee-doo, you've erased about 500 individual human experiences and replaced them with a single, shared one. And that's just strawberries.
-  >
-  > This is what dopamine fracking does to culture, hobbies, and even relationships, which are so much more complex because they are so deeply abstract. It extracts the most concentrated hit of dopamine and puts it in everything, while erasing all the complexity, nuance, and beauty that made it special in the first place. And the more we do it, the more we forget what the original experience was like, and the more we prefer the synthetic version, and the worse off we are. It's a vicious cycle that leads to a homogenized, commodified culture that is devoid of meaning and connection.
-- [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) - [Scoped Commits](https://scopedcommits.com/)
 
 ---
 
