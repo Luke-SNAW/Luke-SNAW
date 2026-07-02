@@ -3,6 +3,13 @@
 
 ---
 
+## Week 27, 2026
+
+- [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+  > Great buildup on Sony's side to gain trust in this move in the gaming community ahead of this announcement when just this week they again pulled hundreds of "purchased" movies from customer's libraries without refund, reminding everyone that digital content is rented, not owned. https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/ - [HN](https://news.ycombinator.com/item?id=48751390)
+  >
+  > Sony also used to mock digital only approaches. -https://www.youtube.com/watch?v=kWSIFh8ICaA
+
 ## Week 26, 2026
 
 - [Become a Good Photographer, Part Six: Don’t Learn From Teachers](https://photoni.st/index.php/2026/06/19/become-a-good-photographer-part-six-dont-learn-from-teachers/) - To improve as a photographer, you should **stop following generic tutorials** designed for engagement and instead **study the personal processes** of experienced photographers. By analyzing how others connect **intention to execution**, you develop the **critical discernment** necessary to define your own artistic path.
@@ -10,36 +17,11 @@
   > The similarities in the collage go far beyond the choice of titles: for example, all the covers in the top row feature a roaring dinosaur in the top left corner of the design. There are many other clusters in the data, too. Look for a recurring red-and-white cartoon rocket, a golden retriever, a lion, and so forth. The similarities extend even to author names: Ethan Bright, Nolan Bright, Pamela Bright, Daniel Bright, Thomas Bright, Andrew W. Bright, Mayan Bright, Mary Bright, Levi Bright — the Brights must be a big and exceptionally talented family.
   - [AI children's books, body horror edition](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition) discusses the disturbing prevalence of low-quality, AI-generated imagery in bestselling children's encyclopedias. The author highlights how these books rely on misleading marketing and synthetic content, potentially negatively impacting young readers.
 
-## Week 25, 2026
-
-- [Nobody clicks your share buttons](https://ankursethi.com/blog/nobody-clicks-your-share-buttons/)
-  > - The UK government ran one of the most thorough studies on this. When GOV.UK added social sharing buttons, they [tracked usage for 10 weeks](https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/) across 6.8 million pageviews. The share buttons got clicked 14,078 times. That’s a 0.21% usage rate.
-  > - Moovweb found the same thing when they [analyzed 61 million mobile sessions](https://www.localrobot.com/do-people-actually-click-social-sharing-buttons/). Only 0.2% of mobile users interacted with social sharing at all.
-  > - Luke Wroblewski, the interaction designer and author, [crowdsourced data from his readers](https://blogs.ed.ac.uk/website-communications/social-share-buttons/) and landed on an average of 0.25% across 18 million pageviews.
-  >
-  >   What do people do instead? They copy and paste URLs or use the share button in their browser.
-- [the last quiet thing](https://www.terrygodier.com/the-last-quiet-thing/) argues that modern technology has shifted from finished products to dependent systems that require constant **unpaid maintenance** and labor. This exhaustion is not a personal failure, but a direct result of an industry that designs devices to perpetually demand the user's **attention and management**.
-- [I Fired Google](https://www.theartofdoingstuff.com/i-fired-google/)
-  > One of the most irritating developments of modern life is the way companies keep improving things that were already working. Nobody asked for New Coke.
-- [Bubbles](https://bubbles.town/) - 5033 independent, personal blogs. One front page. Ranked by votes and freshness, shaped by you.
-- [Yes, Buy Them a Coffee: Support and Mutual Aid on the IndieWeb](https://brennan.day/yes-buy-them-a-coffee-support-and-mutual-aid-on-the-indieweb/)
-  > The next time you read something on a personal site that matters to you, and you see a small link at the bottom, I want you to consider: what kind of internet are you building with your dollar? What kind of world?  
-  > Buy them a coffee. Or don't. If you can't, if you won't, that's fine.
-- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/) - By embracing **genuine curiosity** and respecting personal rhythms, individuals can overcome the fear of rejection to build **authentic relationships** beyond social media algorithms.
-- [Apple’s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
-  - https://support.apple.com/en-gb/guide/iphone/iph55564cb22/ios
-  - https://f-droid.org/en/packages/dev.davidv.motionsickness/
-- [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
-  > Like it basically jail broke the "no security vul guard rails" not in any clever way but just by fixing them, producing exploit code just by writing test cases making sure it's fixed. So you just need to look at the code & tests as a human to get vulnerabilities and exploits(components).  
-  > What makes this so beautiful IMHO is that it's a trivial jail break, but also a close to unfixable. At least not without making the model close to useless for normal development (it refuses to fix bugs/write code) or making it a major liability (it silently pretends it didn't see bugs and silently avoids fixing it, which for a human would count as intentional sabotage and might involve criminal liability). - [HN](https://news.ycombinator.com/item?id=48553494)
-- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-  > I reported the repo to GitHub and the recruiter to LinkedIn. So far nothing has changed and the code is still up.
-  >
-  > - [6 months as the CEO of LinkedIn!](https://chrisduffycomedy.com/blog/2016/11/2/6-months-as-the-ceo-of-linkedin)
-
 ---
 
 - [아늑함을 즐김](https://www.youtube.com/watch?v=Gcd0uIZwUSI) 空
+
+> We love to see the process, not just the result. The imperfections in your work can be beautiful if they show **your struggle** for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
 - 현실은 인간의 연산으로 완전히 파악할 수 없는 복잡계. 주어진 상황과 능력으로 할 수 있는 최선의 적응은 단순함과 꾸준함.
   - 파산을 면하는 선에서 여러가지를 해보고 자신에게 맞는 걸 위주로 꾸준히. 그를 위해 단순, 편안, 쾌적함이 필요.
@@ -47,8 +29,6 @@
 - 🥱 -> 🤔💡🌱 — [On The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 
 > I've often described my motivation for building software to others using imagery: I like to go find a secluded beach, build a large, magnificent sand castle, and then walk away. Will anyone notice? Probably not. Will the waves eventually destroy it? Yep. Did I still get immense satisfaction? Absolutely. — [aliasxneo](https://news.ycombinator.com/item?id=41497113)
-
-> We love to see the process, not just the result. The imperfections in your work can be beautiful if they show your struggle for perfection, not a lack of care. — [ralphammer](https://ralphammer.com/is-perfection-boring/)
 
 > The texture, the juiciness, the complexity of the flavor, the imperfections, the joy of finding a particularly good one, the cosmic horror of eating a wormy one, the nostalgia of having your grandma's strawberry jam with dozens of individually unique strawberries in it. - [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
 
