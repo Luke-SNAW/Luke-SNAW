@@ -3,17 +3,26 @@
 
 ---
 
-## Week 28, 2026
+## Week 36, 2026
 
-- [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html) - Object-Relational Mapping (ORM) tools often become a hindrance, as they struggle with attribute creep, inefficient queries, and complex transaction management.
-- [Holes](https://xkcd.com/3266/large/) - https://www.explainxkcd.com/wiki/index.php/3266:_Holes
+- [In this discussion](https://youtu.be/f84W0KtxDls), Yuval Noah Harari warns that AI functions as an agent capable of autonomously reshaping civilization by controlling the information and language that underpin human society. He emphasizes that as intelligence becomes cheap and abundant, humanity must prioritize the development of wisdom and AI safety to navigate this unprecedented shift in power.
+- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/) - The **modern internet** has evolved into a **predatory system** that industrializes human vulnerability, using **algorithmic loops** to convert fear, loneliness, and greed into recurring revenue. This **grift economy** traps individuals in cycles of **compulsive consumption and distribution**, where social interactions are increasingly commodified and detached from reality.
 
-## Week 27, 2026
+## Week 35, 2026
 
-- [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
-  > Great buildup on Sony's side to gain trust in this move in the gaming community ahead of this announcement when just this week they again pulled hundreds of "purchased" movies from customer's libraries without refund, reminding everyone that digital content is rented, not owned. https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/ - [HN](https://news.ycombinator.com/item?id=48751390)
-  >
-  > Sony also used to mock digital only approaches. -https://www.youtube.com/watch?v=kWSIFh8ICaA
+- [20,585 New Subscribers in 90 Days: Here's Everything I Did](https://kaguura.substack.com/p/90-days-20585-new-subscribers-heres)
+- [It is a sign of the times that Amazon gets to call this fair use while huge corporations try to sue the Internet Archive out of business.](https://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+  > Amazon is buying massive quantities of books, scanning them for AI training data, and destroying them in the process.
+  > [404media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+- [Actually Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) leverage the **SQLite** format to store both the program logic and its runtime state within a single file.
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- [Homerow](https://www.homerow.app/) - Keyboard shortcuts for your entire Mac
+- [Andreessen Horowitz is shaping AI policy — while investing in a bleak vision of the future](https://www.modelrepublic.org/articles/a16z-portfolio) - The firm’s investment portfolio is full of companies that have exploited legal loopholes, created disturbing products, and broken the law.
+- [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) - https://www.legacysurvey.org/viewer
+  > Covering roughly 75% of the sky in visible and near-infrared light, the updated map provides a deep view of the extragalactic universe not blocked by the dust and stars of our own Milky Way.
+- [I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+  > It’s nothing short of an indictment of our society at large that Aaron Swartz, one of the co-creators of the RSS protocol (among many other things) was effectively assasinated by our legal system for “illegally” downloading about [70 gigabytes of academic articles from JSTOR](https://web.archive.org/web/20150912185122/https://www.politico.com/blogs/under-the-radar/2011/07/mit-also-pressing-charges-against-hacking-suspect-037709) - charged so excessively to be made an example of (we're talking 35 years in prison, $1million USD fine, and asset forfeiture) to the point where he felt the need to take his own life rather than deal with the court circus and impending financial ruin - while Facebook (oh I’m sorry Meta) has [torrented 80 TERABYTES of books to train their AI models](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/) with virtually no consequences other than a [court case](https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai) they will most likely get some sort of financial slap on the wrist for while their AI models continue to print them money.
+- [AliExpress webpage keeping multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 
 ---
 
